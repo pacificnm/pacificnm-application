@@ -1,0 +1,744 @@
+2016-12-12T04:09:09-08:00 INFO (6): Start Update at 12/12/2016 04:09 am
+2016-12-12T04:09:09-08:00 INFO (6): Done with database updates
+2016-12-12T04:09:09-08:00 INFO (6): Done with module updates
+2016-12-12T04:09:09-08:00 INFO (6): Comleted Update at 12/12/2016 04:09 am
+2016-12-12T04:10:52-08:00 INFO (6): Start Update at 12/12/2016 04:10 am
+2016-12-12T04:11:21-08:00 INFO (6): Start Update at 12/12/2016 04:11 am
+2016-12-12T04:11:21-08:00 INFO (6): Done with database updates
+2016-12-12T04:11:21-08:00 INFO (6): Done with module updates
+2016-12-12T04:11:21-08:00 INFO (6): Comleted Update at 12/12/2016 04:11 am
+2016-12-12T04:13:32-08:00 INFO (6): Start Update at 12/12/2016 04:13 am
+2016-12-12T04:13:32-08:00 INFO (6): Done with database updates
+2016-12-12T04:13:32-08:00 INFO (6): Done with module updates
+2016-12-12T04:13:32-08:00 INFO (6): Comleted Update at 12/12/2016 04:13 am
+2016-12-12T04:14:26-08:00 INFO (6): Start Update at 12/12/2016 04:14 am
+2016-12-12T04:14:26-08:00 INFO (6): Done with database updates
+2016-12-12T04:14:26-08:00 INFO (6): Done with module updates
+2016-12-12T04:14:26-08:00 INFO (6): Comleted Update at 12/12/2016 04:14 am
+2016-12-12T04:15:18-08:00 INFO (6): Start Update at 12/12/2016 04:15 am
+2016-12-12T04:15:18-08:00 INFO (6): Done with database updates
+2016-12-12T04:15:18-08:00 INFO (6): Done with module updates
+2016-12-12T04:15:18-08:00 INFO (6): Comleted Update at 12/12/2016 04:15 am
+2016-12-12T04:28:05-08:00 INFO (6): Start Update at 12/12/2016 04:28 am
+2016-12-12T04:28:05-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T04:28:05-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T04:28:05-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T04:28:05-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T04:28:05-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T04:28:05-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T04:28:05-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T04:28:05-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T04:28:05-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T04:28:05-08:00 INFO (6): Updateing moudule Application
+2016-12-12T04:28:05-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T04:28:05-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T04:28:05-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T04:28:05-08:00 INFO (6): Updateing moudule Config
+2016-12-12T04:28:05-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T04:28:05-08:00 INFO (6): Updateing moudule Install
+2016-12-12T04:28:05-08:00 INFO (6): Updateing moudule Load
+2016-12-12T04:28:05-08:00 INFO (6): Updateing moudule Update
+2016-12-12T04:28:05-08:00 INFO (6): Done with database updates
+2016-12-12T04:28:05-08:00 INFO (6): Install ACLS
+2016-12-12T04:28:05-08:00 INFO (6): Installed resource home
+2016-12-12T04:28:05-08:00 INFO (6): Installed rule guest allowed home
+2016-12-12T04:28:05-08:00 INFO (6): Done installing ACLS
+2016-12-12T04:28:05-08:00 INFO (6): Done with module updates
+2016-12-12T04:28:05-08:00 INFO (6): Comleted Update at 12/12/2016 04:28 am
+2016-12-12T05:12:06-08:00 INFO (6): Start Update at 12/12/2016 05:12 am
+2016-12-12T05:12:06-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T05:12:06-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T05:12:06-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T05:12:06-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T05:12:06-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T05:12:06-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T05:12:06-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T05:12:06-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T05:12:06-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T05:12:06-08:00 INFO (6): Updateing moudule Application
+2016-12-12T05:12:06-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T05:12:06-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T05:12:06-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T05:12:06-08:00 INFO (6): Updateing moudule Config
+2016-12-12T05:12:06-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T05:12:06-08:00 INFO (6): Updateing moudule Install
+2016-12-12T05:12:06-08:00 INFO (6): Updateing moudule Load
+2016-12-12T05:12:06-08:00 INFO (6): Updateing moudule Update
+2016-12-12T05:12:06-08:00 INFO (6): Done with database updates
+2016-12-12T05:12:06-08:00 INFO (6): Install ACLS
+2016-12-12T05:12:06-08:00 INFO (6): Installed rule administrator allowed home
+2016-12-12T05:12:06-08:00 INFO (6): Done installing ACLS
+2016-12-12T05:12:06-08:00 INFO (6): Done with module updates
+2016-12-12T05:12:06-08:00 INFO (6): Comleted Update at 12/12/2016 05:12 am
+2016-12-12T05:25:16-08:00 INFO (6): Start Update at 12/12/2016 05:25 am
+2016-12-12T05:25:16-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T05:25:16-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T05:25:16-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T05:25:16-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T05:25:16-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T05:25:16-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T05:25:16-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T05:25:16-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T05:25:16-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T05:25:16-08:00 INFO (6): Updateing moudule Application
+2016-12-12T05:25:16-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T05:25:16-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T05:25:16-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T05:25:16-08:00 INFO (6): Updateing moudule Config
+2016-12-12T05:25:16-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T05:25:16-08:00 INFO (6): Updateing moudule Install
+2016-12-12T05:25:16-08:00 INFO (6): Updateing moudule Load
+2016-12-12T05:25:16-08:00 INFO (6): Updateing moudule Update
+2016-12-12T05:25:16-08:00 INFO (6): Done with database updates
+2016-12-12T05:25:16-08:00 INFO (6): Install ACLS
+2016-12-12T05:25:16-08:00 INFO (6): Installed resource auth-profile-index
+2016-12-12T05:25:16-08:00 INFO (6): Installed rule administrator allowed auth-profile-index
+2016-12-12T05:25:16-08:00 INFO (6): Done installing ACLS
+2016-12-12T05:25:16-08:00 INFO (6): Done with module updates
+2016-12-12T05:25:16-08:00 INFO (6): Comleted Update at 12/12/2016 05:25 am
+2016-12-12T05:55:09-08:00 INFO (6): Start Update at 12/12/2016 05:55 am
+2016-12-12T05:55:09-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T05:55:09-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T05:55:09-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T05:55:09-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T05:55:09-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T05:55:09-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T05:55:09-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T05:55:09-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T05:55:09-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T05:55:09-08:00 INFO (6): Updateing moudule Application
+2016-12-12T05:55:09-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T05:55:09-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T05:55:09-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T05:55:09-08:00 INFO (6): Updateing moudule Config
+2016-12-12T05:55:09-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T05:55:09-08:00 INFO (6): Updateing moudule Install
+2016-12-12T05:55:09-08:00 INFO (6): Updateing moudule Load
+2016-12-12T05:55:09-08:00 INFO (6): Updateing moudule Update
+2016-12-12T05:55:09-08:00 INFO (6): Done with database updates
+2016-12-12T05:55:09-08:00 INFO (6): Install ACLS
+2016-12-12T05:55:09-08:00 INFO (6): Installed resource auth-register-index
+2016-12-12T05:55:09-08:00 INFO (6): Installed rule guest allowed auth-register-index
+2016-12-12T05:55:09-08:00 INFO (6): Done installing ACLS
+2016-12-12T05:55:09-08:00 INFO (6): Done with module updates
+2016-12-12T05:55:09-08:00 INFO (6): Comleted Update at 12/12/2016 05:55 am
+2016-12-12T06:06:59-08:00 INFO (6): Start Update at 12/12/2016 06:06 am
+2016-12-12T06:06:59-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T06:06:59-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T06:06:59-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T06:06:59-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T06:06:59-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T06:06:59-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T06:06:59-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T06:06:59-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T06:06:59-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T06:06:59-08:00 INFO (6): Updateing moudule Application
+2016-12-12T06:06:59-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T06:06:59-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T06:06:59-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T06:06:59-08:00 INFO (6): Updateing moudule Config
+2016-12-12T06:06:59-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T06:06:59-08:00 INFO (6): Updateing moudule Install
+2016-12-12T06:06:59-08:00 INFO (6): Updateing moudule Load
+2016-12-12T06:06:59-08:00 INFO (6): Updateing moudule Update
+2016-12-12T06:06:59-08:00 INFO (6): Done with database updates
+2016-12-12T06:06:59-08:00 INFO (6): Install ACLS
+2016-12-12T06:06:59-08:00 INFO (6): Installed resource auth-sign-in
+2016-12-12T06:06:59-08:00 INFO (6): Installed rule guest allowed auth-sign-in
+2016-12-12T06:06:59-08:00 INFO (6): Installed resource auth-reset-password-index
+2016-12-12T06:06:59-08:00 INFO (6): Installed rule guest allowed auth-reset-password-index
+2016-12-12T06:06:59-08:00 INFO (6): Done installing ACLS
+2016-12-12T06:06:59-08:00 INFO (6): Done with module updates
+2016-12-12T06:06:59-08:00 INFO (6): Comleted Update at 12/12/2016 06:06 am
+2016-12-12T07:01:38-08:00 INFO (6): Start Update at 12/12/2016 07:01 am
+2016-12-12T07:01:38-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T07:01:38-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:01:38-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:01:38-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T07:01:38-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T07:01:38-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:01:38-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T07:01:38-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:01:38-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T07:01:38-08:00 INFO (6): Updateing moudule Application
+2016-12-12T07:01:38-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T07:01:38-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T07:01:38-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T07:01:38-08:00 INFO (6): Updateing moudule Config
+2016-12-12T07:01:38-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T07:01:38-08:00 INFO (6): Updateing moudule Install
+2016-12-12T07:01:38-08:00 INFO (6): Updateing moudule Load
+2016-12-12T07:01:38-08:00 INFO (6): Updateing moudule Menu
+2016-12-12T07:01:38-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-12T07:01:38-08:00 INFO (6): Updateing moudule Update
+2016-12-12T07:01:38-08:00 INFO (6): Done with database updates
+2016-12-12T07:01:38-08:00 INFO (6): Install ACLS
+2016-12-12T07:01:38-08:00 INFO (6): Done installing ACLS
+2016-12-12T07:01:38-08:00 INFO (6): Done with module updates
+2016-12-12T07:01:38-08:00 INFO (6): Comleted Update at 12/12/2016 07:01 am
+2016-12-12T07:03:35-08:00 INFO (6): Start Update at 12/12/2016 07:03 am
+2016-12-12T07:03:35-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T07:03:35-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:03:35-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:03:35-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T07:03:35-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T07:03:35-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:03:35-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T07:03:35-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:03:35-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T07:03:35-08:00 INFO (6): Updateing moudule Application
+2016-12-12T07:03:35-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T07:03:35-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T07:03:35-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T07:03:35-08:00 INFO (6): Updateing moudule Config
+2016-12-12T07:03:35-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T07:03:35-08:00 INFO (6): Updateing moudule Install
+2016-12-12T07:03:35-08:00 INFO (6): Updateing moudule Load
+2016-12-12T07:03:35-08:00 INFO (6): Updateing moudule Menu
+2016-12-12T07:03:35-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-12T07:03:35-08:00 INFO (6): Updateing moudule Update
+2016-12-12T07:03:35-08:00 INFO (6): Done with database updates
+2016-12-12T07:03:35-08:00 INFO (6): Install ACLS
+2016-12-12T07:03:35-08:00 INFO (6): Done installing ACLS
+2016-12-12T07:03:35-08:00 INFO (6): Install Menu
+2016-12-12T07:03:35-08:00 INFO (6): Done with module updates
+2016-12-12T07:03:35-08:00 INFO (6): Comleted Update at 12/12/2016 07:03 am
+2016-12-12T07:04:05-08:00 INFO (6): Start Update at 12/12/2016 07:04 am
+2016-12-12T07:04:05-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T07:04:05-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:04:05-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:04:05-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T07:04:05-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T07:04:05-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:04:05-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T07:04:05-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:04:05-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T07:04:05-08:00 INFO (6): Updateing moudule Application
+2016-12-12T07:04:05-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T07:04:05-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T07:04:05-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T07:04:05-08:00 INFO (6): Updateing moudule Config
+2016-12-12T07:04:05-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T07:04:05-08:00 INFO (6): Updateing moudule Install
+2016-12-12T07:04:05-08:00 INFO (6): Updateing moudule Load
+2016-12-12T07:04:05-08:00 INFO (6): Updateing moudule Menu
+2016-12-12T07:04:05-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-12T07:04:05-08:00 INFO (6): Updateing moudule Update
+2016-12-12T07:04:05-08:00 INFO (6): Done with database updates
+2016-12-12T07:04:05-08:00 INFO (6): Install ACLS
+2016-12-12T07:04:05-08:00 INFO (6): Done installing ACLS
+2016-12-12T07:04:05-08:00 INFO (6): Install Menu
+2016-12-12T07:04:05-08:00 INFO (6): Done with module updates
+2016-12-12T07:04:05-08:00 INFO (6): Comleted Update at 12/12/2016 07:04 am
+2016-12-12T07:04:15-08:00 INFO (6): Start Update at 12/12/2016 07:04 am
+2016-12-12T07:04:15-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T07:04:15-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:04:16-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:04:16-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T07:04:16-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T07:04:16-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:04:16-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T07:04:16-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:04:16-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T07:04:16-08:00 INFO (6): Updateing moudule Application
+2016-12-12T07:04:16-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T07:04:16-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T07:04:16-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T07:04:16-08:00 INFO (6): Updateing moudule Config
+2016-12-12T07:04:16-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T07:04:16-08:00 INFO (6): Updateing moudule Install
+2016-12-12T07:04:16-08:00 INFO (6): Updateing moudule Load
+2016-12-12T07:04:16-08:00 INFO (6): Updateing moudule Menu
+2016-12-12T07:04:16-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-12T07:04:16-08:00 INFO (6): Updateing moudule Update
+2016-12-12T07:04:16-08:00 INFO (6): Done with database updates
+2016-12-12T07:04:16-08:00 INFO (6): Install ACLS
+2016-12-12T07:04:16-08:00 INFO (6): Done installing ACLS
+2016-12-12T07:04:16-08:00 INFO (6): Install Menu
+2016-12-12T07:04:16-08:00 INFO (6): Done with module updates
+2016-12-12T07:04:16-08:00 INFO (6): Comleted Update at 12/12/2016 07:04 am
+2016-12-12T07:04:39-08:00 INFO (6): Start Update at 12/12/2016 07:04 am
+2016-12-12T07:04:39-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T07:04:39-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:04:39-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:04:39-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T07:04:39-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T07:04:39-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:04:39-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T07:04:39-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:04:39-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T07:04:39-08:00 INFO (6): Updateing moudule Application
+2016-12-12T07:04:39-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T07:04:39-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T07:04:39-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T07:04:39-08:00 INFO (6): Updateing moudule Config
+2016-12-12T07:04:39-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T07:04:39-08:00 INFO (6): Updateing moudule Install
+2016-12-12T07:04:39-08:00 INFO (6): Updateing moudule Load
+2016-12-12T07:04:39-08:00 INFO (6): Updateing moudule Menu
+2016-12-12T07:04:39-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-12T07:04:39-08:00 INFO (6): Updateing moudule Update
+2016-12-12T07:04:39-08:00 INFO (6): Done with database updates
+2016-12-12T07:04:39-08:00 INFO (6): Install ACLS
+2016-12-12T07:04:39-08:00 INFO (6): Done installing ACLS
+2016-12-12T07:04:39-08:00 INFO (6): Install Menu
+2016-12-12T07:04:39-08:00 INFO (6): Done with module updates
+2016-12-12T07:04:39-08:00 INFO (6): Comleted Update at 12/12/2016 07:04 am
+2016-12-12T07:09:26-08:00 INFO (6): Start Update at 12/12/2016 07:09 am
+2016-12-12T07:09:26-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T07:09:26-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:09:26-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:09:26-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T07:09:26-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T07:09:26-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:09:26-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T07:09:26-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:09:26-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T07:09:26-08:00 INFO (6): Updateing moudule Application
+2016-12-12T07:09:26-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T07:09:26-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T07:09:26-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T07:09:26-08:00 INFO (6): Updateing moudule Config
+2016-12-12T07:09:26-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T07:09:26-08:00 INFO (6): Updateing moudule Install
+2016-12-12T07:09:26-08:00 INFO (6): Updateing moudule Load
+2016-12-12T07:09:26-08:00 INFO (6): Updateing moudule Menu
+2016-12-12T07:09:26-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-12T07:09:26-08:00 INFO (6): Updateing moudule Update
+2016-12-12T07:09:26-08:00 INFO (6): Done with database updates
+2016-12-12T07:09:26-08:00 INFO (6): Install ACLS
+2016-12-12T07:09:26-08:00 INFO (6): Done installing ACLS
+2016-12-12T07:09:26-08:00 INFO (6): Install Menu
+2016-12-12T07:10:15-08:00 INFO (6): Start Update at 12/12/2016 07:10 am
+2016-12-12T07:10:15-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T07:10:15-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:10:15-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:10:15-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T07:10:15-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T07:10:15-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:10:15-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T07:10:15-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:10:15-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T07:10:15-08:00 INFO (6): Updateing moudule Application
+2016-12-12T07:10:15-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T07:10:15-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T07:10:15-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T07:10:15-08:00 INFO (6): Updateing moudule Config
+2016-12-12T07:10:15-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T07:10:15-08:00 INFO (6): Updateing moudule Install
+2016-12-12T07:10:15-08:00 INFO (6): Updateing moudule Load
+2016-12-12T07:10:15-08:00 INFO (6): Updateing moudule Menu
+2016-12-12T07:10:15-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-12T07:10:15-08:00 INFO (6): Updateing moudule Update
+2016-12-12T07:10:15-08:00 INFO (6): Done with database updates
+2016-12-12T07:10:15-08:00 INFO (6): Install ACLS
+2016-12-12T07:10:15-08:00 INFO (6): Done installing ACLS
+2016-12-12T07:10:15-08:00 INFO (6): Install Menu
+2016-12-12T07:10:15-08:00 INFO (6): Installed menu
+2016-12-12T07:10:15-08:00 INFO (6): Completed Installing Menu
+2016-12-12T07:10:15-08:00 INFO (6): Done with module updates
+2016-12-12T07:10:15-08:00 INFO (6): Comleted Update at 12/12/2016 07:10 am
+2016-12-12T07:10:29-08:00 INFO (6): Start Update at 12/12/2016 07:10 am
+2016-12-12T07:10:29-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T07:10:29-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:10:29-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:10:29-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T07:10:29-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T07:10:29-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:10:29-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T07:10:29-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:10:29-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T07:10:29-08:00 INFO (6): Updateing moudule Application
+2016-12-12T07:10:29-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T07:10:29-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T07:10:29-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T07:10:29-08:00 INFO (6): Updateing moudule Config
+2016-12-12T07:10:29-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T07:10:29-08:00 INFO (6): Updateing moudule Install
+2016-12-12T07:10:29-08:00 INFO (6): Updateing moudule Load
+2016-12-12T07:10:29-08:00 INFO (6): Updateing moudule Menu
+2016-12-12T07:10:29-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-12T07:10:29-08:00 INFO (6): Updateing moudule Update
+2016-12-12T07:10:29-08:00 INFO (6): Done with database updates
+2016-12-12T07:10:29-08:00 INFO (6): Install ACLS
+2016-12-12T07:10:29-08:00 INFO (6): Done installing ACLS
+2016-12-12T07:10:29-08:00 INFO (6): Install Menu
+2016-12-12T07:10:29-08:00 INFO (6): Installed menu
+2016-12-12T07:10:29-08:00 INFO (6): Completed Installing Menu
+2016-12-12T07:10:29-08:00 INFO (6): Done with module updates
+2016-12-12T07:10:29-08:00 INFO (6): Comleted Update at 12/12/2016 07:10 am
+2016-12-12T07:17:30-08:00 INFO (6): Start Update at 12/12/2016 07:17 am
+2016-12-12T07:17:30-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T07:17:30-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:17:30-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:17:30-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T07:17:30-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T07:17:30-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:17:30-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T07:17:30-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:17:30-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T07:17:30-08:00 INFO (6): Updateing moudule Application
+2016-12-12T07:17:30-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T07:17:30-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T07:17:30-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T07:17:30-08:00 INFO (6): Updateing moudule Config
+2016-12-12T07:17:30-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T07:17:30-08:00 INFO (6): Updateing moudule Install
+2016-12-12T07:17:30-08:00 INFO (6): Updateing moudule Load
+2016-12-12T07:17:30-08:00 INFO (6): Updateing moudule Menu
+2016-12-12T07:17:30-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-12T07:17:30-08:00 INFO (6): Updateing moudule Solar
+2016-12-12T07:17:30-08:00 INFO (6): Updateing moudule Update
+2016-12-12T07:17:30-08:00 INFO (6): Done with database updates
+2016-12-12T07:17:30-08:00 INFO (6): Install ACLS
+2016-12-12T07:17:30-08:00 INFO (6): Done installing ACLS
+2016-12-12T07:17:30-08:00 INFO (6): Install Menu
+2016-12-12T07:17:30-08:00 INFO (6): Installed menu Admin
+2016-12-12T07:17:30-08:00 INFO (6): Installed menu Admin
+2016-12-12T07:17:30-08:00 INFO (6): Installed menu Admin
+2016-12-12T07:17:30-08:00 INFO (6): Installed menu Admin
+2016-12-12T07:17:30-08:00 INFO (6): Installed menu Admin
+2016-12-12T07:17:30-08:00 INFO (6): Installed menu Battery
+2016-12-12T07:17:30-08:00 INFO (6): Installed menu Admin
+2016-12-12T07:17:30-08:00 INFO (6): Installed menu Admin
+2016-12-12T07:17:30-08:00 INFO (6): Installed menu Load
+2016-12-12T07:17:30-08:00 INFO (6): Installed menu Admin
+2016-12-12T07:17:30-08:00 INFO (6): Installed menu Solar
+2016-12-12T07:17:30-08:00 INFO (6): Installed menu Admin
+2016-12-12T07:17:30-08:00 INFO (6): Completed Installing Menu
+2016-12-12T07:17:30-08:00 INFO (6): Done with module updates
+2016-12-12T07:17:30-08:00 INFO (6): Comleted Update at 12/12/2016 07:17 am
+2016-12-12T07:17:59-08:00 INFO (6): Start Update at 12/12/2016 07:17 am
+2016-12-12T07:17:59-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T07:17:59-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:17:59-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:17:59-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T07:17:59-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T07:17:59-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:17:59-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T07:17:59-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:17:59-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T07:17:59-08:00 INFO (6): Updateing moudule Application
+2016-12-12T07:17:59-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T07:17:59-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T07:17:59-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T07:17:59-08:00 INFO (6): Updateing moudule Config
+2016-12-12T07:17:59-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T07:17:59-08:00 INFO (6): Updateing moudule Install
+2016-12-12T07:17:59-08:00 INFO (6): Updateing moudule Load
+2016-12-12T07:17:59-08:00 INFO (6): Updateing moudule Menu
+2016-12-12T07:17:59-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-12T07:17:59-08:00 INFO (6): Updateing moudule Solar
+2016-12-12T07:17:59-08:00 INFO (6): Updateing moudule Update
+2016-12-12T07:17:59-08:00 INFO (6): Done with database updates
+2016-12-12T07:17:59-08:00 INFO (6): Install ACLS
+2016-12-12T07:17:59-08:00 INFO (6): Done installing ACLS
+2016-12-12T07:17:59-08:00 INFO (6): Install Menu
+2016-12-12T07:17:59-08:00 INFO (6): Installed menu Admin
+2016-12-12T07:17:59-08:00 INFO (6): Installed menu Battery
+2016-12-12T07:17:59-08:00 INFO (6): Installed menu Load
+2016-12-12T07:17:59-08:00 INFO (6): Installed menu Solar
+2016-12-12T07:17:59-08:00 INFO (6): Completed Installing Menu
+2016-12-12T07:17:59-08:00 INFO (6): Done with module updates
+2016-12-12T07:17:59-08:00 INFO (6): Comleted Update at 12/12/2016 07:17 am
+2016-12-12T07:18:47-08:00 INFO (6): Start Update at 12/12/2016 07:18 am
+2016-12-12T07:18:47-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T07:18:47-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:18:47-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:18:47-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T07:18:47-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T07:18:47-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:18:47-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T07:18:47-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:18:47-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T07:18:47-08:00 INFO (6): Updateing moudule Application
+2016-12-12T07:18:47-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T07:18:47-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T07:18:47-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T07:18:47-08:00 INFO (6): Updateing moudule Config
+2016-12-12T07:18:47-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T07:18:47-08:00 INFO (6): Updateing moudule Install
+2016-12-12T07:18:47-08:00 INFO (6): Updateing moudule Load
+2016-12-12T07:18:47-08:00 INFO (6): Updateing moudule Menu
+2016-12-12T07:18:47-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-12T07:18:47-08:00 INFO (6): Updateing moudule Solar
+2016-12-12T07:18:47-08:00 INFO (6): Updateing moudule Update
+2016-12-12T07:18:47-08:00 INFO (6): Done with database updates
+2016-12-12T07:18:47-08:00 INFO (6): Install ACLS
+2016-12-12T07:18:47-08:00 INFO (6): Done installing ACLS
+2016-12-12T07:18:47-08:00 INFO (6): Install Menu
+2016-12-12T07:19:11-08:00 INFO (6): Start Update at 12/12/2016 07:19 am
+2016-12-12T07:19:11-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T07:19:11-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:19:11-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:19:11-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T07:19:11-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T07:19:11-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:19:11-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T07:19:11-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:19:11-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T07:19:11-08:00 INFO (6): Updateing moudule Application
+2016-12-12T07:19:11-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T07:19:11-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T07:19:11-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T07:19:11-08:00 INFO (6): Updateing moudule Config
+2016-12-12T07:19:11-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T07:19:11-08:00 INFO (6): Updateing moudule Install
+2016-12-12T07:19:11-08:00 INFO (6): Updateing moudule Load
+2016-12-12T07:19:11-08:00 INFO (6): Updateing moudule Menu
+2016-12-12T07:19:11-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-12T07:19:11-08:00 INFO (6): Updateing moudule Solar
+2016-12-12T07:19:11-08:00 INFO (6): Updateing moudule Update
+2016-12-12T07:19:11-08:00 INFO (6): Done with database updates
+2016-12-12T07:19:11-08:00 INFO (6): Install ACLS
+2016-12-12T07:19:11-08:00 INFO (6): Done installing ACLS
+2016-12-12T07:19:11-08:00 INFO (6): Install Menu
+2016-12-12T07:20:07-08:00 INFO (6): Start Update at 12/12/2016 07:20 am
+2016-12-12T07:20:07-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T07:20:07-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:20:07-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:20:07-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T07:20:07-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T07:20:07-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:20:07-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T07:20:07-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:20:07-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T07:20:07-08:00 INFO (6): Updateing moudule Application
+2016-12-12T07:20:07-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T07:20:07-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T07:20:07-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T07:20:07-08:00 INFO (6): Updateing moudule Config
+2016-12-12T07:20:07-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T07:20:07-08:00 INFO (6): Updateing moudule Install
+2016-12-12T07:20:07-08:00 INFO (6): Updateing moudule Load
+2016-12-12T07:20:07-08:00 INFO (6): Updateing moudule Menu
+2016-12-12T07:20:07-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-12T07:20:07-08:00 INFO (6): Updateing moudule Solar
+2016-12-12T07:20:07-08:00 INFO (6): Updateing moudule Update
+2016-12-12T07:20:07-08:00 INFO (6): Done with database updates
+2016-12-12T07:20:07-08:00 INFO (6): Install ACLS
+2016-12-12T07:20:07-08:00 INFO (6): Done installing ACLS
+2016-12-12T07:20:07-08:00 INFO (6): Install Menu
+2016-12-12T07:20:21-08:00 INFO (6): Start Update at 12/12/2016 07:20 am
+2016-12-12T07:20:21-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T07:20:21-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:20:21-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:20:21-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T07:20:21-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T07:20:21-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:20:21-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T07:20:21-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:20:21-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T07:20:21-08:00 INFO (6): Updateing moudule Application
+2016-12-12T07:20:21-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T07:20:21-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T07:20:21-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T07:20:21-08:00 INFO (6): Updateing moudule Config
+2016-12-12T07:20:21-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T07:20:21-08:00 INFO (6): Updateing moudule Install
+2016-12-12T07:20:21-08:00 INFO (6): Updateing moudule Load
+2016-12-12T07:20:21-08:00 INFO (6): Updateing moudule Menu
+2016-12-12T07:20:21-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-12T07:20:21-08:00 INFO (6): Updateing moudule Solar
+2016-12-12T07:20:21-08:00 INFO (6): Updateing moudule Update
+2016-12-12T07:20:21-08:00 INFO (6): Done with database updates
+2016-12-12T07:20:21-08:00 INFO (6): Install ACLS
+2016-12-12T07:20:21-08:00 INFO (6): Done installing ACLS
+2016-12-12T07:20:21-08:00 INFO (6): Install Menu
+2016-12-12T07:20:36-08:00 INFO (6): Start Update at 12/12/2016 07:20 am
+2016-12-12T07:20:36-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T07:20:36-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:20:36-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:20:36-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T07:20:36-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T07:20:36-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:20:36-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T07:20:36-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:20:36-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T07:20:36-08:00 INFO (6): Updateing moudule Application
+2016-12-12T07:20:36-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T07:20:36-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T07:20:36-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T07:20:36-08:00 INFO (6): Updateing moudule Config
+2016-12-12T07:20:36-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T07:20:36-08:00 INFO (6): Updateing moudule Install
+2016-12-12T07:20:36-08:00 INFO (6): Updateing moudule Load
+2016-12-12T07:20:36-08:00 INFO (6): Updateing moudule Menu
+2016-12-12T07:20:36-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-12T07:20:36-08:00 INFO (6): Updateing moudule Solar
+2016-12-12T07:20:36-08:00 INFO (6): Updateing moudule Update
+2016-12-12T07:20:36-08:00 INFO (6): Done with database updates
+2016-12-12T07:20:36-08:00 INFO (6): Install ACLS
+2016-12-12T07:20:36-08:00 INFO (6): Done installing ACLS
+2016-12-12T07:20:36-08:00 INFO (6): Install Menu
+2016-12-12T07:20:36-08:00 INFO (6): Installed menu Admin
+2016-12-12T07:20:36-08:00 INFO (6): Installed menu Battery
+2016-12-12T07:20:36-08:00 INFO (6): Installed menu Load
+2016-12-12T07:20:36-08:00 INFO (6): Installed menu Solar
+2016-12-12T07:20:36-08:00 INFO (6): Completed Installing Menu
+2016-12-12T07:20:36-08:00 INFO (6): Done with module updates
+2016-12-12T07:20:36-08:00 INFO (6): Comleted Update at 12/12/2016 07:20 am
+2016-12-12T07:24:33-08:00 INFO (6): Start Update at 12/12/2016 07:24 am
+2016-12-12T07:24:33-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T07:24:33-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:24:33-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:24:33-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T07:24:33-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T07:24:33-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:24:33-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T07:24:33-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:24:33-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T07:24:33-08:00 INFO (6): Updateing moudule Application
+2016-12-12T07:24:33-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T07:24:33-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T07:24:33-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T07:24:33-08:00 INFO (6): Updateing moudule Config
+2016-12-12T07:24:33-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T07:24:33-08:00 INFO (6): Updateing moudule Cron
+2016-12-12T07:24:33-08:00 INFO (6): Updateing moudule Install
+2016-12-12T07:24:33-08:00 INFO (6): Updateing moudule Load
+2016-12-12T07:24:33-08:00 INFO (6): Updateing moudule Menu
+2016-12-12T07:24:33-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-12T07:24:33-08:00 INFO (6): Updateing moudule Solar
+2016-12-12T07:24:33-08:00 INFO (6): Updateing moudule Update
+2016-12-12T07:24:33-08:00 INFO (6): Done with database updates
+2016-12-12T07:24:33-08:00 INFO (6): Install ACLS
+2016-12-12T07:24:33-08:00 INFO (6): Installed resource cron-index
+2016-12-12T07:24:33-08:00 INFO (6): Installed rule administrator allowed cron-index
+2016-12-12T07:24:33-08:00 INFO (6): Installed resource cron-create
+2016-12-12T07:24:33-08:00 INFO (6): Installed rule administrator allowed cron-create
+2016-12-12T07:24:33-08:00 INFO (6): Installed resource cron-update
+2016-12-12T07:24:33-08:00 INFO (6): Installed rule administrator allowed cron-update
+2016-12-12T07:24:33-08:00 INFO (6): Installed resource cron-delete
+2016-12-12T07:24:33-08:00 INFO (6): Installed rule administrator allowed cron-delete
+2016-12-12T07:24:33-08:00 INFO (6): Installed resource cron-view
+2016-12-12T07:24:33-08:00 INFO (6): Installed rule administrator allowed cron-view
+2016-12-12T07:24:33-08:00 INFO (6): Done installing ACLS
+2016-12-12T07:24:33-08:00 INFO (6): Install Menu
+2016-12-12T07:24:33-08:00 INFO (6): Completed Installing Menu
+2016-12-12T07:24:33-08:00 INFO (6): Done with module updates
+2016-12-12T07:24:33-08:00 INFO (6): Comleted Update at 12/12/2016 07:24 am
+2016-12-12T07:26:53-08:00 INFO (6): Start Update at 12/12/2016 07:26 am
+2016-12-12T07:26:53-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T07:26:53-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:26:53-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:26:53-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T07:26:53-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T07:26:53-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:26:53-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T07:26:53-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:26:53-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T07:26:53-08:00 INFO (6): Updateing moudule Application
+2016-12-12T07:26:53-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T07:26:53-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T07:26:53-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T07:26:53-08:00 INFO (6): Updateing moudule Config
+2016-12-12T07:26:53-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T07:26:53-08:00 INFO (6): Updateing moudule Cron
+2016-12-12T07:26:53-08:00 INFO (6): Updateing moudule Install
+2016-12-12T07:26:53-08:00 INFO (6): Updateing moudule Load
+2016-12-12T07:26:53-08:00 INFO (6): Updateing moudule Menu
+2016-12-12T07:26:53-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-12T07:26:53-08:00 INFO (6): Updateing moudule Solar
+2016-12-12T07:26:53-08:00 INFO (6): Updateing moudule Update
+2016-12-12T07:26:53-08:00 INFO (6): Done with database updates
+2016-12-12T07:26:53-08:00 INFO (6): Install ACLS
+2016-12-12T07:26:53-08:00 INFO (6): Done installing ACLS
+2016-12-12T07:26:53-08:00 INFO (6): Install Menu
+2016-12-12T07:26:53-08:00 INFO (6): Completed Installing Menu
+2016-12-12T07:26:53-08:00 INFO (6): Done with module updates
+2016-12-12T07:26:53-08:00 INFO (6): Comleted Update at 12/12/2016 07:26 am
+2016-12-12T07:28:28-08:00 INFO (6): Start Update at 12/12/2016 07:28 am
+2016-12-12T07:28:28-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T07:28:28-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:28:28-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:28:28-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T07:28:28-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T07:28:28-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:28:28-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T07:28:28-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:28:28-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T07:28:28-08:00 INFO (6): Updateing moudule Application
+2016-12-12T07:28:28-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T07:28:28-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T07:28:28-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T07:28:28-08:00 INFO (6): Updateing moudule Config
+2016-12-12T07:28:28-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T07:28:28-08:00 INFO (6): Updateing moudule Cron
+2016-12-12T07:28:28-08:00 INFO (6): Updateing moudule Install
+2016-12-12T07:28:28-08:00 INFO (6): Updateing moudule Load
+2016-12-12T07:28:28-08:00 INFO (6): Updateing moudule Menu
+2016-12-12T07:28:28-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-12T07:28:28-08:00 INFO (6): Updateing moudule Solar
+2016-12-12T07:28:28-08:00 INFO (6): Updateing moudule Update
+2016-12-12T07:28:28-08:00 INFO (6): Done with database updates
+2016-12-12T07:28:28-08:00 INFO (6): Install ACLS
+2016-12-12T07:28:28-08:00 INFO (6): Done installing ACLS
+2016-12-12T07:28:28-08:00 INFO (6): Install Menu
+2016-12-12T07:28:28-08:00 INFO (6): Completed Installing Menu
+2016-12-12T07:28:28-08:00 INFO (6): Done with module updates
+2016-12-12T07:28:28-08:00 INFO (6): Comleted Update at 12/12/2016 07:28 am
+2016-12-12T07:29:27-08:00 INFO (6): Start Update at 12/12/2016 07:29 am
+2016-12-12T07:29:27-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T07:29:27-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:29:27-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:29:27-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T07:29:27-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T07:29:27-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:29:27-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T07:29:27-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:29:27-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T07:29:27-08:00 INFO (6): Updateing moudule Application
+2016-12-12T07:29:27-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T07:29:27-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T07:29:27-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T07:29:27-08:00 INFO (6): Updateing moudule Config
+2016-12-12T07:29:27-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T07:29:27-08:00 INFO (6): Updateing moudule Cron
+2016-12-12T07:29:27-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Cron/sql/cron.sql
+2016-12-12T07:29:27-08:00 INFO (6): Updateing moudule Install
+2016-12-12T07:29:27-08:00 INFO (6): Updateing moudule Load
+2016-12-12T07:29:27-08:00 INFO (6): Updateing moudule Menu
+2016-12-12T07:29:27-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-12T07:29:27-08:00 INFO (6): Updateing moudule Solar
+2016-12-12T07:29:27-08:00 INFO (6): Updateing moudule Update
+2016-12-12T07:29:27-08:00 INFO (6): Done with database updates
+2016-12-12T07:29:27-08:00 INFO (6): Install ACLS
+2016-12-12T07:29:28-08:00 INFO (6): Done installing ACLS
+2016-12-12T07:29:28-08:00 INFO (6): Install Menu
+2016-12-12T07:29:28-08:00 INFO (6): Completed Installing Menu
+2016-12-12T07:29:28-08:00 INFO (6): Done with module updates
+2016-12-12T07:29:28-08:00 INFO (6): Comleted Update at 12/12/2016 07:29 am
+2016-12-12T07:38:51-08:00 INFO (6): Start Update at 12/12/2016 07:38 am
+2016-12-12T07:38:51-08:00 INFO (6): Updateing moudule Acl
+2016-12-12T07:38:51-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:38:51-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:38:51-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-12T07:38:51-08:00 INFO (6): Updateing moudule AclResource
+2016-12-12T07:38:51-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-12T07:38:51-08:00 INFO (6): Updateing moudule AclRole
+2016-12-12T07:38:51-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-12T07:38:51-08:00 INFO (6): Updateing moudule Admin
+2016-12-12T07:38:51-08:00 INFO (6): Updateing moudule Application
+2016-12-12T07:38:51-08:00 INFO (6): Updateing moudule Auth
+2016-12-12T07:38:51-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-12T07:38:51-08:00 INFO (6): Updateing moudule Battery
+2016-12-12T07:38:51-08:00 INFO (6): Updateing moudule Config
+2016-12-12T07:38:51-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-12T07:38:51-08:00 INFO (6): Updateing moudule Cron
+2016-12-12T07:38:51-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Cron/sql/cron.sql
+2016-12-12T07:38:51-08:00 INFO (6): Updateing moudule Install
+2016-12-12T07:38:51-08:00 INFO (6): Updateing moudule Load
+2016-12-12T07:38:51-08:00 INFO (6): Updateing moudule Menu
+2016-12-12T07:38:51-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-12T07:38:51-08:00 INFO (6): Updateing moudule Page
+2016-12-12T07:38:51-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Page/sql/page.sql
+2016-12-12T07:38:51-08:00 INFO (6): Updateing moudule Solar
+2016-12-12T07:38:51-08:00 INFO (6): Updateing moudule Update
+2016-12-12T07:38:51-08:00 INFO (6): Done with database updates
+2016-12-12T07:38:51-08:00 INFO (6): Install ACLS
+2016-12-12T07:38:51-08:00 INFO (6): Done installing ACLS
+2016-12-12T07:38:51-08:00 INFO (6): Install Menu
+2016-12-12T07:38:51-08:00 INFO (6): Completed Installing Menu
+2016-12-12T07:38:51-08:00 INFO (6): Done with module updates
+2016-12-12T07:38:51-08:00 INFO (6): Comleted Update at 12/12/2016 07:38 am

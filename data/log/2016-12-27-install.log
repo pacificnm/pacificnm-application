@@ -1,0 +1,2464 @@
+2016-12-27T19:45:17-08:00 INFO (6): Start install at 12/27/2016 07:45 pm
+2016-12-27T19:46:24-08:00 INFO (6): Start install at 12/27/2016 07:46 pm
+2016-12-27T19:47:02-08:00 INFO (6): Start install at 12/27/2016 07:47 pm
+2016-12-27T19:47:02-08:00 INFO (6): Working on moudule Acl
+2016-12-27T19:48:53-08:00 INFO (6): Start install at 12/27/2016 07:48 pm
+2016-12-27T19:48:53-08:00 INFO (6): Working on moudule Acl
+2016-12-27T19:49:41-08:00 INFO (6): Start install at 12/27/2016 07:49 pm
+2016-12-27T19:49:41-08:00 INFO (6): Working on moudule Acl
+2016-12-27T19:50:07-08:00 INFO (6): Start install at 12/27/2016 07:50 pm
+2016-12-27T19:50:07-08:00 INFO (6): Working on moudule Acl
+2016-12-27T19:50:08-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-27T20:07:38-08:00 INFO (6): Start install at 12/27/2016 08:07 pm
+2016-12-27T20:07:38-08:00 INFO (6): Working on moudule Acl
+2016-12-27T20:07:38-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-27T20:07:38-08:00 INFO (6): Working on moudule AclResource
+2016-12-27T20:07:38-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-27T20:07:38-08:00 INFO (6): Working on moudule AclRole
+2016-12-27T20:07:38-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-27T20:07:38-08:00 INFO (6): Working on moudule Module
+2016-12-27T20:07:38-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Module/sql/module.sql
+2016-12-27T20:07:38-08:00 INFO (6): Working on moudule Admin
+2016-12-27T20:07:38-08:00 INFO (6): Working on moudule Application
+2016-12-27T20:07:38-08:00 INFO (6): Failed to Update SQL /var/www/html/camper.pacificnm.com/module/Application/
+2016-12-27T20:07:38-08:00 INFO (6): Working on moudule Auth
+2016-12-27T20:07:38-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-27T20:07:38-08:00 INFO (6): Working on moudule Config
+2016-12-27T20:07:38-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-27T20:07:38-08:00 INFO (6): Working on moudule Cron
+2016-12-27T20:07:39-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Cron/sql/cron.sql
+2016-12-27T20:07:39-08:00 INFO (6): Working on moudule Install
+2016-12-27T20:07:39-08:00 INFO (6): Failed to Update SQL /var/www/html/camper.pacificnm.com/module/Install/
+2016-12-27T20:07:39-08:00 INFO (6): Working on moudule Menu
+2016-12-27T20:07:39-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-27T20:07:39-08:00 INFO (6): Working on moudule MenuItem
+2016-12-27T20:07:39-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/MenuItem/sql/menu_item.sql
+2016-12-27T20:07:39-08:00 INFO (6): Working on moudule Page
+2016-12-27T20:07:39-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Page/sql/page.sql
+2016-12-27T20:07:39-08:00 INFO (6): Working on moudule Update
+2016-12-27T20:07:39-08:00 INFO (6): Failed to Update SQL /var/www/html/camper.pacificnm.com/module/Update/
+2016-12-27T20:07:39-08:00 INFO (6): Working on moudule Acl
+2016-12-27T20:07:39-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-27T20:07:39-08:00 INFO (6): Updated Role guest
+2016-12-27T20:07:39-08:00 INFO (6): Updated Role user
+2016-12-27T20:07:39-08:00 INFO (6): Updated Role administrator
+2016-12-27T20:07:39-08:00 INFO (6): Updated Role acl-index
+2016-12-27T20:07:39-08:00 INFO (6): Updated Acl Rule 1
+2016-12-27T20:07:39-08:00 INFO (6): Updated Role acl-create
+2016-12-27T20:07:39-08:00 INFO (6): Updated Acl Rule 2
+2016-12-27T20:07:39-08:00 INFO (6): Updated Role acl-update
+2016-12-27T20:07:39-08:00 INFO (6): Updated Acl Rule 3
+2016-12-27T20:07:39-08:00 INFO (6): Updated Role acl-delete
+2016-12-27T20:07:39-08:00 INFO (6): Updated Acl Rule 4
+2016-12-27T20:07:39-08:00 INFO (6): Updated Role acl-view
+2016-12-27T20:07:40-08:00 INFO (6): Updated Acl Rule 5
+2016-12-27T20:07:40-08:00 INFO (6): Updated Menu Admin
+2016-12-27T20:07:40-08:00 INFO (6): Updated Menu Item Acl
+2016-12-27T20:09:11-08:00 INFO (6): Start install at 12/27/2016 08:09 pm
+2016-12-27T20:09:11-08:00 INFO (6): Working on moudule Acl
+2016-12-27T20:09:12-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-27T20:09:12-08:00 INFO (6): Working on moudule AclResource
+2016-12-27T20:09:12-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-27T20:09:12-08:00 INFO (6): Working on moudule AclRole
+2016-12-27T20:09:12-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-27T20:09:12-08:00 INFO (6): Working on moudule Module
+2016-12-27T20:09:12-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Module/sql/module.sql
+2016-12-27T20:09:12-08:00 INFO (6): Working on moudule Admin
+2016-12-27T20:09:12-08:00 INFO (6): Working on moudule Application
+2016-12-27T20:09:12-08:00 INFO (6): Failed to Update SQL /var/www/html/camper.pacificnm.com/module/Application/
+2016-12-27T20:09:12-08:00 INFO (6): Working on moudule Auth
+2016-12-27T20:09:12-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-27T20:09:12-08:00 INFO (6): Working on moudule Config
+2016-12-27T20:09:13-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-27T20:09:13-08:00 INFO (6): Working on moudule Cron
+2016-12-27T20:09:13-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Cron/sql/cron.sql
+2016-12-27T20:09:13-08:00 INFO (6): Working on moudule Install
+2016-12-27T20:09:13-08:00 INFO (6): Failed to Update SQL /var/www/html/camper.pacificnm.com/module/Install/
+2016-12-27T20:09:13-08:00 INFO (6): Working on moudule Menu
+2016-12-27T20:09:13-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-27T20:09:13-08:00 INFO (6): Working on moudule MenuItem
+2016-12-27T20:09:13-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/MenuItem/sql/menu_item.sql
+2016-12-27T20:09:13-08:00 INFO (6): Working on moudule Page
+2016-12-27T20:09:13-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Page/sql/page.sql
+2016-12-27T20:09:13-08:00 INFO (6): Working on moudule Update
+2016-12-27T20:09:14-08:00 INFO (6): Failed to Update SQL /var/www/html/camper.pacificnm.com/module/Update/
+2016-12-27T20:09:14-08:00 INFO (6): Working on moudule Acl
+2016-12-27T20:09:14-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-27T20:09:14-08:00 INFO (6): Updated Role guest
+2016-12-27T20:09:14-08:00 INFO (6): Updated Role user
+2016-12-27T20:09:14-08:00 INFO (6): Updated Role administrator
+2016-12-27T20:09:14-08:00 INFO (6): Updated Role acl-index
+2016-12-27T20:09:14-08:00 INFO (6): Updated Acl Rule 1
+2016-12-27T20:09:14-08:00 INFO (6): Updated Role acl-create
+2016-12-27T20:09:14-08:00 INFO (6): Updated Acl Rule 2
+2016-12-27T20:09:14-08:00 INFO (6): Updated Role acl-update
+2016-12-27T20:09:14-08:00 INFO (6): Updated Acl Rule 3
+2016-12-27T20:09:14-08:00 INFO (6): Updated Role acl-delete
+2016-12-27T20:09:14-08:00 INFO (6): Updated Acl Rule 4
+2016-12-27T20:09:14-08:00 INFO (6): Updated Role acl-view
+2016-12-27T20:09:14-08:00 INFO (6): Updated Acl Rule 5
+2016-12-27T20:09:14-08:00 INFO (6): Updated Menu Admin
+2016-12-27T20:09:14-08:00 INFO (6): Updated Menu Item Acl
+2016-12-27T20:22:14-08:00 INFO (6): Start install at 12/27/2016 08:22 pm
+2016-12-27T20:22:14-08:00 INFO (6): Installing module Acl tables
+2016-12-27T20:22:14-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-27T20:22:14-08:00 INFO (6): Installing module AclResource tables
+2016-12-27T20:22:14-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-27T20:22:14-08:00 INFO (6): Installing module AclRole tables
+2016-12-27T20:22:14-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-27T20:22:14-08:00 INFO (6): Installing module Module tables
+2016-12-27T20:22:15-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Module/sql/module.sql
+2016-12-27T20:22:15-08:00 INFO (6): Installing module Admin tables
+2016-12-27T20:22:15-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Module/sql/module.sql
+2016-12-27T20:22:15-08:00 INFO (6): Installing module Application tables
+2016-12-27T20:22:15-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Application/
+2016-12-27T20:22:15-08:00 INFO (6): Installing module Auth tables
+2016-12-27T20:22:15-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-27T20:22:15-08:00 INFO (6): Installing module Config tables
+2016-12-27T20:22:15-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-27T20:22:15-08:00 INFO (6): Installing module Cron tables
+2016-12-27T20:22:15-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Cron/sql/cron.sql
+2016-12-27T20:22:15-08:00 INFO (6): Installing module Install tables
+2016-12-27T20:22:15-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Install/
+2016-12-27T20:22:15-08:00 INFO (6): Installing module Menu tables
+2016-12-27T20:22:16-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-27T20:22:16-08:00 INFO (6): Installing module MenuItem tables
+2016-12-27T20:22:16-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/MenuItem/sql/menu_item.sql
+2016-12-27T20:22:16-08:00 INFO (6): Installing module Page tables
+2016-12-27T20:22:16-08:00 INFO (6): Updated SQL /var/www/html/camper.pacificnm.com/module/Page/sql/page.sql
+2016-12-27T20:22:16-08:00 INFO (6): Installing module Update tables
+2016-12-27T20:22:16-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Update/
+2016-12-27T20:23:55-08:00 INFO (6): Start install at 12/27/2016 08:23 pm
+2016-12-27T20:24:33-08:00 INFO (6): Start install at 12/27/2016 08:24 pm
+2016-12-27T20:41:42-08:00 INFO (6): Start install at 12/27/2016 08:41 pm
+2016-12-27T20:41:42-08:00 INFO (6): Installing module Acl tables
+2016-12-27T20:41:42-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-27T20:41:42-08:00 INFO (6): Installing module AclResource tables
+2016-12-27T20:41:42-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-27T20:41:42-08:00 INFO (6): Installing module AclRole tables
+2016-12-27T20:41:42-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-27T20:41:42-08:00 INFO (6): Installing module Action tables
+2016-12-27T20:41:43-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T20:41:43-08:00 INFO (6): Installing module Admin tables
+2016-12-27T20:41:43-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T20:41:43-08:00 INFO (6): Installing module Application tables
+2016-12-27T20:41:43-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Application/
+2016-12-27T20:41:43-08:00 INFO (6): Installing module Auth tables
+2016-12-27T20:41:43-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-27T20:41:43-08:00 INFO (6): Installing module Config tables
+2016-12-27T20:41:43-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-27T20:41:43-08:00 INFO (6): Installing module Controller tables
+2016-12-27T20:41:43-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Controller/sql/controller.sql
+2016-12-27T20:41:43-08:00 INFO (6): Installing module Cron tables
+2016-12-27T20:41:43-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Cron/sql/cron.sql
+2016-12-27T20:41:43-08:00 INFO (6): Installing module Install tables
+2016-12-27T20:41:43-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Install/
+2016-12-27T20:41:43-08:00 INFO (6): Installing module Menu tables
+2016-12-27T20:41:44-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-27T20:41:44-08:00 INFO (6): Installing module MenuItem tables
+2016-12-27T20:41:44-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/MenuItem/sql/menu_item.sql
+2016-12-27T20:41:44-08:00 INFO (6): Installing module Module tables
+2016-12-27T20:41:44-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Module/sql/module.sql
+2016-12-27T20:41:44-08:00 INFO (6): Installing module Page tables
+2016-12-27T20:41:44-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Page/sql/page.sql
+2016-12-27T20:41:44-08:00 INFO (6): Installing module Update tables
+2016-12-27T20:41:44-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Update/
+2016-12-27T20:42:43-08:00 INFO (6): Start install at 12/27/2016 08:42 pm
+2016-12-27T20:42:43-08:00 INFO (6): Installing module Acl tables
+2016-12-27T20:42:43-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-27T20:42:43-08:00 INFO (6): Installing module AclResource tables
+2016-12-27T20:42:43-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-27T20:42:43-08:00 INFO (6): Installing module AclRole tables
+2016-12-27T20:42:43-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-27T20:42:43-08:00 INFO (6): Installing module Action tables
+2016-12-27T20:42:44-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T20:42:44-08:00 INFO (6): Installing module Admin tables
+2016-12-27T20:42:44-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T20:42:44-08:00 INFO (6): Installing module Application tables
+2016-12-27T20:42:44-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Application/
+2016-12-27T20:42:44-08:00 INFO (6): Installing module Auth tables
+2016-12-27T20:42:44-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-27T20:42:44-08:00 INFO (6): Installing module Config tables
+2016-12-27T20:42:44-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-27T20:42:44-08:00 INFO (6): Installing module Controller tables
+2016-12-27T20:42:44-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Controller/sql/controller.sql
+2016-12-27T20:42:44-08:00 INFO (6): Installing module Cron tables
+2016-12-27T20:42:44-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Cron/sql/cron.sql
+2016-12-27T20:42:44-08:00 INFO (6): Installing module Install tables
+2016-12-27T20:42:44-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Install/
+2016-12-27T20:42:44-08:00 INFO (6): Installing module Menu tables
+2016-12-27T20:42:45-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-27T20:42:45-08:00 INFO (6): Installing module MenuItem tables
+2016-12-27T20:42:45-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/MenuItem/sql/menu_item.sql
+2016-12-27T20:42:45-08:00 INFO (6): Installing module Module tables
+2016-12-27T20:42:45-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Module/sql/module.sql
+2016-12-27T20:42:45-08:00 INFO (6): Installing module Page tables
+2016-12-27T20:42:45-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Page/sql/page.sql
+2016-12-27T20:42:45-08:00 INFO (6): Installing module Update tables
+2016-12-27T20:42:45-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Update/
+2016-12-27T20:42:45-08:00 INFO (6): Working on moudule Acl
+2016-12-27T20:42:45-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-27T20:42:45-08:00 INFO (6): Installed Role guest
+2016-12-27T20:42:45-08:00 INFO (6): Installed Role user
+2016-12-27T20:42:45-08:00 INFO (6): Installed Role administrator
+2016-12-27T20:42:45-08:00 INFO (6): Installed Role acl-index
+2016-12-27T20:42:45-08:00 INFO (6): Installed Acl Rule 1
+2016-12-27T20:42:45-08:00 INFO (6): Installed Role acl-create
+2016-12-27T20:42:45-08:00 INFO (6): Installed Acl Rule 2
+2016-12-27T20:42:45-08:00 INFO (6): Installed Role acl-update
+2016-12-27T20:42:45-08:00 INFO (6): Installed Acl Rule 3
+2016-12-27T20:42:45-08:00 INFO (6): Installed Role acl-delete
+2016-12-27T20:42:45-08:00 INFO (6): Installed Acl Rule 4
+2016-12-27T20:42:46-08:00 INFO (6): Installed Role acl-view
+2016-12-27T20:42:46-08:00 INFO (6): Installed Acl Rule 5
+2016-12-27T20:42:46-08:00 INFO (6): Installed Menu Admin
+2016-12-27T20:42:46-08:00 INFO (6): Installed Menu Item Acl
+2016-12-27T20:42:46-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T20:42:46-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T20:42:46-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T20:42:46-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T20:42:46-08:00 INFO (6): Installed Controller RestController
+2016-12-27T20:42:46-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T20:42:46-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T20:42:46-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T20:54:49-08:00 INFO (6): Start install at 12/27/2016 08:54 pm
+2016-12-27T20:54:49-08:00 INFO (6): Installing module Acl tables
+2016-12-27T20:54:50-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-27T20:54:50-08:00 INFO (6): Installing module AclResource tables
+2016-12-27T20:54:50-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-27T20:54:50-08:00 INFO (6): Installing module AclRole tables
+2016-12-27T20:54:50-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-27T20:54:50-08:00 INFO (6): Installing module Action tables
+2016-12-27T20:54:50-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T20:54:50-08:00 INFO (6): Installing module Admin tables
+2016-12-27T20:54:50-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T20:54:50-08:00 INFO (6): Installing module Application tables
+2016-12-27T20:54:50-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Application/
+2016-12-27T20:54:50-08:00 INFO (6): Installing module Auth tables
+2016-12-27T20:54:50-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-27T20:54:50-08:00 INFO (6): Installing module Config tables
+2016-12-27T20:54:50-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-27T20:54:50-08:00 INFO (6): Installing module Controller tables
+2016-12-27T20:54:51-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Controller/sql/controller.sql
+2016-12-27T20:54:51-08:00 INFO (6): Installing module Cron tables
+2016-12-27T20:54:51-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Cron/sql/cron.sql
+2016-12-27T20:54:51-08:00 INFO (6): Installing module Install tables
+2016-12-27T20:54:51-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Install/
+2016-12-27T20:54:51-08:00 INFO (6): Installing module Menu tables
+2016-12-27T20:54:51-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-27T20:54:51-08:00 INFO (6): Installing module MenuItem tables
+2016-12-27T20:54:51-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/MenuItem/sql/menu_item.sql
+2016-12-27T20:54:51-08:00 INFO (6): Installing module Module tables
+2016-12-27T20:54:52-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Module/sql/module.sql
+2016-12-27T20:54:52-08:00 INFO (6): Installing module Page tables
+2016-12-27T20:54:52-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Page/sql/page.sql
+2016-12-27T20:54:52-08:00 INFO (6): Installing module Update tables
+2016-12-27T20:54:52-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Update/
+2016-12-27T20:54:52-08:00 INFO (6): Working on moudule Acl
+2016-12-27T20:54:52-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-27T20:54:52-08:00 INFO (6): Installed Role guest
+2016-12-27T20:54:52-08:00 INFO (6): Installed Role user
+2016-12-27T20:54:52-08:00 INFO (6): Installed Role administrator
+2016-12-27T20:54:52-08:00 INFO (6): Installed Role acl-index
+2016-12-27T20:54:52-08:00 INFO (6): Installed Acl Rule 1
+2016-12-27T20:54:52-08:00 INFO (6): Installed Role acl-create
+2016-12-27T20:54:52-08:00 INFO (6): Installed Acl Rule 2
+2016-12-27T20:54:52-08:00 INFO (6): Installed Role acl-update
+2016-12-27T20:54:52-08:00 INFO (6): Installed Acl Rule 3
+2016-12-27T20:54:52-08:00 INFO (6): Installed Role acl-delete
+2016-12-27T20:54:52-08:00 INFO (6): Installed Acl Rule 4
+2016-12-27T20:54:52-08:00 INFO (6): Installed Role acl-view
+2016-12-27T20:54:52-08:00 INFO (6): Installed Acl Rule 5
+2016-12-27T20:54:52-08:00 INFO (6): Installed Menu Admin
+2016-12-27T20:54:52-08:00 INFO (6): Installed Menu Item Acl
+2016-12-27T20:54:52-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T20:54:52-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T20:54:52-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T20:54:52-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T20:54:52-08:00 INFO (6): Installed Controller RestController
+2016-12-27T20:54:52-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T20:54:52-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T20:54:52-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:16:55-08:00 INFO (6): Start install at 12/27/2016 09:16 pm
+2016-12-27T21:16:55-08:00 INFO (6): Installing module Acl tables
+2016-12-27T21:16:55-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-27T21:16:55-08:00 INFO (6): Installing module AclResource tables
+2016-12-27T21:16:55-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-27T21:16:55-08:00 INFO (6): Installing module AclRole tables
+2016-12-27T21:16:55-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-27T21:16:55-08:00 INFO (6): Installing module Action tables
+2016-12-27T21:16:56-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T21:16:56-08:00 INFO (6): Installing module Admin tables
+2016-12-27T21:16:56-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T21:16:56-08:00 INFO (6): Installing module Application tables
+2016-12-27T21:16:56-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Application/
+2016-12-27T21:16:56-08:00 INFO (6): Installing module Auth tables
+2016-12-27T21:16:56-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-27T21:16:56-08:00 INFO (6): Installing module Config tables
+2016-12-27T21:16:56-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-27T21:16:56-08:00 INFO (6): Installing module Controller tables
+2016-12-27T21:16:56-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Controller/sql/controller.sql
+2016-12-27T21:16:56-08:00 INFO (6): Installing module Cron tables
+2016-12-27T21:16:57-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Cron/sql/cron.sql
+2016-12-27T21:16:57-08:00 INFO (6): Installing module Install tables
+2016-12-27T21:16:57-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Install/
+2016-12-27T21:16:57-08:00 INFO (6): Installing module Menu tables
+2016-12-27T21:16:57-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-27T21:16:57-08:00 INFO (6): Installing module MenuItem tables
+2016-12-27T21:16:57-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/MenuItem/sql/menu_item.sql
+2016-12-27T21:16:57-08:00 INFO (6): Installing module Module tables
+2016-12-27T21:16:57-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Module/sql/module.sql
+2016-12-27T21:16:57-08:00 INFO (6): Installing module Page tables
+2016-12-27T21:16:57-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Page/sql/page.sql
+2016-12-27T21:16:57-08:00 INFO (6): Installing module Update tables
+2016-12-27T21:16:57-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Update/
+2016-12-27T21:16:57-08:00 INFO (6): Working on moudule Acl
+2016-12-27T21:16:57-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-27T21:16:57-08:00 INFO (6): Installed Role guest
+2016-12-27T21:16:57-08:00 INFO (6): Installed Role user
+2016-12-27T21:16:57-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:16:57-08:00 INFO (6): Installed Role acl-index
+2016-12-27T21:16:58-08:00 INFO (6): Installed Acl Rule 1
+2016-12-27T21:16:58-08:00 INFO (6): Installed Role acl-create
+2016-12-27T21:16:58-08:00 INFO (6): Installed Acl Rule 2
+2016-12-27T21:16:58-08:00 INFO (6): Installed Role acl-update
+2016-12-27T21:16:58-08:00 INFO (6): Installed Acl Rule 3
+2016-12-27T21:16:58-08:00 INFO (6): Installed Role acl-delete
+2016-12-27T21:16:58-08:00 INFO (6): Installed Acl Rule 4
+2016-12-27T21:16:58-08:00 INFO (6): Installed Role acl-view
+2016-12-27T21:16:58-08:00 INFO (6): Installed Acl Rule 5
+2016-12-27T21:16:58-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:16:58-08:00 INFO (6): Installed Menu Item Acl
+2016-12-27T21:16:58-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:16:58-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:16:58-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:16:58-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:16:58-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:16:58-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:16:58-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:16:58-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:16:58-08:00 INFO (6): Installed Page acl-create
+2016-12-27T21:16:58-08:00 INFO (6): Installed Page acl-delete
+2016-12-27T21:16:58-08:00 INFO (6): Installed Page acl-index
+2016-12-27T21:16:58-08:00 INFO (6): Installed Page acl-rest
+2016-12-27T21:16:58-08:00 INFO (6): Installed Page acl-update
+2016-12-27T21:16:58-08:00 INFO (6): Installed Page acl-view
+2016-12-27T21:16:58-08:00 INFO (6): Working on moudule AclResource
+2016-12-27T21:16:58-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-27T21:16:58-08:00 INFO (6): Installed Role guest
+2016-12-27T21:16:58-08:00 INFO (6): Installed Role user
+2016-12-27T21:16:58-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:16:58-08:00 INFO (6): Installed Role acl-resource-index
+2016-12-27T21:16:58-08:00 INFO (6): Installed Acl Rule 6
+2016-12-27T21:16:58-08:00 INFO (6): Installed Role acl-resource-create
+2016-12-27T21:16:58-08:00 INFO (6): Installed Acl Rule 7
+2016-12-27T21:16:58-08:00 INFO (6): Installed Role acl-resource-update
+2016-12-27T21:16:58-08:00 INFO (6): Installed Acl Rule 8
+2016-12-27T21:16:58-08:00 INFO (6): Installed Role acl-resource-delete
+2016-12-27T21:16:58-08:00 INFO (6): Installed Acl Rule 9
+2016-12-27T21:16:58-08:00 INFO (6): Installed Role acl-resource-view
+2016-12-27T21:16:58-08:00 INFO (6): Installed Acl Rule 10
+2016-12-27T21:16:58-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:16:58-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:16:58-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:16:58-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:16:58-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:16:58-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:16:58-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:16:58-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:16:58-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:16:58-08:00 INFO (6): Installed Page acl-resource-create
+2016-12-27T21:16:58-08:00 INFO (6): Installed Page acl-resource-delete
+2016-12-27T21:16:58-08:00 INFO (6): Installed Page acl-resource-index
+2016-12-27T21:16:58-08:00 INFO (6): Installed Page acl-resource-rest
+2016-12-27T21:16:58-08:00 INFO (6): Installed Page acl-resource-update
+2016-12-27T21:16:58-08:00 INFO (6): Installed Page acl-resource-view
+2016-12-27T21:16:58-08:00 INFO (6): Working on moudule AclRole
+2016-12-27T21:16:58-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-27T21:16:58-08:00 INFO (6): Installed Role guest
+2016-12-27T21:16:58-08:00 INFO (6): Installed Role user
+2016-12-27T21:16:58-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:16:58-08:00 INFO (6): Installed Role acl-role-index
+2016-12-27T21:16:58-08:00 INFO (6): Installed Acl Rule 11
+2016-12-27T21:16:58-08:00 INFO (6): Installed Role acl-role-create
+2016-12-27T21:16:58-08:00 INFO (6): Installed Acl Rule 12
+2016-12-27T21:16:58-08:00 INFO (6): Installed Role acl-role-update
+2016-12-27T21:16:58-08:00 INFO (6): Installed Acl Rule 13
+2016-12-27T21:16:58-08:00 INFO (6): Installed Role acl-role-delete
+2016-12-27T21:16:58-08:00 INFO (6): Installed Acl Rule 14
+2016-12-27T21:16:58-08:00 INFO (6): Installed Role acl-role-view
+2016-12-27T21:16:58-08:00 INFO (6): Installed Acl Rule 15
+2016-12-27T21:16:58-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:16:58-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:16:58-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:16:58-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:16:59-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:16:59-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:16:59-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:16:59-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:16:59-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:16:59-08:00 INFO (6): Installed Page acl-role-create
+2016-12-27T21:16:59-08:00 INFO (6): Installed Page acl-role-delete
+2016-12-27T21:16:59-08:00 INFO (6): Installed Page acl-role-index
+2016-12-27T21:16:59-08:00 INFO (6): Installed Page acl-role-rest
+2016-12-27T21:16:59-08:00 INFO (6): Installed Page acl-role-update
+2016-12-27T21:16:59-08:00 INFO (6): Installed Page acl-role-view
+2016-12-27T21:16:59-08:00 INFO (6): Working on moudule Action
+2016-12-27T21:16:59-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T21:16:59-08:00 INFO (6): Installed Role guest
+2016-12-27T21:16:59-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:16:59-08:00 INFO (6): Installed Role action-create
+2016-12-27T21:16:59-08:00 INFO (6): Installed Acl Rule 16
+2016-12-27T21:16:59-08:00 INFO (6): Installed Role action-delete
+2016-12-27T21:16:59-08:00 INFO (6): Installed Acl Rule 17
+2016-12-27T21:16:59-08:00 INFO (6): Installed Role action-index
+2016-12-27T21:16:59-08:00 INFO (6): Installed Acl Rule 18
+2016-12-27T21:16:59-08:00 INFO (6): Installed Role action-update
+2016-12-27T21:16:59-08:00 INFO (6): Installed Acl Rule 19
+2016-12-27T21:16:59-08:00 INFO (6): Installed Role action-view
+2016-12-27T21:16:59-08:00 INFO (6): Installed Acl Rule 20
+2016-12-27T21:16:59-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:16:59-08:00 INFO (6): Installed Menu Item Action
+2016-12-27T21:16:59-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:16:59-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:16:59-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:16:59-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:16:59-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:16:59-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:16:59-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:16:59-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:30:54-08:00 INFO (6): Start install at 12/27/2016 09:30 pm
+2016-12-27T21:30:54-08:00 INFO (6): Installing module Acl tables
+2016-12-27T21:31:09-08:00 INFO (6): Start install at 12/27/2016 09:31 pm
+2016-12-27T21:31:09-08:00 INFO (6): Installing module Acl tables
+2016-12-27T21:31:10-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-27T21:31:10-08:00 INFO (6): Installing module AclResource tables
+2016-12-27T21:31:10-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-27T21:31:10-08:00 INFO (6): Installing module AclRole tables
+2016-12-27T21:31:10-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-27T21:31:10-08:00 INFO (6): Installing module Action tables
+2016-12-27T21:31:10-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T21:31:10-08:00 INFO (6): Installing module Admin tables
+2016-12-27T21:31:10-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T21:31:10-08:00 INFO (6): Installing module Application tables
+2016-12-27T21:31:10-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Application/
+2016-12-27T21:31:10-08:00 INFO (6): Installing module Auth tables
+2016-12-27T21:31:10-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-27T21:31:10-08:00 INFO (6): Installing module Config tables
+2016-12-27T21:31:10-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-27T21:31:10-08:00 INFO (6): Installing module Controller tables
+2016-12-27T21:31:11-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Controller/sql/controller.sql
+2016-12-27T21:31:11-08:00 INFO (6): Installing module Cron tables
+2016-12-27T21:31:11-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Cron/sql/cron.sql
+2016-12-27T21:31:11-08:00 INFO (6): Installing module Install tables
+2016-12-27T21:31:11-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Install/
+2016-12-27T21:31:11-08:00 INFO (6): Installing module Menu tables
+2016-12-27T21:31:11-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-27T21:31:11-08:00 INFO (6): Installing module MenuItem tables
+2016-12-27T21:31:11-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/MenuItem/sql/menu_item.sql
+2016-12-27T21:31:11-08:00 INFO (6): Installing module Module tables
+2016-12-27T21:31:12-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Module/sql/module.sql
+2016-12-27T21:31:12-08:00 INFO (6): Installing module Page tables
+2016-12-27T21:31:12-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Page/sql/page.sql
+2016-12-27T21:31:12-08:00 INFO (6): Installing module Update tables
+2016-12-27T21:31:12-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Update/
+2016-12-27T21:31:12-08:00 INFO (6): Working on moudule Acl
+2016-12-27T21:31:12-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-27T21:31:12-08:00 INFO (6): Installed Role guest
+2016-12-27T21:31:12-08:00 INFO (6): Installed Role user
+2016-12-27T21:31:12-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:31:12-08:00 INFO (6): Installed Role acl-index
+2016-12-27T21:31:12-08:00 INFO (6): Installed Acl Rule 1
+2016-12-27T21:31:12-08:00 INFO (6): Installed Role acl-create
+2016-12-27T21:31:12-08:00 INFO (6): Installed Acl Rule 2
+2016-12-27T21:31:12-08:00 INFO (6): Installed Role acl-update
+2016-12-27T21:31:12-08:00 INFO (6): Installed Acl Rule 3
+2016-12-27T21:31:12-08:00 INFO (6): Installed Role acl-delete
+2016-12-27T21:31:12-08:00 INFO (6): Installed Acl Rule 4
+2016-12-27T21:31:12-08:00 INFO (6): Installed Role acl-view
+2016-12-27T21:31:12-08:00 INFO (6): Installed Acl Rule 5
+2016-12-27T21:31:12-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:31:12-08:00 INFO (6): Installed Menu Item Acl
+2016-12-27T21:31:12-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:31:12-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:31:12-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:31:12-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:31:12-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:31:12-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:31:12-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:31:12-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:31:12-08:00 INFO (6): Installed Page acl-create
+2016-12-27T21:31:12-08:00 INFO (6): Installed Page acl-delete
+2016-12-27T21:31:12-08:00 INFO (6): Installed Page acl-index
+2016-12-27T21:31:12-08:00 INFO (6): Installed Page acl-rest
+2016-12-27T21:31:12-08:00 INFO (6): Installed Page acl-update
+2016-12-27T21:31:12-08:00 INFO (6): Installed Page acl-view
+2016-12-27T21:31:12-08:00 INFO (6): Working on moudule AclResource
+2016-12-27T21:31:12-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-27T21:31:12-08:00 INFO (6): Installed Role guest
+2016-12-27T21:31:12-08:00 INFO (6): Installed Role user
+2016-12-27T21:31:12-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:31:12-08:00 INFO (6): Installed Role acl-resource-index
+2016-12-27T21:31:12-08:00 INFO (6): Installed Acl Rule 6
+2016-12-27T21:31:12-08:00 INFO (6): Installed Role acl-resource-create
+2016-12-27T21:31:12-08:00 INFO (6): Installed Acl Rule 7
+2016-12-27T21:31:12-08:00 INFO (6): Installed Role acl-resource-update
+2016-12-27T21:31:12-08:00 INFO (6): Installed Acl Rule 8
+2016-12-27T21:31:12-08:00 INFO (6): Installed Role acl-resource-delete
+2016-12-27T21:31:12-08:00 INFO (6): Installed Acl Rule 9
+2016-12-27T21:31:12-08:00 INFO (6): Installed Role acl-resource-view
+2016-12-27T21:31:12-08:00 INFO (6): Installed Acl Rule 10
+2016-12-27T21:31:12-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:31:12-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:31:12-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:31:12-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:31:12-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:31:12-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:31:13-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:31:13-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:31:13-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:31:13-08:00 INFO (6): Installed Page acl-resource-create
+2016-12-27T21:31:13-08:00 INFO (6): Installed Page acl-resource-delete
+2016-12-27T21:31:13-08:00 INFO (6): Installed Page acl-resource-index
+2016-12-27T21:31:13-08:00 INFO (6): Installed Page acl-resource-rest
+2016-12-27T21:31:13-08:00 INFO (6): Installed Page acl-resource-update
+2016-12-27T21:31:13-08:00 INFO (6): Installed Page acl-resource-view
+2016-12-27T21:31:13-08:00 INFO (6): Working on moudule AclRole
+2016-12-27T21:31:13-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-27T21:31:13-08:00 INFO (6): Installed Role guest
+2016-12-27T21:31:13-08:00 INFO (6): Installed Role user
+2016-12-27T21:31:13-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:31:13-08:00 INFO (6): Installed Role acl-role-index
+2016-12-27T21:31:13-08:00 INFO (6): Installed Acl Rule 11
+2016-12-27T21:31:13-08:00 INFO (6): Installed Role acl-role-create
+2016-12-27T21:31:13-08:00 INFO (6): Installed Acl Rule 12
+2016-12-27T21:31:13-08:00 INFO (6): Installed Role acl-role-update
+2016-12-27T21:31:13-08:00 INFO (6): Installed Acl Rule 13
+2016-12-27T21:31:13-08:00 INFO (6): Installed Role acl-role-delete
+2016-12-27T21:31:13-08:00 INFO (6): Installed Acl Rule 14
+2016-12-27T21:31:13-08:00 INFO (6): Installed Role acl-role-view
+2016-12-27T21:31:13-08:00 INFO (6): Installed Acl Rule 15
+2016-12-27T21:31:13-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:31:13-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:31:13-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:31:13-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:31:13-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:31:13-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:31:13-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:31:13-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:31:13-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:31:13-08:00 INFO (6): Installed Page acl-role-create
+2016-12-27T21:31:13-08:00 INFO (6): Installed Page acl-role-delete
+2016-12-27T21:31:13-08:00 INFO (6): Installed Page acl-role-index
+2016-12-27T21:31:13-08:00 INFO (6): Installed Page acl-role-rest
+2016-12-27T21:31:13-08:00 INFO (6): Installed Page acl-role-update
+2016-12-27T21:31:13-08:00 INFO (6): Installed Page acl-role-view
+2016-12-27T21:31:13-08:00 INFO (6): Working on moudule Action
+2016-12-27T21:31:13-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T21:31:13-08:00 INFO (6): Installed Role guest
+2016-12-27T21:31:13-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:31:13-08:00 INFO (6): Installed Role action-create
+2016-12-27T21:31:13-08:00 INFO (6): Installed Acl Rule 16
+2016-12-27T21:31:13-08:00 INFO (6): Installed Role action-delete
+2016-12-27T21:31:13-08:00 INFO (6): Installed Acl Rule 17
+2016-12-27T21:31:13-08:00 INFO (6): Installed Role action-index
+2016-12-27T21:31:13-08:00 INFO (6): Installed Acl Rule 18
+2016-12-27T21:31:13-08:00 INFO (6): Installed Role action-update
+2016-12-27T21:31:13-08:00 INFO (6): Installed Acl Rule 19
+2016-12-27T21:31:13-08:00 INFO (6): Installed Role action-view
+2016-12-27T21:31:13-08:00 INFO (6): Installed Acl Rule 20
+2016-12-27T21:31:13-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:31:13-08:00 INFO (6): Installed Menu Item Action
+2016-12-27T21:31:13-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:31:13-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:31:13-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:31:13-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:31:13-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:31:13-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:31:13-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:31:13-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:31:13-08:00 INFO (6): Installed Page action-create
+2016-12-27T21:31:13-08:00 INFO (6): Installed Page action-delete
+2016-12-27T21:31:13-08:00 INFO (6): Installed Page action-index
+2016-12-27T21:31:13-08:00 INFO (6): Installed Page action-rest
+2016-12-27T21:31:13-08:00 INFO (6): Installed Page action-update
+2016-12-27T21:31:13-08:00 INFO (6): Installed Page action-view
+2016-12-27T21:31:13-08:00 INFO (6): Working on moudule Admin
+2016-12-27T21:31:13-08:00 INFO (6): Installed Role guest
+2016-12-27T21:31:13-08:00 INFO (6): Installed Role user
+2016-12-27T21:31:13-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:31:13-08:00 INFO (6): Installed Role admin-index
+2016-12-27T21:31:13-08:00 INFO (6): Installed Acl Rule 21
+2016-12-27T21:31:13-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:31:13-08:00 INFO (6): Installed Menu Item Home
+2016-12-27T21:31:14-08:00 INFO (6): Installed Controller Index
+2016-12-27T21:31:14-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:31:14-08:00 INFO (6): Installed Page admin-index
+2016-12-27T21:31:14-08:00 INFO (6): Working on moudule Application
+2016-12-27T21:31:14-08:00 INFO (6): Failed to Update SQL /var/www/html/camper.pacificnm.com/module/Application/
+2016-12-27T21:31:14-08:00 INFO (6): Installed Role guest
+2016-12-27T21:31:14-08:00 INFO (6): Installed Role home
+2016-12-27T21:31:14-08:00 INFO (6): Installed Acl Rule 22
+2016-12-27T21:31:14-08:00 INFO (6): Installed Role user
+2016-12-27T21:31:14-08:00 INFO (6): Installed Role home
+2016-12-27T21:31:14-08:00 INFO (6): Installed Acl Rule 23
+2016-12-27T21:31:14-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:31:14-08:00 INFO (6): Installed Role home
+2016-12-27T21:31:14-08:00 INFO (6): Installed Acl Rule 24
+2016-12-27T21:31:14-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:31:14-08:00 INFO (6): Installed Controller BaseController
+2016-12-27T21:31:14-08:00 INFO (6): Installed Controller KeepAliveController
+2016-12-27T21:31:14-08:00 INFO (6): Installed Controller Controller
+2016-12-27T21:31:14-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:31:14-08:00 INFO (6): Installed Controller BaseController
+2016-12-27T21:31:14-08:00 INFO (6): Installed Controller KeepAliveController
+2016-12-27T21:31:14-08:00 INFO (6): Installed Controller Controller
+2016-12-27T21:35:57-08:00 INFO (6): Start install at 12/27/2016 09:35 pm
+2016-12-27T21:35:57-08:00 INFO (6): Installing module Acl tables
+2016-12-27T21:35:57-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-27T21:35:57-08:00 INFO (6): Installing module AclResource tables
+2016-12-27T21:35:57-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-27T21:35:57-08:00 INFO (6): Installing module AclRole tables
+2016-12-27T21:35:57-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-27T21:35:57-08:00 INFO (6): Installing module Action tables
+2016-12-27T21:35:58-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T21:35:58-08:00 INFO (6): Installing module Admin tables
+2016-12-27T21:35:58-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T21:35:58-08:00 INFO (6): Installing module Application tables
+2016-12-27T21:35:58-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Application/
+2016-12-27T21:35:58-08:00 INFO (6): Installing module Auth tables
+2016-12-27T21:35:58-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-27T21:35:58-08:00 INFO (6): Installing module Config tables
+2016-12-27T21:35:58-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-27T21:35:58-08:00 INFO (6): Installing module Controller tables
+2016-12-27T21:35:58-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Controller/sql/controller.sql
+2016-12-27T21:35:58-08:00 INFO (6): Installing module Cron tables
+2016-12-27T21:35:58-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Cron/sql/cron.sql
+2016-12-27T21:35:58-08:00 INFO (6): Installing module Install tables
+2016-12-27T21:35:58-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Install/
+2016-12-27T21:35:58-08:00 INFO (6): Installing module Menu tables
+2016-12-27T21:35:59-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-27T21:35:59-08:00 INFO (6): Installing module MenuItem tables
+2016-12-27T21:35:59-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/MenuItem/sql/menu_item.sql
+2016-12-27T21:35:59-08:00 INFO (6): Installing module Module tables
+2016-12-27T21:35:59-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Module/sql/module.sql
+2016-12-27T21:35:59-08:00 INFO (6): Installing module Page tables
+2016-12-27T21:35:59-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Page/sql/page.sql
+2016-12-27T21:35:59-08:00 INFO (6): Installing module Update tables
+2016-12-27T21:35:59-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Update/
+2016-12-27T21:35:59-08:00 INFO (6): Working on moudule Acl
+2016-12-27T21:35:59-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-27T21:35:59-08:00 INFO (6): Installed Role guest
+2016-12-27T21:35:59-08:00 INFO (6): Installed Role user
+2016-12-27T21:35:59-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:35:59-08:00 INFO (6): Installed Role acl-index
+2016-12-27T21:35:59-08:00 INFO (6): Installed Acl Rule 1
+2016-12-27T21:35:59-08:00 INFO (6): Installed Role acl-create
+2016-12-27T21:35:59-08:00 INFO (6): Installed Acl Rule 2
+2016-12-27T21:36:00-08:00 INFO (6): Installed Role acl-update
+2016-12-27T21:36:00-08:00 INFO (6): Installed Acl Rule 3
+2016-12-27T21:36:00-08:00 INFO (6): Installed Role acl-delete
+2016-12-27T21:36:00-08:00 INFO (6): Installed Acl Rule 4
+2016-12-27T21:36:00-08:00 INFO (6): Installed Role acl-view
+2016-12-27T21:36:00-08:00 INFO (6): Installed Acl Rule 5
+2016-12-27T21:36:00-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:36:00-08:00 INFO (6): Installed Menu Item Acl
+2016-12-27T21:36:00-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:36:00-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:36:00-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:36:00-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:36:00-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:36:00-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:36:00-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:36:00-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:36:00-08:00 INFO (6): Installed Page acl-create
+2016-12-27T21:36:00-08:00 INFO (6): Installed Page acl-delete
+2016-12-27T21:36:00-08:00 INFO (6): Installed Page acl-index
+2016-12-27T21:36:00-08:00 INFO (6): Installed Page acl-rest
+2016-12-27T21:36:00-08:00 INFO (6): Installed Page acl-update
+2016-12-27T21:36:00-08:00 INFO (6): Installed Page acl-view
+2016-12-27T21:36:00-08:00 INFO (6): Working on moudule AclResource
+2016-12-27T21:36:00-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-27T21:36:00-08:00 INFO (6): Installed Role guest
+2016-12-27T21:36:00-08:00 INFO (6): Installed Role user
+2016-12-27T21:36:00-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:36:00-08:00 INFO (6): Installed Role acl-resource-index
+2016-12-27T21:36:00-08:00 INFO (6): Installed Acl Rule 6
+2016-12-27T21:36:00-08:00 INFO (6): Installed Role acl-resource-create
+2016-12-27T21:36:00-08:00 INFO (6): Installed Acl Rule 7
+2016-12-27T21:36:00-08:00 INFO (6): Installed Role acl-resource-update
+2016-12-27T21:36:00-08:00 INFO (6): Installed Acl Rule 8
+2016-12-27T21:36:00-08:00 INFO (6): Installed Role acl-resource-delete
+2016-12-27T21:36:00-08:00 INFO (6): Installed Acl Rule 9
+2016-12-27T21:36:00-08:00 INFO (6): Installed Role acl-resource-view
+2016-12-27T21:36:00-08:00 INFO (6): Installed Acl Rule 10
+2016-12-27T21:36:00-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:36:00-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:36:00-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:36:00-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:36:00-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:36:00-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:36:00-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:36:00-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:36:00-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:36:00-08:00 INFO (6): Installed Page acl-resource-create
+2016-12-27T21:36:00-08:00 INFO (6): Installed Page acl-resource-delete
+2016-12-27T21:36:00-08:00 INFO (6): Installed Page acl-resource-index
+2016-12-27T21:36:00-08:00 INFO (6): Installed Page acl-resource-rest
+2016-12-27T21:36:00-08:00 INFO (6): Installed Page acl-resource-update
+2016-12-27T21:36:00-08:00 INFO (6): Installed Page acl-resource-view
+2016-12-27T21:36:00-08:00 INFO (6): Working on moudule AclRole
+2016-12-27T21:36:00-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-27T21:36:00-08:00 INFO (6): Installed Role guest
+2016-12-27T21:36:00-08:00 INFO (6): Installed Role user
+2016-12-27T21:36:00-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:36:00-08:00 INFO (6): Installed Role acl-role-index
+2016-12-27T21:36:00-08:00 INFO (6): Installed Acl Rule 11
+2016-12-27T21:36:00-08:00 INFO (6): Installed Role acl-role-create
+2016-12-27T21:36:00-08:00 INFO (6): Installed Acl Rule 12
+2016-12-27T21:36:00-08:00 INFO (6): Installed Role acl-role-update
+2016-12-27T21:36:00-08:00 INFO (6): Installed Acl Rule 13
+2016-12-27T21:36:00-08:00 INFO (6): Installed Role acl-role-delete
+2016-12-27T21:36:00-08:00 INFO (6): Installed Acl Rule 14
+2016-12-27T21:36:00-08:00 INFO (6): Installed Role acl-role-view
+2016-12-27T21:36:00-08:00 INFO (6): Installed Acl Rule 15
+2016-12-27T21:36:00-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:36:00-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:36:00-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:36:00-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:36:00-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:36:00-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:36:00-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:36:00-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:36:00-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:36:00-08:00 INFO (6): Installed Page acl-role-create
+2016-12-27T21:36:01-08:00 INFO (6): Installed Page acl-role-delete
+2016-12-27T21:36:01-08:00 INFO (6): Installed Page acl-role-index
+2016-12-27T21:36:01-08:00 INFO (6): Installed Page acl-role-rest
+2016-12-27T21:36:01-08:00 INFO (6): Installed Page acl-role-update
+2016-12-27T21:36:01-08:00 INFO (6): Installed Page acl-role-view
+2016-12-27T21:36:01-08:00 INFO (6): Working on moudule Action
+2016-12-27T21:36:01-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T21:36:01-08:00 INFO (6): Installed Role guest
+2016-12-27T21:36:01-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:36:01-08:00 INFO (6): Installed Role action-create
+2016-12-27T21:36:01-08:00 INFO (6): Installed Acl Rule 16
+2016-12-27T21:36:01-08:00 INFO (6): Installed Role action-delete
+2016-12-27T21:36:01-08:00 INFO (6): Installed Acl Rule 17
+2016-12-27T21:36:01-08:00 INFO (6): Installed Role action-index
+2016-12-27T21:36:01-08:00 INFO (6): Installed Acl Rule 18
+2016-12-27T21:36:01-08:00 INFO (6): Installed Role action-update
+2016-12-27T21:36:01-08:00 INFO (6): Installed Acl Rule 19
+2016-12-27T21:36:01-08:00 INFO (6): Installed Role action-view
+2016-12-27T21:36:01-08:00 INFO (6): Installed Acl Rule 20
+2016-12-27T21:36:01-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:36:01-08:00 INFO (6): Installed Menu Item Action
+2016-12-27T21:36:01-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:36:01-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:36:01-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:36:01-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:36:01-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:36:01-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:36:01-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:36:01-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:36:01-08:00 INFO (6): Installed Page action-create
+2016-12-27T21:36:01-08:00 INFO (6): Installed Page action-delete
+2016-12-27T21:36:01-08:00 INFO (6): Installed Page action-index
+2016-12-27T21:36:01-08:00 INFO (6): Installed Page action-rest
+2016-12-27T21:36:01-08:00 INFO (6): Installed Page action-update
+2016-12-27T21:36:01-08:00 INFO (6): Installed Page action-view
+2016-12-27T21:36:01-08:00 INFO (6): Working on moudule Admin
+2016-12-27T21:36:01-08:00 INFO (6): Installed Role guest
+2016-12-27T21:36:01-08:00 INFO (6): Installed Role user
+2016-12-27T21:36:01-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:36:01-08:00 INFO (6): Installed Role admin-index
+2016-12-27T21:36:01-08:00 INFO (6): Installed Acl Rule 21
+2016-12-27T21:36:01-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:36:01-08:00 INFO (6): Installed Menu Item Home
+2016-12-27T21:36:01-08:00 INFO (6): Installed Controller Index
+2016-12-27T21:36:01-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:36:01-08:00 INFO (6): Installed Page admin-index
+2016-12-27T21:36:01-08:00 INFO (6): Working on moudule Application
+2016-12-27T21:36:01-08:00 INFO (6): Failed to Update SQL /var/www/html/camper.pacificnm.com/module/Application/
+2016-12-27T21:36:01-08:00 INFO (6): Installed Role guest
+2016-12-27T21:36:01-08:00 INFO (6): Installed Role home
+2016-12-27T21:36:01-08:00 INFO (6): Installed Acl Rule 22
+2016-12-27T21:36:01-08:00 INFO (6): Installed Role user
+2016-12-27T21:36:01-08:00 INFO (6): Installed Role home
+2016-12-27T21:36:01-08:00 INFO (6): Installed Acl Rule 23
+2016-12-27T21:36:01-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:36:01-08:00 INFO (6): Installed Role home
+2016-12-27T21:36:01-08:00 INFO (6): Installed Acl Rule 24
+2016-12-27T21:36:01-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:36:01-08:00 INFO (6): Installed Controller BaseController
+2016-12-27T21:36:01-08:00 INFO (6): Installed Controller KeepAliveController
+2016-12-27T21:36:01-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:36:01-08:00 INFO (6): Installed Controller BaseController
+2016-12-27T21:36:01-08:00 INFO (6): Installed Controller KeepAliveController
+2016-12-27T21:36:01-08:00 INFO (6): Installed Page home
+2016-12-27T21:36:01-08:00 INFO (6): Installed Page keep-alive
+2016-12-27T21:36:01-08:00 INFO (6): Working on moudule Auth
+2016-12-27T21:36:01-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-27T21:36:01-08:00 INFO (6): Installed Role guest
+2016-12-27T21:36:01-08:00 INFO (6): Installed Role auth-sign-in
+2016-12-27T21:36:01-08:00 INFO (6): Installed Acl Rule 25
+2016-12-27T21:36:01-08:00 INFO (6): Installed Role auth-register-index
+2016-12-27T21:36:01-08:00 INFO (6): Installed Acl Rule 26
+2016-12-27T21:36:02-08:00 INFO (6): Installed Role auth-reset-password-index
+2016-12-27T21:36:02-08:00 INFO (6): Installed Acl Rule 27
+2016-12-27T21:36:02-08:00 INFO (6): Installed Role user
+2016-12-27T21:36:02-08:00 INFO (6): Installed Role auth-profile-index
+2016-12-27T21:36:02-08:00 INFO (6): Installed Acl Rule 28
+2016-12-27T21:36:02-08:00 INFO (6): Installed Role auth-profile-update
+2016-12-27T21:36:02-08:00 INFO (6): Installed Acl Rule 29
+2016-12-27T21:36:02-08:00 INFO (6): Installed Role auth-profile-password
+2016-12-27T21:36:02-08:00 INFO (6): Installed Acl Rule 30
+2016-12-27T21:36:02-08:00 INFO (6): Installed Role auth-sign-out
+2016-12-27T21:36:02-08:00 INFO (6): Installed Acl Rule 31
+2016-12-27T21:36:02-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:36:02-08:00 INFO (6): Installed Role auth-index
+2016-12-27T21:36:02-08:00 INFO (6): Installed Acl Rule 32
+2016-12-27T21:36:02-08:00 INFO (6): Installed Role auth-create
+2016-12-27T21:36:02-08:00 INFO (6): Installed Acl Rule 33
+2016-12-27T21:36:02-08:00 INFO (6): Installed Role auth-delete
+2016-12-27T21:36:02-08:00 INFO (6): Installed Acl Rule 34
+2016-12-27T21:36:02-08:00 INFO (6): Installed Role auth-update
+2016-12-27T21:36:02-08:00 INFO (6): Installed Acl Rule 35
+2016-12-27T21:36:02-08:00 INFO (6): Installed Role auth-view
+2016-12-27T21:36:02-08:00 INFO (6): Installed Acl Rule 36
+2016-12-27T21:36:02-08:00 INFO (6): Installed Role auth-password
+2016-12-27T21:36:02-08:00 INFO (6): Installed Acl Rule 37
+2016-12-27T21:36:02-08:00 INFO (6): Installed Role auth-profile-index
+2016-12-27T21:36:02-08:00 INFO (6): Installed Acl Rule 38
+2016-12-27T21:36:02-08:00 INFO (6): Installed Role auth-profile-update
+2016-12-27T21:36:02-08:00 INFO (6): Installed Acl Rule 39
+2016-12-27T21:36:02-08:00 INFO (6): Installed Role auth-profile-password
+2016-12-27T21:36:02-08:00 INFO (6): Installed Acl Rule 40
+2016-12-27T21:36:02-08:00 INFO (6): Installed Menu My Profile
+2016-12-27T21:36:02-08:00 INFO (6): Installed Menu Item Home
+2016-12-27T21:36:02-08:00 INFO (6): Installed Menu Item Settings
+2016-12-27T21:36:02-08:00 INFO (6): Installed Menu Item Password
+2016-12-27T21:36:02-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:36:02-08:00 INFO (6): Installed Menu Item Auth
+2016-12-27T21:36:02-08:00 INFO (6): Installed Controller SignInController
+2016-12-27T21:36:02-08:00 INFO (6): Installed Controller SignOutController
+2016-12-27T21:36:02-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:36:02-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:36:02-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:36:02-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:36:02-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:36:02-08:00 INFO (6): Installed Controller PasswordController
+2016-12-27T21:36:02-08:00 INFO (6): Installed Controller ProfileController
+2016-12-27T21:36:02-08:00 INFO (6): Installed Controller RegisterController
+2016-12-27T21:36:02-08:00 INFO (6): Installed Controller ResetPasswordController
+2016-12-27T21:36:02-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:36:02-08:00 INFO (6): Installed Page auth-profile-index
+2016-12-27T21:36:02-08:00 INFO (6): Installed Page auth-profile-update
+2016-12-27T21:36:02-08:00 INFO (6): Installed Page auth-profile-password
+2016-12-27T21:36:03-08:00 INFO (6): Installed Page auth-reset-password-index
+2016-12-27T21:36:03-08:00 INFO (6): Installed Page auth-register-index
+2016-12-27T21:36:03-08:00 INFO (6): Installed Page auth-sign-in
+2016-12-27T21:36:03-08:00 INFO (6): Installed Page auth-sign-out
+2016-12-27T21:36:03-08:00 INFO (6): Installed Page auth-index
+2016-12-27T21:36:03-08:00 INFO (6): Installed Page auth-create
+2016-12-27T21:36:03-08:00 INFO (6): Installed Page auth-update
+2016-12-27T21:36:03-08:00 INFO (6): Installed Page auth-view
+2016-12-27T21:36:03-08:00 INFO (6): Installed Page auth-delete
+2016-12-27T21:36:03-08:00 INFO (6): Installed Page auth-password
+2016-12-27T21:36:03-08:00 INFO (6): Working on moudule Config
+2016-12-27T21:36:03-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-27T21:36:03-08:00 INFO (6): Installed Role guest
+2016-12-27T21:36:03-08:00 INFO (6): Installed Role user
+2016-12-27T21:36:03-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:36:03-08:00 INFO (6): Installed Role config-create
+2016-12-27T21:36:03-08:00 INFO (6): Installed Acl Rule 41
+2016-12-27T21:36:03-08:00 INFO (6): Installed Role config-delete
+2016-12-27T21:36:03-08:00 INFO (6): Installed Acl Rule 42
+2016-12-27T21:36:03-08:00 INFO (6): Installed Role config-index
+2016-12-27T21:36:03-08:00 INFO (6): Installed Acl Rule 43
+2016-12-27T21:36:03-08:00 INFO (6): Installed Role config-update
+2016-12-27T21:36:03-08:00 INFO (6): Installed Acl Rule 44
+2016-12-27T21:36:03-08:00 INFO (6): Installed Role config-view
+2016-12-27T21:36:03-08:00 INFO (6): Installed Acl Rule 45
+2016-12-27T21:36:03-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:36:03-08:00 INFO (6): Installed Menu Item Config
+2016-12-27T21:36:03-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:36:03-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:36:03-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:36:03-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:36:03-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:36:03-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:36:03-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:36:03-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:36:03-08:00 INFO (6): Installed Page config-create
+2016-12-27T21:36:03-08:00 INFO (6): Installed Page config-delete
+2016-12-27T21:36:03-08:00 INFO (6): Installed Page config-index
+2016-12-27T21:36:03-08:00 INFO (6): Installed Page config-reset
+2016-12-27T21:36:03-08:00 INFO (6): Installed Page config-update
+2016-12-27T21:36:03-08:00 INFO (6): Installed Page config-view
+2016-12-27T21:36:03-08:00 INFO (6): Working on moudule Controller
+2016-12-27T21:36:03-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Controller/sql/controller.sql
+2016-12-27T21:36:03-08:00 INFO (6): Installed Role guest
+2016-12-27T21:36:03-08:00 INFO (6): Installed Role user
+2016-12-27T21:36:03-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:36:03-08:00 INFO (6): Installed Role controller-create
+2016-12-27T21:36:03-08:00 INFO (6): Installed Acl Rule 46
+2016-12-27T21:36:03-08:00 INFO (6): Installed Role controller-delete
+2016-12-27T21:36:03-08:00 INFO (6): Installed Acl Rule 47
+2016-12-27T21:36:03-08:00 INFO (6): Installed Role controller-index
+2016-12-27T21:36:03-08:00 INFO (6): Installed Acl Rule 48
+2016-12-27T21:36:03-08:00 INFO (6): Installed Role controller-update
+2016-12-27T21:36:03-08:00 INFO (6): Installed Acl Rule 49
+2016-12-27T21:36:03-08:00 INFO (6): Installed Role controller-view
+2016-12-27T21:36:03-08:00 INFO (6): Installed Acl Rule 50
+2016-12-27T21:36:03-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:36:03-08:00 INFO (6): Installed Menu Item Controller
+2016-12-27T21:36:03-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:36:03-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:36:03-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:36:03-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:36:03-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:36:03-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:36:03-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:36:03-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:36:03-08:00 INFO (6): Installed Page controller-create
+2016-12-27T21:36:03-08:00 INFO (6): Installed Page controller-delete
+2016-12-27T21:36:03-08:00 INFO (6): Installed Page controller-index
+2016-12-27T21:36:03-08:00 INFO (6): Installed Page controller-rest
+2016-12-27T21:36:04-08:00 INFO (6): Installed Page controller-update
+2016-12-27T21:36:04-08:00 INFO (6): Installed Page controller-view
+2016-12-27T21:36:04-08:00 INFO (6): Working on moudule Cron
+2016-12-27T21:36:04-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Cron/sql/cron.sql
+2016-12-27T21:36:04-08:00 INFO (6): Installed Role guest
+2016-12-27T21:36:04-08:00 INFO (6): Installed Role user
+2016-12-27T21:36:04-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:36:04-08:00 INFO (6): Installed Role cron-index
+2016-12-27T21:36:04-08:00 INFO (6): Installed Acl Rule 51
+2016-12-27T21:36:04-08:00 INFO (6): Installed Role cron-create
+2016-12-27T21:36:04-08:00 INFO (6): Installed Acl Rule 52
+2016-12-27T21:36:04-08:00 INFO (6): Installed Role cron-update
+2016-12-27T21:36:04-08:00 INFO (6): Installed Acl Rule 53
+2016-12-27T21:36:04-08:00 INFO (6): Installed Role cron-delete
+2016-12-27T21:36:04-08:00 INFO (6): Installed Acl Rule 54
+2016-12-27T21:36:04-08:00 INFO (6): Installed Role cron-view
+2016-12-27T21:36:04-08:00 INFO (6): Installed Acl Rule 55
+2016-12-27T21:36:04-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:36:04-08:00 INFO (6): Installed Menu Item Cron
+2016-12-27T21:36:04-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:36:04-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:36:04-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:36:04-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:36:04-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:36:04-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:36:04-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:36:04-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:36:04-08:00 INFO (6): Installed Page cron-create
+2016-12-27T21:36:04-08:00 INFO (6): Installed Page cron-delete
+2016-12-27T21:36:04-08:00 INFO (6): Installed Page cron-index
+2016-12-27T21:36:04-08:00 INFO (6): Installed Page cron-rest
+2016-12-27T21:36:04-08:00 INFO (6): Installed Page cron-update
+2016-12-27T21:36:04-08:00 INFO (6): Installed Page cron-view
+2016-12-27T21:36:04-08:00 INFO (6): Working on moudule Install
+2016-12-27T21:36:04-08:00 INFO (6): Failed to Update SQL /var/www/html/camper.pacificnm.com/module/Install/
+2016-12-27T21:36:04-08:00 INFO (6): No ACLS to install skipping
+2016-12-27T21:36:04-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:36:04-08:00 INFO (6): Installed Controller Index
+2016-12-27T21:36:04-08:00 INFO (6): Installed Controller Config
+2016-12-27T21:36:04-08:00 INFO (6): Installed Controller Admin
+2016-12-27T21:36:04-08:00 INFO (6): Installed Controller Database
+2016-12-27T21:36:04-08:00 INFO (6): Installed Controller Complete
+2016-12-27T21:36:04-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:37:59-08:00 INFO (6): Start install at 12/27/2016 09:37 pm
+2016-12-27T21:37:59-08:00 INFO (6): Installing module Acl tables
+2016-12-27T21:37:59-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-27T21:37:59-08:00 INFO (6): Installing module AclResource tables
+2016-12-27T21:37:59-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-27T21:37:59-08:00 INFO (6): Installing module AclRole tables
+2016-12-27T21:37:59-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-27T21:37:59-08:00 INFO (6): Installing module Action tables
+2016-12-27T21:37:59-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T21:37:59-08:00 INFO (6): Installing module Admin tables
+2016-12-27T21:37:59-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T21:37:59-08:00 INFO (6): Installing module Application tables
+2016-12-27T21:37:59-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Application/
+2016-12-27T21:37:59-08:00 INFO (6): Installing module Auth tables
+2016-12-27T21:38:00-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-27T21:38:00-08:00 INFO (6): Installing module Config tables
+2016-12-27T21:38:00-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-27T21:38:00-08:00 INFO (6): Installing module Controller tables
+2016-12-27T21:38:00-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Controller/sql/controller.sql
+2016-12-27T21:38:00-08:00 INFO (6): Installing module Cron tables
+2016-12-27T21:38:00-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Cron/sql/cron.sql
+2016-12-27T21:38:00-08:00 INFO (6): Installing module Install tables
+2016-12-27T21:38:00-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Install/
+2016-12-27T21:38:00-08:00 INFO (6): Installing module Menu tables
+2016-12-27T21:38:01-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-27T21:38:01-08:00 INFO (6): Installing module MenuItem tables
+2016-12-27T21:38:01-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/MenuItem/sql/menu_item.sql
+2016-12-27T21:38:01-08:00 INFO (6): Installing module Module tables
+2016-12-27T21:38:01-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Module/sql/module.sql
+2016-12-27T21:38:01-08:00 INFO (6): Installing module Page tables
+2016-12-27T21:38:01-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Page/sql/page.sql
+2016-12-27T21:38:01-08:00 INFO (6): Installing module Update tables
+2016-12-27T21:38:01-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Update/
+2016-12-27T21:38:01-08:00 INFO (6): Working on moudule Acl
+2016-12-27T21:38:01-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-27T21:38:01-08:00 INFO (6): Installed Role guest
+2016-12-27T21:38:01-08:00 INFO (6): Installed Role user
+2016-12-27T21:38:01-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:38:01-08:00 INFO (6): Installed Role acl-index
+2016-12-27T21:38:02-08:00 INFO (6): Installed Acl Rule 1
+2016-12-27T21:38:02-08:00 INFO (6): Installed Role acl-create
+2016-12-27T21:38:02-08:00 INFO (6): Installed Acl Rule 2
+2016-12-27T21:38:02-08:00 INFO (6): Installed Role acl-update
+2016-12-27T21:38:02-08:00 INFO (6): Installed Acl Rule 3
+2016-12-27T21:38:02-08:00 INFO (6): Installed Role acl-delete
+2016-12-27T21:38:02-08:00 INFO (6): Installed Acl Rule 4
+2016-12-27T21:38:02-08:00 INFO (6): Installed Role acl-view
+2016-12-27T21:38:02-08:00 INFO (6): Installed Acl Rule 5
+2016-12-27T21:38:02-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:38:02-08:00 INFO (6): Installed Menu Item Acl
+2016-12-27T21:38:02-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:38:02-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:38:02-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:38:02-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:38:02-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:38:02-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:38:02-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:38:02-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:38:02-08:00 INFO (6): Installed Page acl-create
+2016-12-27T21:38:02-08:00 INFO (6): Installed Page acl-delete
+2016-12-27T21:38:02-08:00 INFO (6): Installed Page acl-index
+2016-12-27T21:38:02-08:00 INFO (6): Installed Page acl-rest
+2016-12-27T21:38:02-08:00 INFO (6): Installed Page acl-update
+2016-12-27T21:38:02-08:00 INFO (6): Installed Page acl-view
+2016-12-27T21:38:02-08:00 INFO (6): Working on moudule AclResource
+2016-12-27T21:38:02-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-27T21:38:02-08:00 INFO (6): Installed Role guest
+2016-12-27T21:38:02-08:00 INFO (6): Installed Role user
+2016-12-27T21:38:02-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:38:02-08:00 INFO (6): Installed Role acl-resource-index
+2016-12-27T21:38:02-08:00 INFO (6): Installed Acl Rule 6
+2016-12-27T21:38:02-08:00 INFO (6): Installed Role acl-resource-create
+2016-12-27T21:38:02-08:00 INFO (6): Installed Acl Rule 7
+2016-12-27T21:38:02-08:00 INFO (6): Installed Role acl-resource-update
+2016-12-27T21:38:02-08:00 INFO (6): Installed Acl Rule 8
+2016-12-27T21:38:02-08:00 INFO (6): Installed Role acl-resource-delete
+2016-12-27T21:38:02-08:00 INFO (6): Installed Acl Rule 9
+2016-12-27T21:38:02-08:00 INFO (6): Installed Role acl-resource-view
+2016-12-27T21:38:02-08:00 INFO (6): Installed Acl Rule 10
+2016-12-27T21:38:02-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:38:02-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:38:02-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:38:02-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:38:02-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:38:02-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:38:02-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:38:02-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:38:02-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:38:02-08:00 INFO (6): Installed Page acl-resource-create
+2016-12-27T21:38:03-08:00 INFO (6): Installed Page acl-resource-delete
+2016-12-27T21:38:03-08:00 INFO (6): Installed Page acl-resource-index
+2016-12-27T21:38:03-08:00 INFO (6): Installed Page acl-resource-rest
+2016-12-27T21:38:03-08:00 INFO (6): Installed Page acl-resource-update
+2016-12-27T21:38:03-08:00 INFO (6): Installed Page acl-resource-view
+2016-12-27T21:38:03-08:00 INFO (6): Working on moudule AclRole
+2016-12-27T21:38:03-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-27T21:38:03-08:00 INFO (6): Installed Role guest
+2016-12-27T21:38:03-08:00 INFO (6): Installed Role user
+2016-12-27T21:38:03-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:38:03-08:00 INFO (6): Installed Role acl-role-index
+2016-12-27T21:38:03-08:00 INFO (6): Installed Acl Rule 11
+2016-12-27T21:38:03-08:00 INFO (6): Installed Role acl-role-create
+2016-12-27T21:38:03-08:00 INFO (6): Installed Acl Rule 12
+2016-12-27T21:38:03-08:00 INFO (6): Installed Role acl-role-update
+2016-12-27T21:38:03-08:00 INFO (6): Installed Acl Rule 13
+2016-12-27T21:38:03-08:00 INFO (6): Installed Role acl-role-delete
+2016-12-27T21:38:03-08:00 INFO (6): Installed Acl Rule 14
+2016-12-27T21:38:03-08:00 INFO (6): Installed Role acl-role-view
+2016-12-27T21:38:03-08:00 INFO (6): Installed Acl Rule 15
+2016-12-27T21:38:03-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:38:03-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:38:03-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:38:03-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:38:03-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:38:03-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:38:03-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:38:03-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:38:03-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:38:03-08:00 INFO (6): Installed Page acl-role-create
+2016-12-27T21:38:03-08:00 INFO (6): Installed Page acl-role-delete
+2016-12-27T21:38:03-08:00 INFO (6): Installed Page acl-role-index
+2016-12-27T21:38:03-08:00 INFO (6): Installed Page acl-role-rest
+2016-12-27T21:38:03-08:00 INFO (6): Installed Page acl-role-update
+2016-12-27T21:38:03-08:00 INFO (6): Installed Page acl-role-view
+2016-12-27T21:38:03-08:00 INFO (6): Working on moudule Action
+2016-12-27T21:38:03-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T21:38:03-08:00 INFO (6): Installed Role guest
+2016-12-27T21:38:03-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:38:03-08:00 INFO (6): Installed Role action-create
+2016-12-27T21:38:03-08:00 INFO (6): Installed Acl Rule 16
+2016-12-27T21:38:03-08:00 INFO (6): Installed Role action-delete
+2016-12-27T21:38:03-08:00 INFO (6): Installed Acl Rule 17
+2016-12-27T21:38:03-08:00 INFO (6): Installed Role action-index
+2016-12-27T21:38:03-08:00 INFO (6): Installed Acl Rule 18
+2016-12-27T21:38:03-08:00 INFO (6): Installed Role action-update
+2016-12-27T21:38:03-08:00 INFO (6): Installed Acl Rule 19
+2016-12-27T21:38:03-08:00 INFO (6): Installed Role action-view
+2016-12-27T21:38:03-08:00 INFO (6): Installed Acl Rule 20
+2016-12-27T21:38:03-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:38:03-08:00 INFO (6): Installed Menu Item Action
+2016-12-27T21:38:03-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:38:03-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:38:03-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:38:03-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:38:03-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:38:03-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:38:03-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:38:03-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:38:03-08:00 INFO (6): Installed Page action-create
+2016-12-27T21:38:03-08:00 INFO (6): Installed Page action-delete
+2016-12-27T21:38:03-08:00 INFO (6): Installed Page action-index
+2016-12-27T21:38:03-08:00 INFO (6): Installed Page action-rest
+2016-12-27T21:38:03-08:00 INFO (6): Installed Page action-update
+2016-12-27T21:38:03-08:00 INFO (6): Installed Page action-view
+2016-12-27T21:38:03-08:00 INFO (6): Working on moudule Admin
+2016-12-27T21:38:03-08:00 INFO (6): Installed Role guest
+2016-12-27T21:38:03-08:00 INFO (6): Installed Role user
+2016-12-27T21:38:03-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:38:03-08:00 INFO (6): Installed Role admin-index
+2016-12-27T21:38:03-08:00 INFO (6): Installed Acl Rule 21
+2016-12-27T21:38:03-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:38:03-08:00 INFO (6): Installed Menu Item Home
+2016-12-27T21:38:04-08:00 INFO (6): Installed Controller Index
+2016-12-27T21:38:04-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:38:04-08:00 INFO (6): Installed Page admin-index
+2016-12-27T21:38:04-08:00 INFO (6): Working on moudule Application
+2016-12-27T21:38:04-08:00 INFO (6): Failed to Update SQL /var/www/html/camper.pacificnm.com/module/Application/
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role guest
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role home
+2016-12-27T21:38:04-08:00 INFO (6): Installed Acl Rule 22
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role user
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role home
+2016-12-27T21:38:04-08:00 INFO (6): Installed Acl Rule 23
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role home
+2016-12-27T21:38:04-08:00 INFO (6): Installed Acl Rule 24
+2016-12-27T21:38:04-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:38:04-08:00 INFO (6): Installed Controller BaseController
+2016-12-27T21:38:04-08:00 INFO (6): Installed Controller KeepAliveController
+2016-12-27T21:38:04-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:38:04-08:00 INFO (6): Installed Controller BaseController
+2016-12-27T21:38:04-08:00 INFO (6): Installed Controller KeepAliveController
+2016-12-27T21:38:04-08:00 INFO (6): Installed Page home
+2016-12-27T21:38:04-08:00 INFO (6): Installed Page keep-alive
+2016-12-27T21:38:04-08:00 INFO (6): Working on moudule Auth
+2016-12-27T21:38:04-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role guest
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role auth-sign-in
+2016-12-27T21:38:04-08:00 INFO (6): Installed Acl Rule 25
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role auth-register-index
+2016-12-27T21:38:04-08:00 INFO (6): Installed Acl Rule 26
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role auth-reset-password-index
+2016-12-27T21:38:04-08:00 INFO (6): Installed Acl Rule 27
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role user
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role auth-profile-index
+2016-12-27T21:38:04-08:00 INFO (6): Installed Acl Rule 28
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role auth-profile-update
+2016-12-27T21:38:04-08:00 INFO (6): Installed Acl Rule 29
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role auth-profile-password
+2016-12-27T21:38:04-08:00 INFO (6): Installed Acl Rule 30
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role auth-sign-out
+2016-12-27T21:38:04-08:00 INFO (6): Installed Acl Rule 31
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role auth-index
+2016-12-27T21:38:04-08:00 INFO (6): Installed Acl Rule 32
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role auth-create
+2016-12-27T21:38:04-08:00 INFO (6): Installed Acl Rule 33
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role auth-delete
+2016-12-27T21:38:04-08:00 INFO (6): Installed Acl Rule 34
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role auth-update
+2016-12-27T21:38:04-08:00 INFO (6): Installed Acl Rule 35
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role auth-view
+2016-12-27T21:38:04-08:00 INFO (6): Installed Acl Rule 36
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role auth-password
+2016-12-27T21:38:04-08:00 INFO (6): Installed Acl Rule 37
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role auth-profile-index
+2016-12-27T21:38:04-08:00 INFO (6): Installed Acl Rule 38
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role auth-profile-update
+2016-12-27T21:38:04-08:00 INFO (6): Installed Acl Rule 39
+2016-12-27T21:38:04-08:00 INFO (6): Installed Role auth-profile-password
+2016-12-27T21:38:04-08:00 INFO (6): Installed Acl Rule 40
+2016-12-27T21:38:04-08:00 INFO (6): Installed Menu My Profile
+2016-12-27T21:38:04-08:00 INFO (6): Installed Menu Item Home
+2016-12-27T21:38:04-08:00 INFO (6): Installed Menu Item Settings
+2016-12-27T21:38:04-08:00 INFO (6): Installed Menu Item Password
+2016-12-27T21:38:04-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:38:04-08:00 INFO (6): Installed Menu Item Auth
+2016-12-27T21:38:04-08:00 INFO (6): Installed Controller SignInController
+2016-12-27T21:38:04-08:00 INFO (6): Installed Controller SignOutController
+2016-12-27T21:38:04-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:38:04-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:38:04-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:38:04-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:38:04-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:38:04-08:00 INFO (6): Installed Controller PasswordController
+2016-12-27T21:38:04-08:00 INFO (6): Installed Controller ProfileController
+2016-12-27T21:38:04-08:00 INFO (6): Installed Controller RegisterController
+2016-12-27T21:38:04-08:00 INFO (6): Installed Controller ResetPasswordController
+2016-12-27T21:38:04-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:38:04-08:00 INFO (6): Installed Page auth-profile-index
+2016-12-27T21:38:04-08:00 INFO (6): Installed Page auth-profile-update
+2016-12-27T21:38:04-08:00 INFO (6): Installed Page auth-profile-password
+2016-12-27T21:38:05-08:00 INFO (6): Installed Page auth-reset-password-index
+2016-12-27T21:38:05-08:00 INFO (6): Installed Page auth-register-index
+2016-12-27T21:38:05-08:00 INFO (6): Installed Page auth-sign-in
+2016-12-27T21:38:05-08:00 INFO (6): Installed Page auth-sign-out
+2016-12-27T21:38:05-08:00 INFO (6): Installed Page auth-index
+2016-12-27T21:38:05-08:00 INFO (6): Installed Page auth-create
+2016-12-27T21:38:05-08:00 INFO (6): Installed Page auth-update
+2016-12-27T21:38:05-08:00 INFO (6): Installed Page auth-view
+2016-12-27T21:38:05-08:00 INFO (6): Installed Page auth-delete
+2016-12-27T21:38:05-08:00 INFO (6): Installed Page auth-password
+2016-12-27T21:38:05-08:00 INFO (6): Working on moudule Config
+2016-12-27T21:38:05-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-27T21:38:05-08:00 INFO (6): Installed Role guest
+2016-12-27T21:38:05-08:00 INFO (6): Installed Role user
+2016-12-27T21:38:05-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:38:05-08:00 INFO (6): Installed Role config-create
+2016-12-27T21:38:05-08:00 INFO (6): Installed Acl Rule 41
+2016-12-27T21:38:05-08:00 INFO (6): Installed Role config-delete
+2016-12-27T21:38:05-08:00 INFO (6): Installed Acl Rule 42
+2016-12-27T21:38:05-08:00 INFO (6): Installed Role config-index
+2016-12-27T21:38:05-08:00 INFO (6): Installed Acl Rule 43
+2016-12-27T21:38:05-08:00 INFO (6): Installed Role config-update
+2016-12-27T21:38:05-08:00 INFO (6): Installed Acl Rule 44
+2016-12-27T21:38:05-08:00 INFO (6): Installed Role config-view
+2016-12-27T21:38:05-08:00 INFO (6): Installed Acl Rule 45
+2016-12-27T21:38:05-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:38:05-08:00 INFO (6): Installed Menu Item Config
+2016-12-27T21:38:05-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:38:05-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:38:05-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:38:05-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:38:05-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:38:05-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:38:05-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:38:05-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:38:05-08:00 INFO (6): Installed Page config-create
+2016-12-27T21:38:05-08:00 INFO (6): Installed Page config-delete
+2016-12-27T21:38:05-08:00 INFO (6): Installed Page config-index
+2016-12-27T21:38:05-08:00 INFO (6): Installed Page config-reset
+2016-12-27T21:38:05-08:00 INFO (6): Installed Page config-update
+2016-12-27T21:38:05-08:00 INFO (6): Installed Page config-view
+2016-12-27T21:38:05-08:00 INFO (6): Working on moudule Controller
+2016-12-27T21:38:05-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Controller/sql/controller.sql
+2016-12-27T21:38:05-08:00 INFO (6): Installed Role guest
+2016-12-27T21:38:05-08:00 INFO (6): Installed Role user
+2016-12-27T21:38:05-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:38:05-08:00 INFO (6): Installed Role controller-create
+2016-12-27T21:38:05-08:00 INFO (6): Installed Acl Rule 46
+2016-12-27T21:38:05-08:00 INFO (6): Installed Role controller-delete
+2016-12-27T21:38:05-08:00 INFO (6): Installed Acl Rule 47
+2016-12-27T21:38:05-08:00 INFO (6): Installed Role controller-index
+2016-12-27T21:38:05-08:00 INFO (6): Installed Acl Rule 48
+2016-12-27T21:38:05-08:00 INFO (6): Installed Role controller-update
+2016-12-27T21:38:05-08:00 INFO (6): Installed Acl Rule 49
+2016-12-27T21:38:05-08:00 INFO (6): Installed Role controller-view
+2016-12-27T21:38:05-08:00 INFO (6): Installed Acl Rule 50
+2016-12-27T21:38:05-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:38:05-08:00 INFO (6): Installed Menu Item Controller
+2016-12-27T21:38:05-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:38:05-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:38:05-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:38:05-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:38:05-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:38:05-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:38:05-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:38:05-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:38:05-08:00 INFO (6): Installed Page controller-create
+2016-12-27T21:38:05-08:00 INFO (6): Installed Page controller-delete
+2016-12-27T21:38:05-08:00 INFO (6): Installed Page controller-index
+2016-12-27T21:38:05-08:00 INFO (6): Installed Page controller-rest
+2016-12-27T21:38:05-08:00 INFO (6): Installed Page controller-update
+2016-12-27T21:38:05-08:00 INFO (6): Installed Page controller-view
+2016-12-27T21:38:05-08:00 INFO (6): Working on moudule Cron
+2016-12-27T21:38:05-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Cron/sql/cron.sql
+2016-12-27T21:38:06-08:00 INFO (6): Installed Role guest
+2016-12-27T21:38:06-08:00 INFO (6): Installed Role user
+2016-12-27T21:38:06-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:38:06-08:00 INFO (6): Installed Role cron-index
+2016-12-27T21:38:06-08:00 INFO (6): Installed Acl Rule 51
+2016-12-27T21:38:06-08:00 INFO (6): Installed Role cron-create
+2016-12-27T21:38:06-08:00 INFO (6): Installed Acl Rule 52
+2016-12-27T21:38:06-08:00 INFO (6): Installed Role cron-update
+2016-12-27T21:38:06-08:00 INFO (6): Installed Acl Rule 53
+2016-12-27T21:38:06-08:00 INFO (6): Installed Role cron-delete
+2016-12-27T21:38:06-08:00 INFO (6): Installed Acl Rule 54
+2016-12-27T21:38:06-08:00 INFO (6): Installed Role cron-view
+2016-12-27T21:38:06-08:00 INFO (6): Installed Acl Rule 55
+2016-12-27T21:38:06-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:38:06-08:00 INFO (6): Installed Menu Item Cron
+2016-12-27T21:38:06-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:38:06-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:38:06-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:38:06-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:38:06-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:38:06-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:38:06-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:38:06-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:38:06-08:00 INFO (6): Installed Page cron-create
+2016-12-27T21:38:06-08:00 INFO (6): Installed Page cron-delete
+2016-12-27T21:38:06-08:00 INFO (6): Installed Page cron-index
+2016-12-27T21:38:06-08:00 INFO (6): Installed Page cron-rest
+2016-12-27T21:38:06-08:00 INFO (6): Installed Page cron-update
+2016-12-27T21:38:06-08:00 INFO (6): Installed Page cron-view
+2016-12-27T21:38:06-08:00 INFO (6): Working on moudule Install
+2016-12-27T21:38:06-08:00 INFO (6): Failed to Update SQL /var/www/html/camper.pacificnm.com/module/Install/
+2016-12-27T21:38:06-08:00 INFO (6): No ACLS to install skipping
+2016-12-27T21:38:06-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:38:06-08:00 INFO (6): Installed Controller Index
+2016-12-27T21:38:06-08:00 INFO (6): Installed Controller Config
+2016-12-27T21:38:06-08:00 INFO (6): Installed Controller Admin
+2016-12-27T21:38:06-08:00 INFO (6): Installed Controller Database
+2016-12-27T21:38:06-08:00 INFO (6): Installed Controller Complete
+2016-12-27T21:38:06-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:38:06-08:00 INFO (6): Installed Page install-index
+2016-12-27T21:38:06-08:00 INFO (6): Installed Page install-database
+2016-12-27T21:38:06-08:00 INFO (6): Installed Page install-config
+2016-12-27T21:38:06-08:00 INFO (6): Installed Page install-admin
+2016-12-27T21:38:06-08:00 INFO (6): Installed Page install-complete
+2016-12-27T21:38:06-08:00 INFO (6): Working on moudule Menu
+2016-12-27T21:38:06-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-27T21:38:06-08:00 INFO (6): Installed Role guest
+2016-12-27T21:38:06-08:00 INFO (6): Installed Role user
+2016-12-27T21:38:06-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:38:06-08:00 INFO (6): Installed Role menu-create
+2016-12-27T21:38:06-08:00 INFO (6): Installed Acl Rule 56
+2016-12-27T21:38:06-08:00 INFO (6): Installed Role menu-delete
+2016-12-27T21:38:06-08:00 INFO (6): Installed Acl Rule 57
+2016-12-27T21:38:06-08:00 INFO (6): Installed Role menu-index
+2016-12-27T21:38:06-08:00 INFO (6): Installed Acl Rule 58
+2016-12-27T21:38:06-08:00 INFO (6): Installed Role menu-update
+2016-12-27T21:38:06-08:00 INFO (6): Installed Acl Rule 59
+2016-12-27T21:38:06-08:00 INFO (6): Installed Role menu-view
+2016-12-27T21:38:06-08:00 INFO (6): Installed Acl Rule 60
+2016-12-27T21:38:06-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:38:06-08:00 INFO (6): Installed Menu Item Menu
+2016-12-27T21:38:06-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:38:06-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:38:06-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:38:06-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:38:06-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:38:06-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:38:06-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:38:06-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:38:06-08:00 INFO (6): Installed Page menu-create
+2016-12-27T21:38:06-08:00 INFO (6): Installed Page menu-delete
+2016-12-27T21:38:06-08:00 INFO (6): Installed Page menu-index
+2016-12-27T21:38:06-08:00 INFO (6): Installed Page menu-rest
+2016-12-27T21:38:06-08:00 INFO (6): Installed Page menu-update
+2016-12-27T21:38:06-08:00 INFO (6): Installed Page menu-view
+2016-12-27T21:38:06-08:00 INFO (6): Working on moudule MenuItem
+2016-12-27T21:38:06-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/MenuItem/sql/menu_item.sql
+2016-12-27T21:38:06-08:00 INFO (6): Installed Role guest
+2016-12-27T21:38:06-08:00 INFO (6): Installed Role user
+2016-12-27T21:38:07-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:38:07-08:00 INFO (6): Installed Role menu-item-create
+2016-12-27T21:38:07-08:00 INFO (6): Installed Acl Rule 61
+2016-12-27T21:38:07-08:00 INFO (6): Installed Role menu-item-delete
+2016-12-27T21:38:07-08:00 INFO (6): Installed Acl Rule 62
+2016-12-27T21:38:07-08:00 INFO (6): Installed Role menu-item-index
+2016-12-27T21:38:07-08:00 INFO (6): Installed Acl Rule 63
+2016-12-27T21:38:07-08:00 INFO (6): Installed Role menu-item-update
+2016-12-27T21:38:07-08:00 INFO (6): Installed Acl Rule 64
+2016-12-27T21:38:07-08:00 INFO (6): Installed Role menu-item-view
+2016-12-27T21:38:07-08:00 INFO (6): Installed Acl Rule 65
+2016-12-27T21:38:07-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:38:07-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:38:07-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:38:07-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:38:07-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:38:07-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:38:07-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:38:07-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:38:07-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:38:07-08:00 INFO (6): Installed Page menu-item-create
+2016-12-27T21:38:07-08:00 INFO (6): Installed Page menu-item-delete
+2016-12-27T21:38:07-08:00 INFO (6): Installed Page menu-item-index
+2016-12-27T21:38:07-08:00 INFO (6): Installed Page menu-item-rest
+2016-12-27T21:38:07-08:00 INFO (6): Installed Page menu-item-update
+2016-12-27T21:38:07-08:00 INFO (6): Installed Page menu-item-view
+2016-12-27T21:38:07-08:00 INFO (6): Working on moudule Module
+2016-12-27T21:38:07-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Module/sql/module.sql
+2016-12-27T21:38:07-08:00 INFO (6): Installed Role guest
+2016-12-27T21:38:07-08:00 INFO (6): Installed Role user
+2016-12-27T21:38:07-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:38:07-08:00 INFO (6): Installed Role module-create
+2016-12-27T21:38:07-08:00 INFO (6): Installed Acl Rule 66
+2016-12-27T21:38:07-08:00 INFO (6): Installed Role module-delete
+2016-12-27T21:38:07-08:00 INFO (6): Installed Acl Rule 67
+2016-12-27T21:38:07-08:00 INFO (6): Installed Role module-index
+2016-12-27T21:38:07-08:00 INFO (6): Installed Acl Rule 68
+2016-12-27T21:38:07-08:00 INFO (6): Installed Role module-update
+2016-12-27T21:38:07-08:00 INFO (6): Installed Acl Rule 69
+2016-12-27T21:38:07-08:00 INFO (6): Installed Role module-view
+2016-12-27T21:38:07-08:00 INFO (6): Installed Acl Rule 70
+2016-12-27T21:38:07-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:38:07-08:00 INFO (6): Installed Menu Item Module
+2016-12-27T21:38:07-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:38:07-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:38:07-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:38:07-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:38:07-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:38:07-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:38:07-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:38:07-08:00 INFO (6): Installed Page module-create
+2016-12-27T21:38:07-08:00 INFO (6): Installed Page module-delete
+2016-12-27T21:38:07-08:00 INFO (6): Installed Page module-index
+2016-12-27T21:38:07-08:00 INFO (6): Installed Page module-rest
+2016-12-27T21:38:07-08:00 INFO (6): Installed Page module-update
+2016-12-27T21:38:07-08:00 INFO (6): Installed Page module-view
+2016-12-27T21:38:07-08:00 INFO (6): Working on moudule Page
+2016-12-27T21:38:07-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Page/sql/page.sql
+2016-12-27T21:38:07-08:00 INFO (6): Installed Role guest
+2016-12-27T21:38:07-08:00 INFO (6): Installed Role user
+2016-12-27T21:38:07-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:38:07-08:00 INFO (6): Installed Role page-create
+2016-12-27T21:38:07-08:00 INFO (6): Installed Acl Rule 71
+2016-12-27T21:38:07-08:00 INFO (6): Installed Role page-delete
+2016-12-27T21:38:07-08:00 INFO (6): Installed Acl Rule 72
+2016-12-27T21:38:07-08:00 INFO (6): Installed Role page-index
+2016-12-27T21:38:07-08:00 INFO (6): Installed Acl Rule 73
+2016-12-27T21:38:07-08:00 INFO (6): Installed Role page-update
+2016-12-27T21:38:07-08:00 INFO (6): Installed Acl Rule 74
+2016-12-27T21:38:07-08:00 INFO (6): Installed Role page-view
+2016-12-27T21:38:07-08:00 INFO (6): Installed Acl Rule 75
+2016-12-27T21:38:07-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:38:07-08:00 INFO (6): Installed Menu Item Pages
+2016-12-27T21:38:07-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:38:07-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:38:07-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:38:07-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:38:07-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:38:07-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:38:07-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:38:07-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:38:07-08:00 INFO (6): Installed Page page-create
+2016-12-27T21:38:07-08:00 INFO (6): Installed Page page-delete
+2016-12-27T21:38:07-08:00 INFO (6): Installed Page page-index
+2016-12-27T21:38:08-08:00 INFO (6): Installed Page page-rest
+2016-12-27T21:38:08-08:00 INFO (6): Installed Page page-update
+2016-12-27T21:38:08-08:00 INFO (6): Installed Page page-view
+2016-12-27T21:38:08-08:00 INFO (6): Working on moudule Update
+2016-12-27T21:38:08-08:00 INFO (6): Failed to Update SQL /var/www/html/camper.pacificnm.com/module/Update/
+2016-12-27T21:38:08-08:00 INFO (6): Installed Role guest
+2016-12-27T21:38:08-08:00 INFO (6): Installed Role user
+2016-12-27T21:38:08-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:38:08-08:00 INFO (6): Installed Role update-index
+2016-12-27T21:38:08-08:00 INFO (6): Installed Acl Rule 76
+2016-12-27T21:38:08-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:38:08-08:00 INFO (6): Installed Menu Item Update
+2016-12-27T21:38:08-08:00 INFO (6): Installed Controller Console
+2016-12-27T21:38:08-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:38:08-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:38:08-08:00 INFO (6): Installed Page update-index
+2016-12-27T21:38:08-08:00 INFO (6): Installed Page update-check
+2016-12-27T21:38:08-08:00 INFO (6): Installed Page update-install
+2016-12-27T21:38:08-08:00 INFO (6): Comleted install at 12/27/2016 09:38 pm
+2016-12-27T21:46:18-08:00 INFO (6): Start install at 12/27/2016 09:46 pm
+2016-12-27T21:46:18-08:00 INFO (6): Installing module Acl tables
+2016-12-27T21:46:18-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-27T21:46:18-08:00 INFO (6): Installing module AclResource tables
+2016-12-27T21:46:18-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-27T21:46:18-08:00 INFO (6): Installing module AclRole tables
+2016-12-27T21:46:18-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-27T21:46:18-08:00 INFO (6): Installing module Action tables
+2016-12-27T21:46:19-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T21:46:19-08:00 INFO (6): Installing module Admin tables
+2016-12-27T21:46:19-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T21:46:19-08:00 INFO (6): Installing module Application tables
+2016-12-27T21:46:19-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Application/
+2016-12-27T21:46:19-08:00 INFO (6): Installing module Auth tables
+2016-12-27T21:46:19-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-27T21:46:19-08:00 INFO (6): Installing module Config tables
+2016-12-27T21:46:19-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-27T21:46:19-08:00 INFO (6): Installing module Controller tables
+2016-12-27T21:46:19-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Controller/sql/controller.sql
+2016-12-27T21:46:19-08:00 INFO (6): Installing module Cron tables
+2016-12-27T21:46:19-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Cron/sql/cron.sql
+2016-12-27T21:46:19-08:00 INFO (6): Installing module Install tables
+2016-12-27T21:46:19-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Install/
+2016-12-27T21:46:19-08:00 INFO (6): Installing module Menu tables
+2016-12-27T21:46:20-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-27T21:46:20-08:00 INFO (6): Installing module MenuItem tables
+2016-12-27T21:46:20-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/MenuItem/sql/menu_item.sql
+2016-12-27T21:46:20-08:00 INFO (6): Installing module Module tables
+2016-12-27T21:46:20-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Module/sql/module.sql
+2016-12-27T21:46:20-08:00 INFO (6): Installing module Page tables
+2016-12-27T21:46:20-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Page/sql/page.sql
+2016-12-27T21:46:20-08:00 INFO (6): Installing module Update tables
+2016-12-27T21:46:20-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Update/
+2016-12-27T21:46:20-08:00 INFO (6): Working on moudule Acl
+2016-12-27T21:46:20-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-27T21:46:20-08:00 INFO (6): Installed Role guest
+2016-12-27T21:46:20-08:00 INFO (6): Installed Role user
+2016-12-27T21:46:20-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:46:20-08:00 INFO (6): Installed Role acl-index
+2016-12-27T21:46:21-08:00 INFO (6): Installed Acl Rule 1
+2016-12-27T21:46:21-08:00 INFO (6): Installed Role acl-create
+2016-12-27T21:46:21-08:00 INFO (6): Installed Acl Rule 2
+2016-12-27T21:46:21-08:00 INFO (6): Installed Role acl-update
+2016-12-27T21:46:21-08:00 INFO (6): Installed Acl Rule 3
+2016-12-27T21:46:21-08:00 INFO (6): Installed Role acl-delete
+2016-12-27T21:46:21-08:00 INFO (6): Installed Acl Rule 4
+2016-12-27T21:46:21-08:00 INFO (6): Installed Role acl-view
+2016-12-27T21:46:21-08:00 INFO (6): Installed Acl Rule 5
+2016-12-27T21:46:21-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:46:21-08:00 INFO (6): Installed Menu Item Acl
+2016-12-27T21:46:21-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:46:21-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:46:21-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:46:21-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:46:21-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:46:21-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:46:21-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:46:21-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:46:21-08:00 INFO (6): Installed Page acl-create
+2016-12-27T21:46:21-08:00 INFO (6): Installed Page acl-delete
+2016-12-27T21:46:21-08:00 INFO (6): Installed Page acl-index
+2016-12-27T21:46:21-08:00 INFO (6): Installed Page acl-rest
+2016-12-27T21:46:21-08:00 INFO (6): Installed Page acl-update
+2016-12-27T21:46:21-08:00 INFO (6): Installed Page acl-view
+2016-12-27T21:46:21-08:00 INFO (6): Working on moudule AclResource
+2016-12-27T21:46:21-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-27T21:46:21-08:00 INFO (6): Installed Role guest
+2016-12-27T21:46:21-08:00 INFO (6): Installed Role user
+2016-12-27T21:46:21-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:46:21-08:00 INFO (6): Installed Role acl-resource-index
+2016-12-27T21:46:21-08:00 INFO (6): Installed Acl Rule 6
+2016-12-27T21:46:21-08:00 INFO (6): Installed Role acl-resource-create
+2016-12-27T21:46:21-08:00 INFO (6): Installed Acl Rule 7
+2016-12-27T21:46:21-08:00 INFO (6): Installed Role acl-resource-update
+2016-12-27T21:46:21-08:00 INFO (6): Installed Acl Rule 8
+2016-12-27T21:46:21-08:00 INFO (6): Installed Role acl-resource-delete
+2016-12-27T21:46:21-08:00 INFO (6): Installed Acl Rule 9
+2016-12-27T21:46:21-08:00 INFO (6): Installed Role acl-resource-view
+2016-12-27T21:46:21-08:00 INFO (6): Installed Acl Rule 10
+2016-12-27T21:46:21-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:46:21-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:46:21-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:46:21-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:46:21-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:46:21-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:46:21-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:46:21-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:46:21-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:46:21-08:00 INFO (6): Installed Page acl-resource-create
+2016-12-27T21:46:21-08:00 INFO (6): Installed Page acl-resource-delete
+2016-12-27T21:46:21-08:00 INFO (6): Installed Page acl-resource-index
+2016-12-27T21:46:21-08:00 INFO (6): Installed Page acl-resource-rest
+2016-12-27T21:46:21-08:00 INFO (6): Installed Page acl-resource-update
+2016-12-27T21:46:21-08:00 INFO (6): Installed Page acl-resource-view
+2016-12-27T21:46:21-08:00 INFO (6): Working on moudule AclRole
+2016-12-27T21:46:21-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-27T21:46:21-08:00 INFO (6): Installed Role guest
+2016-12-27T21:46:21-08:00 INFO (6): Installed Role user
+2016-12-27T21:46:21-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:46:21-08:00 INFO (6): Installed Role acl-role-index
+2016-12-27T21:46:21-08:00 INFO (6): Installed Acl Rule 11
+2016-12-27T21:46:21-08:00 INFO (6): Installed Role acl-role-create
+2016-12-27T21:46:21-08:00 INFO (6): Installed Acl Rule 12
+2016-12-27T21:46:21-08:00 INFO (6): Installed Role acl-role-update
+2016-12-27T21:46:21-08:00 INFO (6): Installed Acl Rule 13
+2016-12-27T21:46:21-08:00 INFO (6): Installed Role acl-role-delete
+2016-12-27T21:46:21-08:00 INFO (6): Installed Acl Rule 14
+2016-12-27T21:46:21-08:00 INFO (6): Installed Role acl-role-view
+2016-12-27T21:46:21-08:00 INFO (6): Installed Acl Rule 15
+2016-12-27T21:46:21-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:46:21-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:46:21-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:46:21-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:46:21-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:46:21-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:46:21-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:46:22-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:46:22-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:46:22-08:00 INFO (6): Installed Page acl-role-create
+2016-12-27T21:46:22-08:00 INFO (6): Installed Page acl-role-delete
+2016-12-27T21:46:22-08:00 INFO (6): Installed Page acl-role-index
+2016-12-27T21:46:22-08:00 INFO (6): Installed Page acl-role-rest
+2016-12-27T21:46:22-08:00 INFO (6): Installed Page acl-role-update
+2016-12-27T21:46:22-08:00 INFO (6): Installed Page acl-role-view
+2016-12-27T21:46:22-08:00 INFO (6): Working on moudule Action
+2016-12-27T21:46:22-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T21:46:22-08:00 INFO (6): Installed Role guest
+2016-12-27T21:46:22-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:46:22-08:00 INFO (6): Installed Role action-create
+2016-12-27T21:46:22-08:00 INFO (6): Installed Acl Rule 16
+2016-12-27T21:46:22-08:00 INFO (6): Installed Role action-delete
+2016-12-27T21:46:22-08:00 INFO (6): Installed Acl Rule 17
+2016-12-27T21:46:22-08:00 INFO (6): Installed Role action-index
+2016-12-27T21:46:22-08:00 INFO (6): Installed Acl Rule 18
+2016-12-27T21:46:22-08:00 INFO (6): Installed Role action-update
+2016-12-27T21:46:22-08:00 INFO (6): Installed Acl Rule 19
+2016-12-27T21:46:22-08:00 INFO (6): Installed Role action-view
+2016-12-27T21:46:22-08:00 INFO (6): Installed Acl Rule 20
+2016-12-27T21:46:22-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:46:22-08:00 INFO (6): Installed Menu Item Action
+2016-12-27T21:46:22-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:46:22-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:46:22-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:46:22-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:46:22-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:46:22-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:46:22-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:46:22-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:46:22-08:00 INFO (6): Installed Page action-create
+2016-12-27T21:46:22-08:00 INFO (6): Installed Page action-delete
+2016-12-27T21:46:22-08:00 INFO (6): Installed Page action-index
+2016-12-27T21:46:22-08:00 INFO (6): Installed Page action-rest
+2016-12-27T21:46:22-08:00 INFO (6): Installed Page action-update
+2016-12-27T21:46:22-08:00 INFO (6): Installed Page action-view
+2016-12-27T21:46:22-08:00 INFO (6): Working on moudule Admin
+2016-12-27T21:46:22-08:00 INFO (6): Installed Role guest
+2016-12-27T21:46:22-08:00 INFO (6): Installed Role user
+2016-12-27T21:46:22-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:46:22-08:00 INFO (6): Installed Role admin-index
+2016-12-27T21:46:22-08:00 INFO (6): Installed Acl Rule 21
+2016-12-27T21:46:22-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:46:22-08:00 INFO (6): Installed Menu Item Home
+2016-12-27T21:46:22-08:00 INFO (6): Installed Controller Index
+2016-12-27T21:46:22-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:46:22-08:00 INFO (6): Installed Page admin-index
+2016-12-27T21:46:22-08:00 INFO (6): Working on moudule Application
+2016-12-27T21:46:22-08:00 INFO (6): Failed to Update SQL /var/www/html/camper.pacificnm.com/module/Application/
+2016-12-27T21:46:22-08:00 INFO (6): Installed Role guest
+2016-12-27T21:46:22-08:00 INFO (6): Installed Role home
+2016-12-27T21:46:22-08:00 INFO (6): Installed Acl Rule 22
+2016-12-27T21:46:22-08:00 INFO (6): Installed Role user
+2016-12-27T21:46:22-08:00 INFO (6): Installed Role home
+2016-12-27T21:46:22-08:00 INFO (6): Installed Acl Rule 23
+2016-12-27T21:46:22-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:46:22-08:00 INFO (6): Installed Role home
+2016-12-27T21:46:22-08:00 INFO (6): Installed Acl Rule 24
+2016-12-27T21:46:22-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:46:22-08:00 INFO (6): Installed Controller BaseController
+2016-12-27T21:46:22-08:00 INFO (6): Installed Controller KeepAliveController
+2016-12-27T21:46:22-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:46:22-08:00 INFO (6): Installed Controller BaseController
+2016-12-27T21:46:22-08:00 INFO (6): Installed Controller KeepAliveController
+2016-12-27T21:46:22-08:00 INFO (6): Installed Page home
+2016-12-27T21:46:22-08:00 INFO (6): Installed Page keep-alive
+2016-12-27T21:46:22-08:00 INFO (6): Working on moudule Auth
+2016-12-27T21:46:22-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-27T21:46:22-08:00 INFO (6): Installed Role guest
+2016-12-27T21:46:22-08:00 INFO (6): Installed Role auth-sign-in
+2016-12-27T21:46:22-08:00 INFO (6): Installed Acl Rule 25
+2016-12-27T21:46:22-08:00 INFO (6): Installed Role auth-register-index
+2016-12-27T21:46:22-08:00 INFO (6): Installed Acl Rule 26
+2016-12-27T21:46:22-08:00 INFO (6): Installed Role auth-reset-password-index
+2016-12-27T21:46:22-08:00 INFO (6): Installed Acl Rule 27
+2016-12-27T21:46:22-08:00 INFO (6): Installed Role user
+2016-12-27T21:46:22-08:00 INFO (6): Installed Role auth-profile-index
+2016-12-27T21:46:22-08:00 INFO (6): Installed Acl Rule 28
+2016-12-27T21:46:23-08:00 INFO (6): Installed Role auth-profile-update
+2016-12-27T21:46:23-08:00 INFO (6): Installed Acl Rule 29
+2016-12-27T21:46:23-08:00 INFO (6): Installed Role auth-profile-password
+2016-12-27T21:46:23-08:00 INFO (6): Installed Acl Rule 30
+2016-12-27T21:46:23-08:00 INFO (6): Installed Role auth-sign-out
+2016-12-27T21:46:23-08:00 INFO (6): Installed Acl Rule 31
+2016-12-27T21:46:23-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:46:23-08:00 INFO (6): Installed Role auth-index
+2016-12-27T21:46:23-08:00 INFO (6): Installed Acl Rule 32
+2016-12-27T21:46:23-08:00 INFO (6): Installed Role auth-create
+2016-12-27T21:46:23-08:00 INFO (6): Installed Acl Rule 33
+2016-12-27T21:46:23-08:00 INFO (6): Installed Role auth-delete
+2016-12-27T21:46:23-08:00 INFO (6): Installed Acl Rule 34
+2016-12-27T21:46:23-08:00 INFO (6): Installed Role auth-update
+2016-12-27T21:46:23-08:00 INFO (6): Installed Acl Rule 35
+2016-12-27T21:46:23-08:00 INFO (6): Installed Role auth-view
+2016-12-27T21:46:23-08:00 INFO (6): Installed Acl Rule 36
+2016-12-27T21:46:23-08:00 INFO (6): Installed Role auth-password
+2016-12-27T21:46:23-08:00 INFO (6): Installed Acl Rule 37
+2016-12-27T21:46:23-08:00 INFO (6): Installed Role auth-profile-index
+2016-12-27T21:46:23-08:00 INFO (6): Installed Acl Rule 38
+2016-12-27T21:46:23-08:00 INFO (6): Installed Role auth-profile-update
+2016-12-27T21:46:23-08:00 INFO (6): Installed Acl Rule 39
+2016-12-27T21:46:23-08:00 INFO (6): Installed Role auth-profile-password
+2016-12-27T21:46:23-08:00 INFO (6): Installed Acl Rule 40
+2016-12-27T21:46:23-08:00 INFO (6): Installed Menu My Profile
+2016-12-27T21:46:23-08:00 INFO (6): Installed Menu Item Home
+2016-12-27T21:46:23-08:00 INFO (6): Installed Menu Item Settings
+2016-12-27T21:46:23-08:00 INFO (6): Installed Menu Item Password
+2016-12-27T21:46:23-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:46:23-08:00 INFO (6): Installed Menu Item Auth
+2016-12-27T21:46:23-08:00 INFO (6): Installed Controller SignInController
+2016-12-27T21:46:23-08:00 INFO (6): Installed Controller SignOutController
+2016-12-27T21:46:23-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:46:23-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:46:23-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:46:23-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:46:23-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:46:23-08:00 INFO (6): Installed Controller PasswordController
+2016-12-27T21:46:23-08:00 INFO (6): Installed Controller ProfileController
+2016-12-27T21:46:23-08:00 INFO (6): Installed Controller RegisterController
+2016-12-27T21:46:23-08:00 INFO (6): Installed Controller ResetPasswordController
+2016-12-27T21:46:23-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:46:23-08:00 INFO (6): Installed Page auth-profile-index
+2016-12-27T21:46:23-08:00 INFO (6): Installed Page auth-profile-update
+2016-12-27T21:46:23-08:00 INFO (6): Installed Page auth-profile-password
+2016-12-27T21:46:23-08:00 INFO (6): Installed Page auth-reset-password-index
+2016-12-27T21:46:23-08:00 INFO (6): Installed Page auth-register-index
+2016-12-27T21:46:23-08:00 INFO (6): Installed Page auth-sign-in
+2016-12-27T21:46:23-08:00 INFO (6): Installed Page auth-sign-out
+2016-12-27T21:46:23-08:00 INFO (6): Installed Page auth-index
+2016-12-27T21:46:23-08:00 INFO (6): Installed Page auth-create
+2016-12-27T21:46:23-08:00 INFO (6): Installed Page auth-update
+2016-12-27T21:46:23-08:00 INFO (6): Installed Page auth-view
+2016-12-27T21:46:23-08:00 INFO (6): Installed Page auth-delete
+2016-12-27T21:46:23-08:00 INFO (6): Installed Page auth-password
+2016-12-27T21:46:23-08:00 INFO (6): Working on moudule Config
+2016-12-27T21:46:23-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-27T21:46:23-08:00 INFO (6): Installed Role guest
+2016-12-27T21:46:23-08:00 INFO (6): Installed Role user
+2016-12-27T21:46:23-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:46:23-08:00 INFO (6): Installed Role config-create
+2016-12-27T21:46:23-08:00 INFO (6): Installed Acl Rule 41
+2016-12-27T21:46:23-08:00 INFO (6): Installed Role config-delete
+2016-12-27T21:46:23-08:00 INFO (6): Installed Acl Rule 42
+2016-12-27T21:46:23-08:00 INFO (6): Installed Role config-index
+2016-12-27T21:46:23-08:00 INFO (6): Installed Acl Rule 43
+2016-12-27T21:46:23-08:00 INFO (6): Installed Role config-update
+2016-12-27T21:46:23-08:00 INFO (6): Installed Acl Rule 44
+2016-12-27T21:46:23-08:00 INFO (6): Installed Role config-view
+2016-12-27T21:46:23-08:00 INFO (6): Installed Acl Rule 45
+2016-12-27T21:46:23-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:46:23-08:00 INFO (6): Installed Menu Item Config
+2016-12-27T21:46:23-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:46:24-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:46:24-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:46:24-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:46:24-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:46:24-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:46:24-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:46:24-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:46:24-08:00 INFO (6): Installed Page config-create
+2016-12-27T21:46:24-08:00 INFO (6): Installed Page config-delete
+2016-12-27T21:46:24-08:00 INFO (6): Installed Page config-index
+2016-12-27T21:46:24-08:00 INFO (6): Installed Page config-reset
+2016-12-27T21:46:24-08:00 INFO (6): Installed Page config-update
+2016-12-27T21:46:24-08:00 INFO (6): Installed Page config-view
+2016-12-27T21:46:24-08:00 INFO (6): Working on moudule Controller
+2016-12-27T21:46:24-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Controller/sql/controller.sql
+2016-12-27T21:46:24-08:00 INFO (6): Installed Role guest
+2016-12-27T21:46:24-08:00 INFO (6): Installed Role user
+2016-12-27T21:46:24-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:46:24-08:00 INFO (6): Installed Role controller-create
+2016-12-27T21:46:24-08:00 INFO (6): Installed Acl Rule 46
+2016-12-27T21:46:24-08:00 INFO (6): Installed Role controller-delete
+2016-12-27T21:46:24-08:00 INFO (6): Installed Acl Rule 47
+2016-12-27T21:46:24-08:00 INFO (6): Installed Role controller-index
+2016-12-27T21:46:24-08:00 INFO (6): Installed Acl Rule 48
+2016-12-27T21:46:24-08:00 INFO (6): Installed Role controller-update
+2016-12-27T21:46:24-08:00 INFO (6): Installed Acl Rule 49
+2016-12-27T21:46:24-08:00 INFO (6): Installed Role controller-view
+2016-12-27T21:46:24-08:00 INFO (6): Installed Acl Rule 50
+2016-12-27T21:46:24-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:46:24-08:00 INFO (6): Installed Menu Item Controller
+2016-12-27T21:46:24-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:46:24-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:46:24-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:46:24-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:46:24-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:46:24-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:46:24-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:46:24-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:46:24-08:00 INFO (6): Installed Page controller-create
+2016-12-27T21:46:24-08:00 INFO (6): Installed Page controller-delete
+2016-12-27T21:46:24-08:00 INFO (6): Installed Page controller-index
+2016-12-27T21:46:24-08:00 INFO (6): Installed Page controller-rest
+2016-12-27T21:46:24-08:00 INFO (6): Installed Page controller-update
+2016-12-27T21:46:24-08:00 INFO (6): Installed Page controller-view
+2016-12-27T21:46:24-08:00 INFO (6): Working on moudule Cron
+2016-12-27T21:46:24-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Cron/sql/cron.sql
+2016-12-27T21:46:24-08:00 INFO (6): Installed Role guest
+2016-12-27T21:46:24-08:00 INFO (6): Installed Role user
+2016-12-27T21:46:24-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:46:24-08:00 INFO (6): Installed Role cron-index
+2016-12-27T21:46:24-08:00 INFO (6): Installed Acl Rule 51
+2016-12-27T21:46:24-08:00 INFO (6): Installed Role cron-create
+2016-12-27T21:46:24-08:00 INFO (6): Installed Acl Rule 52
+2016-12-27T21:46:24-08:00 INFO (6): Installed Role cron-update
+2016-12-27T21:46:24-08:00 INFO (6): Installed Acl Rule 53
+2016-12-27T21:46:24-08:00 INFO (6): Installed Role cron-delete
+2016-12-27T21:46:24-08:00 INFO (6): Installed Acl Rule 54
+2016-12-27T21:46:24-08:00 INFO (6): Installed Role cron-view
+2016-12-27T21:46:24-08:00 INFO (6): Installed Acl Rule 55
+2016-12-27T21:46:24-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:46:24-08:00 INFO (6): Installed Menu Item Cron
+2016-12-27T21:46:24-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:46:24-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:46:24-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:46:24-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:46:24-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:46:24-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:46:24-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:46:24-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:46:24-08:00 INFO (6): Installed Page cron-create
+2016-12-27T21:46:24-08:00 INFO (6): Installed Page cron-delete
+2016-12-27T21:46:24-08:00 INFO (6): Installed Page cron-index
+2016-12-27T21:46:24-08:00 INFO (6): Installed Page cron-rest
+2016-12-27T21:46:24-08:00 INFO (6): Installed Page cron-update
+2016-12-27T21:46:24-08:00 INFO (6): Installed Page cron-view
+2016-12-27T21:46:24-08:00 INFO (6): Working on moudule Install
+2016-12-27T21:46:24-08:00 INFO (6): Failed to Update SQL /var/www/html/camper.pacificnm.com/module/Install/
+2016-12-27T21:46:24-08:00 INFO (6): No ACLS to install skipping
+2016-12-27T21:46:24-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:46:24-08:00 INFO (6): Installed Controller Index
+2016-12-27T21:46:24-08:00 INFO (6): Installed Controller Config
+2016-12-27T21:46:25-08:00 INFO (6): Installed Controller Admin
+2016-12-27T21:46:25-08:00 INFO (6): Installed Controller Database
+2016-12-27T21:46:25-08:00 INFO (6): Installed Controller Complete
+2016-12-27T21:46:25-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:46:25-08:00 INFO (6): Installed Page install-index
+2016-12-27T21:46:25-08:00 INFO (6): Installed Page install-database
+2016-12-27T21:46:25-08:00 INFO (6): Installed Page install-config
+2016-12-27T21:46:25-08:00 INFO (6): Installed Page install-admin
+2016-12-27T21:46:25-08:00 INFO (6): Installed Page install-complete
+2016-12-27T21:46:25-08:00 INFO (6): Working on moudule Menu
+2016-12-27T21:46:25-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-27T21:46:25-08:00 INFO (6): Installed Role guest
+2016-12-27T21:46:25-08:00 INFO (6): Installed Role user
+2016-12-27T21:46:25-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:46:25-08:00 INFO (6): Installed Role menu-create
+2016-12-27T21:46:25-08:00 INFO (6): Installed Acl Rule 56
+2016-12-27T21:46:25-08:00 INFO (6): Installed Role menu-delete
+2016-12-27T21:46:25-08:00 INFO (6): Installed Acl Rule 57
+2016-12-27T21:46:25-08:00 INFO (6): Installed Role menu-index
+2016-12-27T21:46:25-08:00 INFO (6): Installed Acl Rule 58
+2016-12-27T21:46:25-08:00 INFO (6): Installed Role menu-update
+2016-12-27T21:46:25-08:00 INFO (6): Installed Acl Rule 59
+2016-12-27T21:46:25-08:00 INFO (6): Installed Role menu-view
+2016-12-27T21:46:25-08:00 INFO (6): Installed Acl Rule 60
+2016-12-27T21:46:25-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:46:25-08:00 INFO (6): Installed Menu Item Menu
+2016-12-27T21:46:25-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:46:25-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:46:25-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:46:25-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:46:25-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:46:25-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:46:25-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:46:25-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:46:25-08:00 INFO (6): Installed Page menu-create
+2016-12-27T21:46:25-08:00 INFO (6): Installed Page menu-delete
+2016-12-27T21:46:25-08:00 INFO (6): Installed Page menu-index
+2016-12-27T21:46:25-08:00 INFO (6): Installed Page menu-rest
+2016-12-27T21:46:25-08:00 INFO (6): Installed Page menu-update
+2016-12-27T21:46:25-08:00 INFO (6): Installed Page menu-view
+2016-12-27T21:46:25-08:00 INFO (6): Working on moudule MenuItem
+2016-12-27T21:46:25-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/MenuItem/sql/menu_item.sql
+2016-12-27T21:46:25-08:00 INFO (6): Installed Role guest
+2016-12-27T21:46:25-08:00 INFO (6): Installed Role user
+2016-12-27T21:46:25-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:46:25-08:00 INFO (6): Installed Role menu-item-create
+2016-12-27T21:46:25-08:00 INFO (6): Installed Acl Rule 61
+2016-12-27T21:46:25-08:00 INFO (6): Installed Role menu-item-delete
+2016-12-27T21:46:25-08:00 INFO (6): Installed Acl Rule 62
+2016-12-27T21:46:25-08:00 INFO (6): Installed Role menu-item-index
+2016-12-27T21:46:25-08:00 INFO (6): Installed Acl Rule 63
+2016-12-27T21:46:25-08:00 INFO (6): Installed Role menu-item-update
+2016-12-27T21:46:25-08:00 INFO (6): Installed Acl Rule 64
+2016-12-27T21:46:25-08:00 INFO (6): Installed Role menu-item-view
+2016-12-27T21:46:25-08:00 INFO (6): Installed Acl Rule 65
+2016-12-27T21:46:25-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:46:25-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:46:25-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:46:25-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:46:25-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:46:25-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:46:25-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:46:25-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:46:25-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:46:25-08:00 INFO (6): Installed Page menu-item-create
+2016-12-27T21:46:25-08:00 INFO (6): Installed Page menu-item-delete
+2016-12-27T21:46:25-08:00 INFO (6): Installed Page menu-item-index
+2016-12-27T21:46:25-08:00 INFO (6): Installed Page menu-item-rest
+2016-12-27T21:46:25-08:00 INFO (6): Installed Page menu-item-update
+2016-12-27T21:46:25-08:00 INFO (6): Installed Page menu-item-view
+2016-12-27T21:46:25-08:00 INFO (6): Working on moudule Module
+2016-12-27T21:46:25-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Module/sql/module.sql
+2016-12-27T21:46:25-08:00 INFO (6): Installed Role guest
+2016-12-27T21:46:25-08:00 INFO (6): Installed Role user
+2016-12-27T21:46:25-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:46:25-08:00 INFO (6): Installed Role module-create
+2016-12-27T21:46:25-08:00 INFO (6): Installed Acl Rule 66
+2016-12-27T21:46:25-08:00 INFO (6): Installed Role module-delete
+2016-12-27T21:46:25-08:00 INFO (6): Installed Acl Rule 67
+2016-12-27T21:46:26-08:00 INFO (6): Installed Role module-index
+2016-12-27T21:46:26-08:00 INFO (6): Installed Acl Rule 68
+2016-12-27T21:46:26-08:00 INFO (6): Installed Role module-update
+2016-12-27T21:46:26-08:00 INFO (6): Installed Acl Rule 69
+2016-12-27T21:46:26-08:00 INFO (6): Installed Role module-view
+2016-12-27T21:46:26-08:00 INFO (6): Installed Acl Rule 70
+2016-12-27T21:46:26-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:46:26-08:00 INFO (6): Installed Menu Item Module
+2016-12-27T21:46:26-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:46:26-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:46:26-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:46:26-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:46:26-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:46:26-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:46:26-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:46:26-08:00 INFO (6): Installed Page module-create
+2016-12-27T21:46:26-08:00 INFO (6): Installed Page module-delete
+2016-12-27T21:46:26-08:00 INFO (6): Installed Page module-index
+2016-12-27T21:46:26-08:00 INFO (6): Installed Page module-rest
+2016-12-27T21:46:26-08:00 INFO (6): Installed Page module-update
+2016-12-27T21:46:26-08:00 INFO (6): Installed Page module-view
+2016-12-27T21:46:26-08:00 INFO (6): Working on moudule Page
+2016-12-27T21:46:26-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Page/sql/page.sql
+2016-12-27T21:46:26-08:00 INFO (6): Installed Role guest
+2016-12-27T21:46:26-08:00 INFO (6): Installed Role user
+2016-12-27T21:46:26-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:46:26-08:00 INFO (6): Installed Role page-create
+2016-12-27T21:46:26-08:00 INFO (6): Installed Acl Rule 71
+2016-12-27T21:46:26-08:00 INFO (6): Installed Role page-delete
+2016-12-27T21:46:26-08:00 INFO (6): Installed Acl Rule 72
+2016-12-27T21:46:26-08:00 INFO (6): Installed Role page-index
+2016-12-27T21:46:26-08:00 INFO (6): Installed Acl Rule 73
+2016-12-27T21:46:26-08:00 INFO (6): Installed Role page-update
+2016-12-27T21:46:26-08:00 INFO (6): Installed Acl Rule 74
+2016-12-27T21:46:26-08:00 INFO (6): Installed Role page-view
+2016-12-27T21:46:26-08:00 INFO (6): Installed Acl Rule 75
+2016-12-27T21:46:26-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:46:26-08:00 INFO (6): Installed Menu Item Pages
+2016-12-27T21:46:26-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T21:46:26-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T21:46:26-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T21:46:26-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:46:26-08:00 INFO (6): Installed Controller RestController
+2016-12-27T21:46:26-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T21:46:26-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T21:46:26-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:46:26-08:00 INFO (6): Installed Page page-create
+2016-12-27T21:46:26-08:00 INFO (6): Installed Page page-delete
+2016-12-27T21:46:26-08:00 INFO (6): Installed Page page-index
+2016-12-27T21:46:26-08:00 INFO (6): Installed Page page-rest
+2016-12-27T21:46:26-08:00 INFO (6): Installed Page page-update
+2016-12-27T21:46:26-08:00 INFO (6): Installed Page page-view
+2016-12-27T21:46:26-08:00 INFO (6): Working on moudule Update
+2016-12-27T21:46:26-08:00 INFO (6): Failed to Update SQL /var/www/html/camper.pacificnm.com/module/Update/
+2016-12-27T21:46:26-08:00 INFO (6): Installed Role guest
+2016-12-27T21:46:26-08:00 INFO (6): Installed Role user
+2016-12-27T21:46:26-08:00 INFO (6): Installed Role administrator
+2016-12-27T21:46:26-08:00 INFO (6): Installed Role update-index
+2016-12-27T21:46:26-08:00 INFO (6): Installed Acl Rule 76
+2016-12-27T21:46:26-08:00 INFO (6): Installed Menu Admin
+2016-12-27T21:46:26-08:00 INFO (6): Installed Menu Item Update
+2016-12-27T21:46:26-08:00 INFO (6): Installed Controller Console
+2016-12-27T21:46:26-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T21:46:26-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T21:46:26-08:00 INFO (6): Installed Page update-index
+2016-12-27T21:46:26-08:00 INFO (6): Installed Page update-check
+2016-12-27T21:46:26-08:00 INFO (6): Installed Page update-install
+2016-12-27T21:46:26-08:00 INFO (6): Comleted install at 12/27/2016 09:46 pm
+2016-12-27T22:11:29-08:00 INFO (6): Start install at 12/27/2016 10:11 pm
+2016-12-27T22:11:29-08:00 INFO (6): Installing module Acl tables
+2016-12-27T22:11:30-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-27T22:11:30-08:00 INFO (6): Installing module AclResource tables
+2016-12-27T22:11:30-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-27T22:11:30-08:00 INFO (6): Installing module AclRole tables
+2016-12-27T22:11:30-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-27T22:11:30-08:00 INFO (6): Installing module Action tables
+2016-12-27T22:11:30-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T22:11:30-08:00 INFO (6): Installing module Admin tables
+2016-12-27T22:11:30-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T22:11:30-08:00 INFO (6): Installing module Application tables
+2016-12-27T22:11:30-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Application/
+2016-12-27T22:11:30-08:00 INFO (6): Installing module Auth tables
+2016-12-27T22:11:31-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-27T22:11:31-08:00 INFO (6): Installing module Config tables
+2016-12-27T22:11:31-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-27T22:11:31-08:00 INFO (6): Installing module Controller tables
+2016-12-27T22:11:31-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Controller/sql/controller.sql
+2016-12-27T22:11:31-08:00 INFO (6): Installing module Cron tables
+2016-12-27T22:11:31-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Cron/sql/cron.sql
+2016-12-27T22:11:31-08:00 INFO (6): Installing module Install tables
+2016-12-27T22:11:31-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Install/
+2016-12-27T22:11:31-08:00 INFO (6): Installing module Menu tables
+2016-12-27T22:11:31-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-27T22:11:31-08:00 INFO (6): Installing module MenuItem tables
+2016-12-27T22:11:32-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/MenuItem/sql/menu_item.sql
+2016-12-27T22:11:32-08:00 INFO (6): Installing module Module tables
+2016-12-27T22:11:32-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Module/sql/module.sql
+2016-12-27T22:11:32-08:00 INFO (6): Installing module Page tables
+2016-12-27T22:11:32-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Page/sql/page.sql
+2016-12-27T22:11:32-08:00 INFO (6): Installing module Update tables
+2016-12-27T22:11:32-08:00 ERR (3): Failed to install SQL /var/www/html/camper.pacificnm.com/module/Update/
+2016-12-27T22:11:32-08:00 INFO (6): Working on moudule Acl
+2016-12-27T22:11:32-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-27T22:11:32-08:00 INFO (6): Installed Role guest
+2016-12-27T22:11:32-08:00 INFO (6): Installed Role user
+2016-12-27T22:11:32-08:00 INFO (6): Installed Role administrator
+2016-12-27T22:11:32-08:00 INFO (6): Installed Role acl-index
+2016-12-27T22:11:32-08:00 INFO (6): Installed Acl Rule 1
+2016-12-27T22:11:32-08:00 INFO (6): Installed Role acl-create
+2016-12-27T22:11:32-08:00 INFO (6): Installed Acl Rule 2
+2016-12-27T22:11:32-08:00 INFO (6): Installed Role acl-update
+2016-12-27T22:11:32-08:00 INFO (6): Installed Acl Rule 3
+2016-12-27T22:11:32-08:00 INFO (6): Installed Role acl-delete
+2016-12-27T22:11:32-08:00 INFO (6): Installed Acl Rule 4
+2016-12-27T22:11:32-08:00 INFO (6): Installed Role acl-view
+2016-12-27T22:11:32-08:00 INFO (6): Installed Acl Rule 5
+2016-12-27T22:11:32-08:00 INFO (6): Installed Menu Admin
+2016-12-27T22:11:32-08:00 INFO (6): Installed Menu Item Acl
+2016-12-27T22:11:32-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T22:11:32-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T22:11:32-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T22:11:32-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T22:11:32-08:00 INFO (6): Installed Controller RestController
+2016-12-27T22:11:32-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T22:11:32-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T22:11:32-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T22:11:33-08:00 INFO (6): Installed Page acl-create
+2016-12-27T22:11:33-08:00 INFO (6): Installed Page acl-delete
+2016-12-27T22:11:33-08:00 INFO (6): Installed Page acl-index
+2016-12-27T22:11:33-08:00 INFO (6): Installed Page acl-rest
+2016-12-27T22:11:33-08:00 INFO (6): Installed Page acl-update
+2016-12-27T22:11:33-08:00 INFO (6): Installed Page acl-view
+2016-12-27T22:11:33-08:00 INFO (6): Working on moudule AclResource
+2016-12-27T22:11:33-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-27T22:11:33-08:00 INFO (6): Installed Role guest
+2016-12-27T22:11:33-08:00 INFO (6): Installed Role user
+2016-12-27T22:11:33-08:00 INFO (6): Installed Role administrator
+2016-12-27T22:11:33-08:00 INFO (6): Installed Role acl-resource-index
+2016-12-27T22:11:33-08:00 INFO (6): Installed Acl Rule 6
+2016-12-27T22:11:33-08:00 INFO (6): Installed Role acl-resource-create
+2016-12-27T22:11:33-08:00 INFO (6): Installed Acl Rule 7
+2016-12-27T22:11:33-08:00 INFO (6): Installed Role acl-resource-update
+2016-12-27T22:11:33-08:00 INFO (6): Installed Acl Rule 8
+2016-12-27T22:11:33-08:00 INFO (6): Installed Role acl-resource-delete
+2016-12-27T22:11:33-08:00 INFO (6): Installed Acl Rule 9
+2016-12-27T22:11:33-08:00 INFO (6): Installed Role acl-resource-view
+2016-12-27T22:11:33-08:00 INFO (6): Installed Acl Rule 10
+2016-12-27T22:11:33-08:00 INFO (6): Installed Menu Admin
+2016-12-27T22:11:33-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T22:11:33-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T22:11:33-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T22:11:33-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T22:11:33-08:00 INFO (6): Installed Controller RestController
+2016-12-27T22:11:33-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T22:11:33-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T22:11:33-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T22:11:33-08:00 INFO (6): Installed Page acl-resource-create
+2016-12-27T22:11:33-08:00 INFO (6): Installed Page acl-resource-delete
+2016-12-27T22:11:33-08:00 INFO (6): Installed Page acl-resource-index
+2016-12-27T22:11:33-08:00 INFO (6): Installed Page acl-resource-rest
+2016-12-27T22:11:33-08:00 INFO (6): Installed Page acl-resource-update
+2016-12-27T22:11:33-08:00 INFO (6): Installed Page acl-resource-view
+2016-12-27T22:11:33-08:00 INFO (6): Working on moudule AclRole
+2016-12-27T22:11:33-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-27T22:11:33-08:00 INFO (6): Installed Role guest
+2016-12-27T22:11:33-08:00 INFO (6): Installed Role user
+2016-12-27T22:11:33-08:00 INFO (6): Installed Role administrator
+2016-12-27T22:11:33-08:00 INFO (6): Installed Role acl-role-index
+2016-12-27T22:11:33-08:00 INFO (6): Installed Acl Rule 11
+2016-12-27T22:11:33-08:00 INFO (6): Installed Role acl-role-create
+2016-12-27T22:11:33-08:00 INFO (6): Installed Acl Rule 12
+2016-12-27T22:11:33-08:00 INFO (6): Installed Role acl-role-update
+2016-12-27T22:11:33-08:00 INFO (6): Installed Acl Rule 13
+2016-12-27T22:11:33-08:00 INFO (6): Installed Role acl-role-delete
+2016-12-27T22:11:33-08:00 INFO (6): Installed Acl Rule 14
+2016-12-27T22:11:33-08:00 INFO (6): Installed Role acl-role-view
+2016-12-27T22:11:33-08:00 INFO (6): Installed Acl Rule 15
+2016-12-27T22:11:33-08:00 INFO (6): Installed Menu Admin
+2016-12-27T22:11:33-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T22:11:33-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T22:11:33-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T22:11:33-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T22:11:33-08:00 INFO (6): Installed Controller RestController
+2016-12-27T22:11:33-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T22:11:33-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T22:11:33-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T22:11:33-08:00 INFO (6): Installed Page acl-role-create
+2016-12-27T22:11:33-08:00 INFO (6): Installed Page acl-role-delete
+2016-12-27T22:11:33-08:00 INFO (6): Installed Page acl-role-index
+2016-12-27T22:11:33-08:00 INFO (6): Installed Page acl-role-rest
+2016-12-27T22:11:33-08:00 INFO (6): Installed Page acl-role-update
+2016-12-27T22:11:33-08:00 INFO (6): Installed Page acl-role-view
+2016-12-27T22:11:33-08:00 INFO (6): Working on moudule Action
+2016-12-27T22:11:33-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Action/sql/action.sql
+2016-12-27T22:11:33-08:00 INFO (6): Installed Role guest
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role administrator
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role action-create
+2016-12-27T22:11:34-08:00 INFO (6): Installed Acl Rule 16
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role action-delete
+2016-12-27T22:11:34-08:00 INFO (6): Installed Acl Rule 17
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role action-index
+2016-12-27T22:11:34-08:00 INFO (6): Installed Acl Rule 18
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role action-update
+2016-12-27T22:11:34-08:00 INFO (6): Installed Acl Rule 19
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role action-view
+2016-12-27T22:11:34-08:00 INFO (6): Installed Acl Rule 20
+2016-12-27T22:11:34-08:00 INFO (6): Installed Menu Admin
+2016-12-27T22:11:34-08:00 INFO (6): Installed Menu Item Action
+2016-12-27T22:11:34-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T22:11:34-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T22:11:34-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T22:11:34-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T22:11:34-08:00 INFO (6): Installed Controller RestController
+2016-12-27T22:11:34-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T22:11:34-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T22:11:34-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T22:11:34-08:00 INFO (6): Installed Page action-create
+2016-12-27T22:11:34-08:00 INFO (6): Installed Page action-delete
+2016-12-27T22:11:34-08:00 INFO (6): Installed Page action-index
+2016-12-27T22:11:34-08:00 INFO (6): Installed Page action-rest
+2016-12-27T22:11:34-08:00 INFO (6): Installed Page action-update
+2016-12-27T22:11:34-08:00 INFO (6): Installed Page action-view
+2016-12-27T22:11:34-08:00 INFO (6): Working on moudule Admin
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role guest
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role user
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role administrator
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role admin-index
+2016-12-27T22:11:34-08:00 INFO (6): Installed Acl Rule 21
+2016-12-27T22:11:34-08:00 INFO (6): Installed Menu Admin
+2016-12-27T22:11:34-08:00 INFO (6): Installed Menu Item Home
+2016-12-27T22:11:34-08:00 INFO (6): Installed Controller Index
+2016-12-27T22:11:34-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T22:11:34-08:00 INFO (6): Installed Page admin-index
+2016-12-27T22:11:34-08:00 INFO (6): Working on moudule Application
+2016-12-27T22:11:34-08:00 INFO (6): Failed to Update SQL /var/www/html/camper.pacificnm.com/module/Application/
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role guest
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role home
+2016-12-27T22:11:34-08:00 INFO (6): Installed Acl Rule 22
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role user
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role home
+2016-12-27T22:11:34-08:00 INFO (6): Installed Acl Rule 23
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role administrator
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role home
+2016-12-27T22:11:34-08:00 INFO (6): Installed Acl Rule 24
+2016-12-27T22:11:34-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T22:11:34-08:00 INFO (6): Installed Controller BaseController
+2016-12-27T22:11:34-08:00 INFO (6): Installed Controller KeepAliveController
+2016-12-27T22:11:34-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T22:11:34-08:00 INFO (6): Installed Controller BaseController
+2016-12-27T22:11:34-08:00 INFO (6): Installed Controller KeepAliveController
+2016-12-27T22:11:34-08:00 INFO (6): Installed Page home
+2016-12-27T22:11:34-08:00 INFO (6): Installed Page keep-alive
+2016-12-27T22:11:34-08:00 INFO (6): Working on moudule Auth
+2016-12-27T22:11:34-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role guest
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role auth-sign-in
+2016-12-27T22:11:34-08:00 INFO (6): Installed Acl Rule 25
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role auth-register-index
+2016-12-27T22:11:34-08:00 INFO (6): Installed Acl Rule 26
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role auth-reset-password-index
+2016-12-27T22:11:34-08:00 INFO (6): Installed Acl Rule 27
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role user
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role auth-profile-index
+2016-12-27T22:11:34-08:00 INFO (6): Installed Acl Rule 28
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role auth-profile-update
+2016-12-27T22:11:34-08:00 INFO (6): Installed Acl Rule 29
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role auth-profile-password
+2016-12-27T22:11:34-08:00 INFO (6): Installed Acl Rule 30
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role auth-sign-out
+2016-12-27T22:11:34-08:00 INFO (6): Installed Acl Rule 31
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role administrator
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role auth-index
+2016-12-27T22:11:34-08:00 INFO (6): Installed Acl Rule 32
+2016-12-27T22:11:34-08:00 INFO (6): Installed Role auth-create
+2016-12-27T22:11:35-08:00 INFO (6): Installed Acl Rule 33
+2016-12-27T22:11:35-08:00 INFO (6): Installed Role auth-delete
+2016-12-27T22:11:35-08:00 INFO (6): Installed Acl Rule 34
+2016-12-27T22:11:35-08:00 INFO (6): Installed Role auth-update
+2016-12-27T22:11:35-08:00 INFO (6): Installed Acl Rule 35
+2016-12-27T22:11:35-08:00 INFO (6): Installed Role auth-view
+2016-12-27T22:11:35-08:00 INFO (6): Installed Acl Rule 36
+2016-12-27T22:11:35-08:00 INFO (6): Installed Role auth-password
+2016-12-27T22:11:35-08:00 INFO (6): Installed Acl Rule 37
+2016-12-27T22:11:35-08:00 INFO (6): Installed Role auth-profile-index
+2016-12-27T22:11:35-08:00 INFO (6): Installed Acl Rule 38
+2016-12-27T22:11:35-08:00 INFO (6): Installed Role auth-profile-update
+2016-12-27T22:11:35-08:00 INFO (6): Installed Acl Rule 39
+2016-12-27T22:11:35-08:00 INFO (6): Installed Role auth-profile-password
+2016-12-27T22:11:35-08:00 INFO (6): Installed Acl Rule 40
+2016-12-27T22:11:35-08:00 INFO (6): Installed Menu My Profile
+2016-12-27T22:11:35-08:00 INFO (6): Installed Menu Item Home
+2016-12-27T22:11:35-08:00 INFO (6): Installed Menu Item Settings
+2016-12-27T22:11:35-08:00 INFO (6): Installed Menu Item Password
+2016-12-27T22:11:35-08:00 INFO (6): Installed Menu Admin
+2016-12-27T22:11:35-08:00 INFO (6): Installed Menu Item Auth
+2016-12-27T22:11:35-08:00 INFO (6): Installed Controller SignInController
+2016-12-27T22:11:35-08:00 INFO (6): Installed Controller SignOutController
+2016-12-27T22:11:35-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T22:11:35-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T22:11:35-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T22:11:35-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T22:11:35-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T22:11:35-08:00 INFO (6): Installed Controller PasswordController
+2016-12-27T22:11:35-08:00 INFO (6): Installed Controller ProfileController
+2016-12-27T22:11:35-08:00 INFO (6): Installed Controller RegisterController
+2016-12-27T22:11:35-08:00 INFO (6): Installed Controller ResetPasswordController
+2016-12-27T22:11:35-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T22:11:35-08:00 INFO (6): Installed Page auth-profile-index
+2016-12-27T22:11:35-08:00 INFO (6): Installed Page auth-profile-update
+2016-12-27T22:11:35-08:00 INFO (6): Installed Page auth-profile-password
+2016-12-27T22:11:35-08:00 INFO (6): Installed Page auth-reset-password-index
+2016-12-27T22:11:35-08:00 INFO (6): Installed Page auth-register-index
+2016-12-27T22:11:35-08:00 INFO (6): Installed Page auth-sign-in
+2016-12-27T22:11:35-08:00 INFO (6): Installed Page auth-sign-out
+2016-12-27T22:11:35-08:00 INFO (6): Installed Page auth-index
+2016-12-27T22:11:35-08:00 INFO (6): Installed Page auth-create
+2016-12-27T22:11:35-08:00 INFO (6): Installed Page auth-update
+2016-12-27T22:11:35-08:00 INFO (6): Installed Page auth-view
+2016-12-27T22:11:35-08:00 INFO (6): Installed Page auth-delete
+2016-12-27T22:11:35-08:00 INFO (6): Installed Page auth-password
+2016-12-27T22:11:35-08:00 INFO (6): Working on moudule Config
+2016-12-27T22:11:35-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-27T22:11:35-08:00 INFO (6): Installed Role guest
+2016-12-27T22:11:35-08:00 INFO (6): Installed Role user
+2016-12-27T22:11:35-08:00 INFO (6): Installed Role administrator
+2016-12-27T22:11:35-08:00 INFO (6): Installed Role config-create
+2016-12-27T22:11:35-08:00 INFO (6): Installed Acl Rule 41
+2016-12-27T22:11:35-08:00 INFO (6): Installed Role config-delete
+2016-12-27T22:11:35-08:00 INFO (6): Installed Acl Rule 42
+2016-12-27T22:11:35-08:00 INFO (6): Installed Role config-index
+2016-12-27T22:11:35-08:00 INFO (6): Installed Acl Rule 43
+2016-12-27T22:11:35-08:00 INFO (6): Installed Role config-update
+2016-12-27T22:11:35-08:00 INFO (6): Installed Acl Rule 44
+2016-12-27T22:11:35-08:00 INFO (6): Installed Role config-view
+2016-12-27T22:11:35-08:00 INFO (6): Installed Acl Rule 45
+2016-12-27T22:11:35-08:00 INFO (6): Installed Menu Admin
+2016-12-27T22:11:35-08:00 INFO (6): Installed Menu Item Config
+2016-12-27T22:11:35-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T22:11:35-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T22:11:35-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T22:11:35-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T22:11:35-08:00 INFO (6): Installed Controller RestController
+2016-12-27T22:11:36-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T22:11:36-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T22:11:36-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T22:11:36-08:00 INFO (6): Installed Page config-create
+2016-12-27T22:11:36-08:00 INFO (6): Installed Page config-delete
+2016-12-27T22:11:36-08:00 INFO (6): Installed Page config-index
+2016-12-27T22:11:36-08:00 INFO (6): Installed Page config-reset
+2016-12-27T22:11:36-08:00 INFO (6): Installed Page config-update
+2016-12-27T22:11:36-08:00 INFO (6): Installed Page config-view
+2016-12-27T22:11:36-08:00 INFO (6): Working on moudule Controller
+2016-12-27T22:11:36-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Controller/sql/controller.sql
+2016-12-27T22:11:36-08:00 INFO (6): Installed Role guest
+2016-12-27T22:11:36-08:00 INFO (6): Installed Role user
+2016-12-27T22:11:36-08:00 INFO (6): Installed Role administrator
+2016-12-27T22:11:36-08:00 INFO (6): Installed Role controller-create
+2016-12-27T22:11:36-08:00 INFO (6): Installed Acl Rule 46
+2016-12-27T22:11:36-08:00 INFO (6): Installed Role controller-delete
+2016-12-27T22:11:36-08:00 INFO (6): Installed Acl Rule 47
+2016-12-27T22:11:36-08:00 INFO (6): Installed Role controller-index
+2016-12-27T22:11:36-08:00 INFO (6): Installed Acl Rule 48
+2016-12-27T22:11:36-08:00 INFO (6): Installed Role controller-update
+2016-12-27T22:11:36-08:00 INFO (6): Installed Acl Rule 49
+2016-12-27T22:11:36-08:00 INFO (6): Installed Role controller-view
+2016-12-27T22:11:36-08:00 INFO (6): Installed Acl Rule 50
+2016-12-27T22:11:36-08:00 INFO (6): Installed Menu Admin
+2016-12-27T22:11:36-08:00 INFO (6): Installed Menu Item Controller
+2016-12-27T22:11:36-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T22:11:36-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T22:11:36-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T22:11:36-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T22:11:36-08:00 INFO (6): Installed Controller RestController
+2016-12-27T22:11:36-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T22:11:36-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T22:11:36-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T22:11:36-08:00 INFO (6): Installed Page controller-create
+2016-12-27T22:11:36-08:00 INFO (6): Installed Page controller-delete
+2016-12-27T22:11:36-08:00 INFO (6): Installed Page controller-index
+2016-12-27T22:11:36-08:00 INFO (6): Installed Page controller-rest
+2016-12-27T22:11:36-08:00 INFO (6): Installed Page controller-update
+2016-12-27T22:11:36-08:00 INFO (6): Installed Page controller-view
+2016-12-27T22:11:36-08:00 INFO (6): Working on moudule Cron
+2016-12-27T22:11:36-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Cron/sql/cron.sql
+2016-12-27T22:11:36-08:00 INFO (6): Installed Role guest
+2016-12-27T22:11:36-08:00 INFO (6): Installed Role user
+2016-12-27T22:11:36-08:00 INFO (6): Installed Role administrator
+2016-12-27T22:11:36-08:00 INFO (6): Installed Role cron-index
+2016-12-27T22:11:36-08:00 INFO (6): Installed Acl Rule 51
+2016-12-27T22:11:36-08:00 INFO (6): Installed Role cron-create
+2016-12-27T22:11:36-08:00 INFO (6): Installed Acl Rule 52
+2016-12-27T22:11:36-08:00 INFO (6): Installed Role cron-update
+2016-12-27T22:11:36-08:00 INFO (6): Installed Acl Rule 53
+2016-12-27T22:11:36-08:00 INFO (6): Installed Role cron-delete
+2016-12-27T22:11:36-08:00 INFO (6): Installed Acl Rule 54
+2016-12-27T22:11:36-08:00 INFO (6): Installed Role cron-view
+2016-12-27T22:11:36-08:00 INFO (6): Installed Acl Rule 55
+2016-12-27T22:11:36-08:00 INFO (6): Installed Menu Admin
+2016-12-27T22:11:36-08:00 INFO (6): Installed Menu Item Cron
+2016-12-27T22:11:36-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T22:11:36-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T22:11:36-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T22:11:36-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T22:11:36-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T22:11:36-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T22:11:36-08:00 INFO (6): Installed Controller RestController
+2016-12-27T22:11:36-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T22:11:36-08:00 INFO (6): Installed Page cron-create
+2016-12-27T22:11:36-08:00 INFO (6): Installed Page cron-delete
+2016-12-27T22:11:36-08:00 INFO (6): Installed Page cron-index
+2016-12-27T22:11:36-08:00 INFO (6): Installed Page cron-rest
+2016-12-27T22:11:37-08:00 INFO (6): Installed Page cron-update
+2016-12-27T22:11:37-08:00 INFO (6): Installed Page cron-view
+2016-12-27T22:11:37-08:00 INFO (6): Working on moudule Install
+2016-12-27T22:11:37-08:00 INFO (6): Failed to Update SQL /var/www/html/camper.pacificnm.com/module/Install/
+2016-12-27T22:11:37-08:00 INFO (6): No ACLS to install skipping
+2016-12-27T22:11:37-08:00 INFO (6): Installed Menu Admin
+2016-12-27T22:11:37-08:00 INFO (6): Installed Controller Index
+2016-12-27T22:11:37-08:00 INFO (6): Installed Controller Config
+2016-12-27T22:11:37-08:00 INFO (6): Installed Controller Admin
+2016-12-27T22:11:37-08:00 INFO (6): Installed Controller Database
+2016-12-27T22:11:37-08:00 INFO (6): Installed Controller Complete
+2016-12-27T22:11:37-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T22:11:37-08:00 INFO (6): Installed Page install-index
+2016-12-27T22:11:37-08:00 INFO (6): Installed Page install-database
+2016-12-27T22:11:37-08:00 INFO (6): Installed Page install-config
+2016-12-27T22:11:37-08:00 INFO (6): Installed Page install-admin
+2016-12-27T22:11:37-08:00 INFO (6): Installed Page install-complete
+2016-12-27T22:11:37-08:00 INFO (6): Working on moudule Menu
+2016-12-27T22:11:37-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-27T22:11:37-08:00 INFO (6): Installed Role guest
+2016-12-27T22:11:37-08:00 INFO (6): Installed Role user
+2016-12-27T22:11:37-08:00 INFO (6): Installed Role administrator
+2016-12-27T22:11:37-08:00 INFO (6): Installed Role menu-create
+2016-12-27T22:11:37-08:00 INFO (6): Installed Acl Rule 56
+2016-12-27T22:11:37-08:00 INFO (6): Installed Role menu-delete
+2016-12-27T22:11:37-08:00 INFO (6): Installed Acl Rule 57
+2016-12-27T22:11:37-08:00 INFO (6): Installed Role menu-index
+2016-12-27T22:11:37-08:00 INFO (6): Installed Acl Rule 58
+2016-12-27T22:11:37-08:00 INFO (6): Installed Role menu-update
+2016-12-27T22:11:37-08:00 INFO (6): Installed Acl Rule 59
+2016-12-27T22:11:37-08:00 INFO (6): Installed Role menu-view
+2016-12-27T22:11:37-08:00 INFO (6): Installed Acl Rule 60
+2016-12-27T22:11:37-08:00 INFO (6): Installed Menu Admin
+2016-12-27T22:11:37-08:00 INFO (6): Installed Menu Item Menu
+2016-12-27T22:11:37-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T22:11:37-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T22:11:37-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T22:11:37-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T22:11:37-08:00 INFO (6): Installed Controller RestController
+2016-12-27T22:11:37-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T22:11:37-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T22:11:37-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T22:11:37-08:00 INFO (6): Installed Page menu-create
+2016-12-27T22:11:37-08:00 INFO (6): Installed Page menu-delete
+2016-12-27T22:11:37-08:00 INFO (6): Installed Page menu-index
+2016-12-27T22:11:37-08:00 INFO (6): Installed Page menu-rest
+2016-12-27T22:11:37-08:00 INFO (6): Installed Page menu-update
+2016-12-27T22:11:37-08:00 INFO (6): Installed Page menu-view
+2016-12-27T22:11:37-08:00 INFO (6): Working on moudule MenuItem
+2016-12-27T22:11:37-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/MenuItem/sql/menu_item.sql
+2016-12-27T22:11:37-08:00 INFO (6): Installed Role guest
+2016-12-27T22:11:37-08:00 INFO (6): Installed Role user
+2016-12-27T22:11:37-08:00 INFO (6): Installed Role administrator
+2016-12-27T22:11:37-08:00 INFO (6): Installed Role menu-item-create
+2016-12-27T22:11:37-08:00 INFO (6): Installed Acl Rule 61
+2016-12-27T22:11:37-08:00 INFO (6): Installed Role menu-item-delete
+2016-12-27T22:11:37-08:00 INFO (6): Installed Acl Rule 62
+2016-12-27T22:11:37-08:00 INFO (6): Installed Role menu-item-index
+2016-12-27T22:11:37-08:00 INFO (6): Installed Acl Rule 63
+2016-12-27T22:11:37-08:00 INFO (6): Installed Role menu-item-update
+2016-12-27T22:11:37-08:00 INFO (6): Installed Acl Rule 64
+2016-12-27T22:11:37-08:00 INFO (6): Installed Role menu-item-view
+2016-12-27T22:11:37-08:00 INFO (6): Installed Acl Rule 65
+2016-12-27T22:11:37-08:00 INFO (6): Installed Menu Admin
+2016-12-27T22:11:37-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T22:11:37-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T22:11:37-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T22:11:37-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T22:11:37-08:00 INFO (6): Installed Controller RestController
+2016-12-27T22:11:37-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T22:11:37-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T22:11:37-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T22:11:38-08:00 INFO (6): Installed Page menu-item-create
+2016-12-27T22:11:38-08:00 INFO (6): Installed Page menu-item-delete
+2016-12-27T22:11:38-08:00 INFO (6): Installed Page menu-item-index
+2016-12-27T22:11:38-08:00 INFO (6): Installed Page menu-item-rest
+2016-12-27T22:11:38-08:00 INFO (6): Installed Page menu-item-update
+2016-12-27T22:11:38-08:00 INFO (6): Installed Page menu-item-view
+2016-12-27T22:11:38-08:00 INFO (6): Working on moudule Module
+2016-12-27T22:11:38-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Module/sql/module.sql
+2016-12-27T22:11:38-08:00 INFO (6): Installed Role guest
+2016-12-27T22:11:38-08:00 INFO (6): Installed Role user
+2016-12-27T22:11:38-08:00 INFO (6): Installed Role administrator
+2016-12-27T22:11:38-08:00 INFO (6): Installed Role module-create
+2016-12-27T22:11:38-08:00 INFO (6): Installed Acl Rule 66
+2016-12-27T22:11:38-08:00 INFO (6): Installed Role module-delete
+2016-12-27T22:11:38-08:00 INFO (6): Installed Acl Rule 67
+2016-12-27T22:11:38-08:00 INFO (6): Installed Role module-index
+2016-12-27T22:11:38-08:00 INFO (6): Installed Acl Rule 68
+2016-12-27T22:11:38-08:00 INFO (6): Installed Role module-update
+2016-12-27T22:11:38-08:00 INFO (6): Installed Acl Rule 69
+2016-12-27T22:11:38-08:00 INFO (6): Installed Role module-view
+2016-12-27T22:11:38-08:00 INFO (6): Installed Acl Rule 70
+2016-12-27T22:11:38-08:00 INFO (6): Installed Menu Admin
+2016-12-27T22:11:38-08:00 INFO (6): Installed Menu Item Module
+2016-12-27T22:11:38-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T22:11:38-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T22:11:38-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T22:11:38-08:00 INFO (6): Installed Controller RestController
+2016-12-27T22:11:38-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T22:11:38-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T22:11:38-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T22:11:38-08:00 INFO (6): Installed Page module-create
+2016-12-27T22:11:38-08:00 INFO (6): Installed Page module-delete
+2016-12-27T22:11:38-08:00 INFO (6): Installed Page module-index
+2016-12-27T22:11:38-08:00 INFO (6): Installed Page module-rest
+2016-12-27T22:11:38-08:00 INFO (6): Installed Page module-update
+2016-12-27T22:11:38-08:00 INFO (6): Installed Page module-view
+2016-12-27T22:11:38-08:00 INFO (6): Working on moudule Page
+2016-12-27T22:11:38-08:00 INFO (6): Installed SQL /var/www/html/camper.pacificnm.com/module/Page/sql/page.sql
+2016-12-27T22:11:38-08:00 INFO (6): Installed Role guest
+2016-12-27T22:11:38-08:00 INFO (6): Installed Role user
+2016-12-27T22:11:38-08:00 INFO (6): Installed Role administrator
+2016-12-27T22:11:38-08:00 INFO (6): Installed Role page-create
+2016-12-27T22:11:38-08:00 INFO (6): Installed Acl Rule 71
+2016-12-27T22:11:38-08:00 INFO (6): Installed Role page-delete
+2016-12-27T22:11:38-08:00 INFO (6): Installed Acl Rule 72
+2016-12-27T22:11:38-08:00 INFO (6): Installed Role page-index
+2016-12-27T22:11:38-08:00 INFO (6): Installed Acl Rule 73
+2016-12-27T22:11:38-08:00 INFO (6): Installed Role page-update
+2016-12-27T22:11:38-08:00 INFO (6): Installed Acl Rule 74
+2016-12-27T22:11:38-08:00 INFO (6): Installed Role page-view
+2016-12-27T22:11:38-08:00 INFO (6): Installed Acl Rule 75
+2016-12-27T22:11:38-08:00 INFO (6): Installed Menu Admin
+2016-12-27T22:11:38-08:00 INFO (6): Installed Menu Item Pages
+2016-12-27T22:11:38-08:00 INFO (6): Installed Controller ConsoleController
+2016-12-27T22:11:38-08:00 INFO (6): Installed Controller CreateController
+2016-12-27T22:11:38-08:00 INFO (6): Installed Controller DeleteController
+2016-12-27T22:11:38-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T22:11:38-08:00 INFO (6): Installed Controller RestController
+2016-12-27T22:11:38-08:00 INFO (6): Installed Controller UpdateController
+2016-12-27T22:11:38-08:00 INFO (6): Installed Controller ViewController
+2016-12-27T22:11:38-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T22:11:38-08:00 INFO (6): Installed Page page-create
+2016-12-27T22:11:38-08:00 INFO (6): Installed Page page-delete
+2016-12-27T22:11:38-08:00 INFO (6): Installed Page page-index
+2016-12-27T22:11:38-08:00 INFO (6): Installed Page page-rest
+2016-12-27T22:11:38-08:00 INFO (6): Installed Page page-update
+2016-12-27T22:11:39-08:00 INFO (6): Installed Page page-view
+2016-12-27T22:11:39-08:00 INFO (6): Working on moudule Update
+2016-12-27T22:11:39-08:00 INFO (6): Failed to Update SQL /var/www/html/camper.pacificnm.com/module/Update/
+2016-12-27T22:11:39-08:00 INFO (6): Installed Role guest
+2016-12-27T22:11:39-08:00 INFO (6): Installed Role user
+2016-12-27T22:11:39-08:00 INFO (6): Installed Role administrator
+2016-12-27T22:11:39-08:00 INFO (6): Installed Role update-index
+2016-12-27T22:11:39-08:00 INFO (6): Installed Acl Rule 76
+2016-12-27T22:11:39-08:00 INFO (6): Installed Menu Admin
+2016-12-27T22:11:39-08:00 INFO (6): Installed Menu Item Update
+2016-12-27T22:11:39-08:00 INFO (6): Installed Controller Console
+2016-12-27T22:11:39-08:00 INFO (6): Installed Controller IndexController
+2016-12-27T22:11:39-08:00 INFO (6): No Controller Invokables to install skipping
+2016-12-27T22:11:39-08:00 INFO (6): Installed Page update-index
+2016-12-27T22:11:39-08:00 INFO (6): Installed Page update-check
+2016-12-27T22:11:39-08:00 INFO (6): Installed Page update-install
+2016-12-27T22:11:39-08:00 INFO (6): Comleted install at 12/27/2016 10:11 pm

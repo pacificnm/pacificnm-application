@@ -1,0 +1,6 @@
+<?php if( $this->acl()->isAllowed($this->identity()->getAclRoleEntity()->getAclRoleName(), $this->route) ):?>
+<a href="<?php echo $this->url($this->route, $this->params, $this->options); ?>" 
+	title="<?php echo $this->translate('New'); ?>" class="btn btn-box-tool">
+		<i class="fa fa-plus" aria-hidden="true"></i> <?php echo $this->translate('New'); ?>
+</a>
+<?php endif; ?>

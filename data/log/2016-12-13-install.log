@@ -1,0 +1,149 @@
+2016-12-13T06:24:04-08:00 INFO (6): Start install at 12/13/2016 06:24 am
+2016-12-13T06:24:04-08:00 INFO (6): Working on moudule Acl
+2016-12-13T06:24:38-08:00 INFO (6): Start install at 12/13/2016 06:24 am
+2016-12-13T06:24:38-08:00 INFO (6): Working on moudule Acl
+2016-12-13T06:26:52-08:00 INFO (6): Start install at 12/13/2016 06:26 am
+2016-12-13T06:26:52-08:00 INFO (6): Working on moudule Acl
+2016-12-13T06:27:56-08:00 INFO (6): Start install at 12/13/2016 06:27 am
+2016-12-13T06:27:56-08:00 INFO (6): Working on moudule Acl
+2016-12-13T06:29:06-08:00 INFO (6): Start install at 12/13/2016 06:29 am
+2016-12-13T06:29:06-08:00 INFO (6): Working on moudule Acl
+2016-12-13T06:30:29-08:00 INFO (6): Start install at 12/13/2016 06:30 am
+2016-12-13T06:30:29-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-13T06:30:29-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-13T06:30:29-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-13T06:30:29-08:00 INFO (6): Working on moudule Acl
+2016-12-13T06:32:09-08:00 INFO (6): Start install at 12/13/2016 06:32 am
+2016-12-13T06:32:10-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-13T06:32:10-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-13T06:32:10-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Acl/sql/acl.sql
+2016-12-13T06:32:10-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclResource/sql/acl_resource.sql
+2016-12-13T06:32:10-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/AclRole/sql/acl_role.sql
+2016-12-13T06:32:10-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Auth/sql/auth.sql
+2016-12-13T06:32:10-08:00 ERR (3): Failed to open /var/www/html/camper.pacificnm.com/module/Battery/sql/battery.sql
+2016-12-13T06:32:10-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Config/sql/config.sql
+2016-12-13T06:32:11-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Cron/sql/cron.sql
+2016-12-13T06:32:11-08:00 ERR (3): Failed to open /var/www/html/camper.pacificnm.com/module/Load/sql/load.sql
+2016-12-13T06:32:11-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Menu/sql/menu.sql
+2016-12-13T06:32:11-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Module/sql/module.sql
+2016-12-13T06:32:11-08:00 INFO (6): Install database file: /var/www/html/camper.pacificnm.com/module/Page/sql/page.sql
+2016-12-13T06:32:11-08:00 INFO (6): Done with database install
+2016-12-13T06:32:11-08:00 INFO (6): Install ACLS
+2016-12-13T06:32:11-08:00 INFO (6): Installed Role guest
+2016-12-13T06:32:11-08:00 INFO (6): Installed resource home
+2016-12-13T06:32:11-08:00 INFO (6): Installed rule guest allowed home
+2016-12-13T06:32:11-08:00 INFO (6): Installed resource auth-sign-in
+2016-12-13T06:32:11-08:00 INFO (6): Installed rule guest allowed auth-sign-in
+2016-12-13T06:32:11-08:00 INFO (6): Installed resource auth-register-index
+2016-12-13T06:32:11-08:00 INFO (6): Installed rule guest allowed auth-register-index
+2016-12-13T06:32:11-08:00 INFO (6): Installed resource auth-reset-password-index
+2016-12-13T06:32:11-08:00 INFO (6): Installed rule guest allowed auth-reset-password-index
+2016-12-13T06:32:11-08:00 INFO (6): Installed Role administrator
+2016-12-13T06:32:11-08:00 INFO (6): Installed resource acl-index
+2016-12-13T06:32:11-08:00 INFO (6): Installed rule administrator allowed acl-index
+2016-12-13T06:32:11-08:00 INFO (6): Installed resource acl-create
+2016-12-13T06:32:11-08:00 INFO (6): Installed rule administrator allowed acl-create
+2016-12-13T06:32:11-08:00 INFO (6): Installed resource acl-update
+2016-12-13T06:32:11-08:00 INFO (6): Installed rule administrator allowed acl-update
+2016-12-13T06:32:11-08:00 INFO (6): Installed resource acl-delete
+2016-12-13T06:32:11-08:00 INFO (6): Installed rule administrator allowed acl-delete
+2016-12-13T06:32:11-08:00 INFO (6): Installed resource acl-view
+2016-12-13T06:32:11-08:00 INFO (6): Installed rule administrator allowed acl-view
+2016-12-13T06:32:11-08:00 INFO (6): Installed resource acl-resource-index
+2016-12-13T06:32:11-08:00 INFO (6): Installed rule administrator allowed acl-resource-index
+2016-12-13T06:32:11-08:00 INFO (6): Installed resource acl-resource-create
+2016-12-13T06:32:11-08:00 INFO (6): Installed rule administrator allowed acl-resource-create
+2016-12-13T06:32:11-08:00 INFO (6): Installed resource acl-resource-update
+2016-12-13T06:32:11-08:00 INFO (6): Installed rule administrator allowed acl-resource-update
+2016-12-13T06:32:11-08:00 INFO (6): Installed resource acl-resource-delete
+2016-12-13T06:32:11-08:00 INFO (6): Installed rule administrator allowed acl-resource-delete
+2016-12-13T06:32:11-08:00 INFO (6): Installed resource acl-resource-view
+2016-12-13T06:32:11-08:00 INFO (6): Installed rule administrator allowed acl-resource-view
+2016-12-13T06:32:11-08:00 INFO (6): Installed resource acl-role-index
+2016-12-13T06:32:11-08:00 INFO (6): Installed rule administrator allowed acl-role-index
+2016-12-13T06:32:11-08:00 INFO (6): Installed resource acl-role-create
+2016-12-13T06:32:11-08:00 INFO (6): Installed rule administrator allowed acl-role-create
+2016-12-13T06:32:11-08:00 INFO (6): Installed resource acl-role-update
+2016-12-13T06:32:11-08:00 INFO (6): Installed rule administrator allowed acl-role-update
+2016-12-13T06:32:11-08:00 INFO (6): Installed resource acl-role-delete
+2016-12-13T06:32:11-08:00 INFO (6): Installed rule administrator allowed acl-role-delete
+2016-12-13T06:32:11-08:00 INFO (6): Installed resource acl-role-view
+2016-12-13T06:32:11-08:00 INFO (6): Installed rule administrator allowed acl-role-view
+2016-12-13T06:32:11-08:00 INFO (6): Installed resource admin-index
+2016-12-13T06:32:11-08:00 INFO (6): Installed rule administrator allowed admin-index
+2016-12-13T06:32:11-08:00 INFO (6): Installed rule administrator allowed home
+2016-12-13T06:32:11-08:00 INFO (6): Installed resource auth-index
+2016-12-13T06:32:11-08:00 INFO (6): Installed rule administrator allowed auth-index
+2016-12-13T06:32:12-08:00 INFO (6): Installed resource auth-create
+2016-12-13T06:32:12-08:00 INFO (6): Installed rule administrator allowed auth-create
+2016-12-13T06:32:12-08:00 INFO (6): Installed resource auth-delete
+2016-12-13T06:32:12-08:00 INFO (6): Installed rule administrator allowed auth-delete
+2016-12-13T06:32:12-08:00 INFO (6): Installed resource auth-update
+2016-12-13T06:32:12-08:00 INFO (6): Installed rule administrator allowed auth-update
+2016-12-13T06:32:12-08:00 INFO (6): Installed resource auth-view
+2016-12-13T06:32:12-08:00 INFO (6): Installed rule administrator allowed auth-view
+2016-12-13T06:32:12-08:00 INFO (6): Installed resource auth-password
+2016-12-13T06:32:12-08:00 INFO (6): Installed rule administrator allowed auth-password
+2016-12-13T06:32:12-08:00 INFO (6): Installed resource auth-profile-index
+2016-12-13T06:32:12-08:00 INFO (6): Installed rule administrator allowed auth-profile-index
+2016-12-13T06:32:12-08:00 INFO (6): Installed rule administrator allowed auth-index
+2016-12-13T06:32:12-08:00 INFO (6): Installed rule administrator allowed auth-create
+2016-12-13T06:32:12-08:00 INFO (6): Installed rule administrator allowed auth-delete
+2016-12-13T06:32:12-08:00 INFO (6): Installed rule administrator allowed auth-update
+2016-12-13T06:32:12-08:00 INFO (6): Installed rule administrator allowed auth-view
+2016-12-13T06:32:12-08:00 INFO (6): Installed rule administrator allowed auth-password
+2016-12-13T06:32:12-08:00 INFO (6): Installed resource config-index
+2016-12-13T06:32:12-08:00 INFO (6): Installed rule administrator allowed config-index
+2016-12-13T06:32:12-08:00 INFO (6): Installed resource config-update
+2016-12-13T06:32:12-08:00 INFO (6): Installed rule administrator allowed config-update
+2016-12-13T06:32:12-08:00 INFO (6): Installed resource cron-index
+2016-12-13T06:32:12-08:00 INFO (6): Installed rule administrator allowed cron-index
+2016-12-13T06:32:12-08:00 INFO (6): Installed resource cron-create
+2016-12-13T06:32:12-08:00 INFO (6): Installed rule administrator allowed cron-create
+2016-12-13T06:32:12-08:00 INFO (6): Installed resource cron-update
+2016-12-13T06:32:12-08:00 INFO (6): Installed rule administrator allowed cron-update
+2016-12-13T06:32:12-08:00 INFO (6): Installed resource cron-delete
+2016-12-13T06:32:12-08:00 INFO (6): Installed rule administrator allowed cron-delete
+2016-12-13T06:32:12-08:00 INFO (6): Installed resource cron-view
+2016-12-13T06:32:12-08:00 INFO (6): Installed rule administrator allowed cron-view
+2016-12-13T06:32:12-08:00 INFO (6): Working on moudule Update
+2016-12-13T06:32:12-08:00 INFO (6): Saved moudule Update
+2016-12-13T06:32:12-08:00 INFO (6): Done installing ACLS
+2016-12-13T06:32:12-08:00 INFO (6): Install Pages
+2016-12-13T06:32:12-08:00 INFO (6): Installed page zf-apigility
+2016-12-13T06:32:12-08:00 INFO (6): Installed page admin-index
+2016-12-13T06:32:12-08:00 INFO (6): Installed page home
+2016-12-13T06:32:12-08:00 INFO (6): Installed page keep-alive
+2016-12-13T06:32:12-08:00 INFO (6): Installed page application
+2016-12-13T06:32:12-08:00 INFO (6): Installed page application.rpc.ping
+2016-12-13T06:32:12-08:00 INFO (6): Installed page auth-profile-index
+2016-12-13T06:32:12-08:00 INFO (6): Installed page auth-reset-password-index
+2016-12-13T06:32:12-08:00 INFO (6): Installed page auth-register-index
+2016-12-13T06:32:12-08:00 INFO (6): Installed page auth-sign-in
+2016-12-13T06:32:12-08:00 INFO (6): Installed page auth-sign-out
+2016-12-13T06:32:12-08:00 INFO (6): Installed page auth-index
+2016-12-13T06:32:12-08:00 INFO (6): Installed page auth-create
+2016-12-13T06:32:12-08:00 INFO (6): Installed page auth-update
+2016-12-13T06:32:12-08:00 INFO (6): Installed page auth-view
+2016-12-13T06:32:12-08:00 INFO (6): Installed page auth-delete
+2016-12-13T06:32:12-08:00 INFO (6): Installed page auth-password
+2016-12-13T06:32:12-08:00 INFO (6): Installed page config-index
+2016-12-13T06:32:12-08:00 INFO (6): Installed page config-update
+2016-12-13T06:32:12-08:00 INFO (6): Installed page cron-index
+2016-12-13T06:32:12-08:00 INFO (6): Installed page cron-create
+2016-12-13T06:32:12-08:00 INFO (6): Installed page cron-update
+2016-12-13T06:32:12-08:00 INFO (6): Installed page cron-delete
+2016-12-13T06:32:12-08:00 INFO (6): Installed page cron-view
+2016-12-13T06:32:12-08:00 INFO (6): Installed page install-index
+2016-12-13T06:32:12-08:00 INFO (6): Installed page install-database
+2016-12-13T06:32:12-08:00 INFO (6): Installed page install-config
+2016-12-13T06:32:12-08:00 INFO (6): Installed page install-admin
+2016-12-13T06:32:12-08:00 INFO (6): Installed page install-complete
+2016-12-13T06:32:12-08:00 INFO (6): Done installing pages
+2016-12-13T06:32:12-08:00 INFO (6): Install Menu
+2016-12-13T06:32:12-08:00 INFO (6): Installed menu Admin
+2016-12-13T06:32:12-08:00 INFO (6): Installed menu Battery
+2016-12-13T06:32:12-08:00 INFO (6): Installed menu Load
+2016-12-13T06:32:12-08:00 INFO (6): Installed menu Solar
+2016-12-13T06:32:12-08:00 INFO (6): Completed Installing Menu
+2016-12-13T06:32:12-08:00 INFO (6): Comleted install at 12/13/2016 06:32 am

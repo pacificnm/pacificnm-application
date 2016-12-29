@@ -1,0 +1,5 @@
+<?php if( $this->acl()->isAllowed($this->identity()->getAclRoleEntity()->getAclRoleName(), $this->route) ):?>
+<a href="<?php echo $this->url($this->route, $this->params); ?>" title="<?php echo $this->translate('Delete');?>" class="btn btn-box-tool">
+	<i class="fa fa-times" aria-hidden="true"></i> <?php echo $this->translate('Delete'); ?>
+</a>
+<?php endif; ?>
