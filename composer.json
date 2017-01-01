@@ -10,6 +10,30 @@
         }
     ],
     "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+        	"Pacificnm\\Acl\\": "vendor/pacificnm/pacificnm-acl/src/",
+        	"Pacificnm\\AclResource\\": "vendor/pacificnm/pacificnm-acl-resource/src/",
+        	"Pacificnm\\AclRole\\": "vendor/pacificnm/pacificnm-acl-role/src/",
+        	"Pacificnm\\Action\\": "vendor/pacificnm/pacificnm-action/src/",
+        	"Pacificnm\\Admin\\": "vendor/pacificnm/pacificnm-admin/src/",
+        	"Pacificnm\\Auth\\": "vendor/pacificnm/pacificnm-auth/src/",
+        	"Pacificnm\\Category\\": "vendor/pacificnm/pacificnm-category/src/",
+            "Pacificnm\\Config\\": "vendor/pacificnm/pacificnm-config/src/",
+            "Pacificnm\\Controller\\": "vendor/pacificnm/pacificnm-controller/src/",
+            "Pacificnm\\Cron\\": "vendor/pacificnm/pacificnm-cron/src/",
+            "Pacificnm\\History\\": "vendor/pacificnm/pacificnm-history/src/",
+            "Pacificnm\\Install\\": "vendor/pacificnm/pacificnm-install/src/",
+            "Pacificnm\\Log\\": "vendor/pacificnm/pacificnm-log/src/",
+            "Pacificnm\\Mapper\\": "vendor/pacificnm/pacificnm-mapper/src/",
+            "Pacificnm\\Menu\\": "vendor/pacificnm/pacificnm-menu/src/",
+            "Pacificnm\\MenuItem\\": "vendor/pacificnm/pacificnm-menu-item/src/",
+            "Pacificnm\\Module\\": "vendor/pacificnm/pacificnm-module/src/",
+            "Pacificnm\\Page\\": "vendor/pacificnm/pacificnm-page/src/",
+            "Pacificnm\\Product\\": "vendor/pacificnm/pacificnm-product/src/",
+            "Pacificnm\\Update\\": "vendor/pacificnm/pacificnm-update/src/"
+        }
+    },
     "require": {
     	"zendframework/zendframework" : "~2.5",
     	"pacificnm/pacificnm-acl" : "dev-master",
@@ -24,6 +48,7 @@
     	"pacificnm/pacificnm-history" : "dev-master",
     	"pacificnm/pacificnm-install" : "dev-master",
     	"pacificnm/pacificnm-log" : "dev-master",
+    	"pacificnm/pacificnm-mapper" : "dev-master",
     	"pacificnm/pacificnm-menu" : "dev-master",
     	"pacificnm/pacificnm-menu-item" : "dev-master",
     	"pacificnm/pacificnm-module" : "dev-master",

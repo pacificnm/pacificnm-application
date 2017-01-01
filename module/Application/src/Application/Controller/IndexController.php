@@ -9,6 +9,7 @@
 namespace Application\Controller;
 
 use Zend\View\Model\ViewModel;
+use Pacificnm\Controller\AbstractApplicationController;
 
 class IndexController extends AbstractApplicationController
 {
