@@ -8,7 +8,6 @@
  */
 namespace Application;
 
-use ZF\Apigility\Provider\ApigilityProviderInterface;
 
 
 /**
@@ -17,7 +16,7 @@ use ZF\Apigility\Provider\ApigilityProviderInterface;
  * @version 2.5.0
  *         
  */
-class Module implements ApigilityProviderInterface
+class Module
 {
 
     

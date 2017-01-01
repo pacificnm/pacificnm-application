@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "279036a01d1a66e1ace554b3a192da69",
-    "content-hash": "4467068965aa952ae30d7a87e063534d",
+    "hash": "01d024141f4020522fa3274adc92d074",
+    "content-hash": "7e22e92500ef9541b72f61fa8a43f17f",
     "packages": [
         {
             "name": "container-interop/container-interop",
@@ -131,17 +131,141 @@
             "time": "2016-10-31 17:19:45"
         },
         {
+            "name": "pacificnm/pacificnm-acl",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pacificnm/pacificnm-acl.git",
+                "reference": "34c619023f9b9a6da6ce590dd97354bab5d6f3bf"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pacificnm/pacificnm-acl/zipball/34c619023f9b9a6da6ce590dd97354bab5d6f3bf",
+                "reference": "34c619023f9b9a6da6ce590dd97354bab5d6f3bf",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5"
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Jaimie Garner",
+                    "email": "pacificnm@gmail.com"
+                }
+            ],
+            "description": "Provides Access Controls",
+            "time": "2016-12-29 18:40:12"
+        },
+        {
+            "name": "pacificnm/pacificnm-acl-resource",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pacificnm/pacificnm-acl-resource.git",
+                "reference": "1047daa8a9333c7aaa4a8c83b3e97ffe5a7147c4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pacificnm/pacificnm-acl-resource/zipball/1047daa8a9333c7aaa4a8c83b3e97ffe5a7147c4",
+                "reference": "1047daa8a9333c7aaa4a8c83b3e97ffe5a7147c4",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5"
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Jaimie Garner",
+                    "email": "pacificnm@gmail.com"
+                }
+            ],
+            "description": "Provides ACL Resources",
+            "time": "2016-12-29 18:55:42"
+        },
+        {
+            "name": "pacificnm/pacificnm-acl-role",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pacificnm/pacificnm-acl-role.git",
+                "reference": "f31dc2014c685b913bce0d4d491416a7dbb6a3f6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pacificnm/pacificnm-acl-role/zipball/f31dc2014c685b913bce0d4d491416a7dbb6a3f6",
+                "reference": "f31dc2014c685b913bce0d4d491416a7dbb6a3f6",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5"
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "DBS-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Jaimie Garner",
+                    "email": "pacificnm@gmail.com"
+                }
+            ],
+            "description": "Provides ACL roles",
+            "time": "2016-12-29 18:55:11"
+        },
+        {
+            "name": "pacificnm/pacificnm-action",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pacificnm/pacificnm-action.git",
+                "reference": "ea19bf88d517fbacc3b057b36f1a161736b5e1bc"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pacificnm/pacificnm-action/zipball/ea19bf88d517fbacc3b057b36f1a161736b5e1bc",
+                "reference": "ea19bf88d517fbacc3b057b36f1a161736b5e1bc",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5"
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Jaimie Garner",
+                    "email": "pacificnm@gmail.com"
+                }
+            ],
+            "description": "Provides action services and management",
+            "time": "2016-12-29 18:19:57"
+        },
+        {
             "name": "pacificnm/pacificnm-admin",
             "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pacificnm/pacificnm-admin.git",
-                "reference": "4782bfc2478da3c10b141397d39934167dc04165"
+                "reference": "510606d6e4c7254897ea428b6ce8626ad931fbd1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pacificnm/pacificnm-admin/zipball/4782bfc2478da3c10b141397d39934167dc04165",
-                "reference": "4782bfc2478da3c10b141397d39934167dc04165",
+                "url": "https://api.github.com/repos/pacificnm/pacificnm-admin/zipball/510606d6e4c7254897ea428b6ce8626ad931fbd1",
+                "reference": "510606d6e4c7254897ea428b6ce8626ad931fbd1",
                 "shasum": ""
             },
             "require": {
@@ -159,7 +283,379 @@
                 }
             ],
             "description": "Provides admin functions",
-            "time": "2016-12-29 09:16:25"
+            "time": "2016-12-29 18:49:51"
+        },
+        {
+            "name": "pacificnm/pacificnm-auth",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pacificnm/pacificnm-auth.git",
+                "reference": "4cc99b3a736f224e87dc00e3a5151a370c7cbefb"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pacificnm/pacificnm-auth/zipball/4cc99b3a736f224e87dc00e3a5151a370c7cbefb",
+                "reference": "4cc99b3a736f224e87dc00e3a5151a370c7cbefb",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5"
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Jaimie Garner",
+                    "email": "pacificnm@gmail.com"
+                }
+            ],
+            "description": "Provides authentication functions",
+            "time": "2016-12-29 18:49:21"
+        },
+        {
+            "name": "pacificnm/pacificnm-config",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pacificnm/pacificnm-config.git",
+                "reference": "f6795c89c55529bebb9d26f0d6d038209b528c00"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pacificnm/pacificnm-config/zipball/f6795c89c55529bebb9d26f0d6d038209b528c00",
+                "reference": "f6795c89c55529bebb9d26f0d6d038209b528c00",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5"
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Jaimie Garner",
+                    "email": "pacificnm@gmail.com"
+                }
+            ],
+            "description": "Configuration module for PacificNM",
+            "time": "2016-12-29 18:48:36"
+        },
+        {
+            "name": "pacificnm/pacificnm-controller",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pacificnm/pacificnm-controller.git",
+                "reference": "83b23955fd8625f976bb42a4866a4692fa80a34c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pacificnm/pacificnm-controller/zipball/83b23955fd8625f976bb42a4866a4692fa80a34c",
+                "reference": "83b23955fd8625f976bb42a4866a4692fa80a34c",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5"
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Jaimie Garner",
+                    "email": "pacificnm@gmail.com"
+                }
+            ],
+            "description": "Provides controller functions",
+            "time": "2016-12-29 18:48:09"
+        },
+        {
+            "name": "pacificnm/pacificnm-cron",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pacificnm/pacificnm-cron.git",
+                "reference": "2024887370c86408a97f74ee75abd92136a32582"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pacificnm/pacificnm-cron/zipball/2024887370c86408a97f74ee75abd92136a32582",
+                "reference": "2024887370c86408a97f74ee75abd92136a32582",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5"
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Jaimie Garner",
+                    "email": "pacificnm@gmail.com"
+                }
+            ],
+            "description": "Provides cron system for running jobs and managing jobs.",
+            "time": "2016-12-29 18:57:05"
+        },
+        {
+            "name": "pacificnm/pacificnm-history",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pacificnm/pacificnm-history.git",
+                "reference": "bca144a614a22da18f5f178201e12045a12aad78"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pacificnm/pacificnm-history/zipball/bca144a614a22da18f5f178201e12045a12aad78",
+                "reference": "bca144a614a22da18f5f178201e12045a12aad78",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5"
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Jaimie Garner",
+                    "email": "pacificnm@gmail.com"
+                }
+            ],
+            "description": "Provides history tracking",
+            "time": "2016-12-29 18:47:25"
+        },
+        {
+            "name": "pacificnm/pacificnm-install",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pacificnm/pacificnm-install.git",
+                "reference": "3e486ed387bf8098a71dcb8efd8a68c5e205340e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pacificnm/pacificnm-install/zipball/3e486ed387bf8098a71dcb8efd8a68c5e205340e",
+                "reference": "3e486ed387bf8098a71dcb8efd8a68c5e205340e",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5"
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Jaimie Garner",
+                    "email": "pacificnm@gmail.com"
+                }
+            ],
+            "description": "Pacific NM installer",
+            "time": "2016-12-29 18:46:58"
+        },
+        {
+            "name": "pacificnm/pacificnm-log",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pacificnm/pacificnm-log.git",
+                "reference": "d34b231fe765e4bbae9bd03bb54086de1cf48daf"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pacificnm/pacificnm-log/zipball/d34b231fe765e4bbae9bd03bb54086de1cf48daf",
+                "reference": "d34b231fe765e4bbae9bd03bb54086de1cf48daf",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5"
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Jaimie Garner",
+                    "email": "pacificnm@gmail.com"
+                }
+            ],
+            "description": "Provides log services and managenment",
+            "time": "2016-12-29 18:46:33"
+        },
+        {
+            "name": "pacificnm/pacificnm-menu",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pacificnm/pacificnm-menu.git",
+                "reference": "3352e920f0d978cddf13afe214afbf49da71fe77"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pacificnm/pacificnm-menu/zipball/3352e920f0d978cddf13afe214afbf49da71fe77",
+                "reference": "3352e920f0d978cddf13afe214afbf49da71fe77",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5"
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Jaimie Garner",
+                    "email": "pacificnm@gmail.com"
+                }
+            ],
+            "description": "Provides menus and menu management",
+            "time": "2016-12-29 18:46:03"
+        },
+        {
+            "name": "pacificnm/pacificnm-menu-item",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pacificnm/pacificnm-menu-item.git",
+                "reference": "498212088c50b825ef9c608a78e57f4c50cd08e2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pacificnm/pacificnm-menu-item/zipball/498212088c50b825ef9c608a78e57f4c50cd08e2",
+                "reference": "498212088c50b825ef9c608a78e57f4c50cd08e2",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5"
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Jaimie Garner",
+                    "email": "pacificnm@gmail.com"
+                }
+            ],
+            "description": "Provides menu items",
+            "time": "2016-12-29 18:45:08"
+        },
+        {
+            "name": "pacificnm/pacificnm-module",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pacificnm/pacificnm-module.git",
+                "reference": "62ebd2f5ad21e20d078918fafb2df26f3067c254"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pacificnm/pacificnm-module/zipball/62ebd2f5ad21e20d078918fafb2df26f3067c254",
+                "reference": "62ebd2f5ad21e20d078918fafb2df26f3067c254",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5"
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Jaimie Garner",
+                    "email": "pacificnm@gmail.com"
+                }
+            ],
+            "description": "Provides module management",
+            "time": "2016-12-29 18:41:33"
+        },
+        {
+            "name": "pacificnm/pacificnm-page",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pacificnm/pacificnm-page.git",
+                "reference": "8b8458f4084190bd3d4ac2fc0aa758a2c1d53b8c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pacificnm/pacificnm-page/zipball/8b8458f4084190bd3d4ac2fc0aa758a2c1d53b8c",
+                "reference": "8b8458f4084190bd3d4ac2fc0aa758a2c1d53b8c",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5"
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Jaimie Garner",
+                    "email": "pacificnm@gmail.com"
+                }
+            ],
+            "description": "Provides page services and management",
+            "time": "2016-12-29 18:41:06"
+        },
+        {
+            "name": "pacificnm/pacificnm-update",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pacificnm/pacificnm-update.git",
+                "reference": "ab910fb16fea79715981028fdb487b9c5ee28fdc"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pacificnm/pacificnm-update/zipball/ab910fb16fea79715981028fdb487b9c5ee28fdc",
+                "reference": "ab910fb16fea79715981028fdb487b9c5ee28fdc",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5"
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Jaimie Garner",
+                    "email": "pacificnm@gmail.com"
+                }
+            ],
+            "description": "Provides update functions",
+            "time": "2016-12-29 18:40:43"
         },
         {
             "name": "phpdocumentor/reflection-common",
@@ -698,7 +1194,7 @@
         },
         {
             "name": "phpunit/phpunit-mock-objects",
-            "version": "3.4.3",
+            "version": "3.4.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit-mock-objects.git",
@@ -4615,7 +5111,23 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "pacificnm/pacificnm-admin": 20
+        "pacificnm/pacificnm-acl": 20,
+        "pacificnm/pacificnm-acl-resource": 20,
+        "pacificnm/pacificnm-acl-role": 20,
+        "pacificnm/pacificnm-action": 20,
+        "pacificnm/pacificnm-admin": 20,
+        "pacificnm/pacificnm-auth": 20,
+        "pacificnm/pacificnm-config": 20,
+        "pacificnm/pacificnm-controller": 20,
+        "pacificnm/pacificnm-cron": 20,
+        "pacificnm/pacificnm-history": 20,
+        "pacificnm/pacificnm-install": 20,
+        "pacificnm/pacificnm-log": 20,
+        "pacificnm/pacificnm-menu": 20,
+        "pacificnm/pacificnm-menu-item": 20,
+        "pacificnm/pacificnm-module": 20,
+        "pacificnm/pacificnm-page": 20,
+        "pacificnm/pacificnm-update": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
